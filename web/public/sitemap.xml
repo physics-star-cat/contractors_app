@@ -1,22 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- English -->
   <url><loc>https://lowriskquotes.com/</loc><priority>1.0</priority></url>
   <url><loc>https://lowriskquotes.com/estimate/</loc><priority>0.9</priority></url>
   <url><loc>https://lowriskquotes.com/about/</loc><priority>0.3</priority></url>
+  <url><loc>https://lowriskquotes.com/results/</loc><priority>0.5</priority></url>
   <url><loc>https://lowriskquotes.com/guides/how-to-quote-a-job/</loc><priority>0.8</priority></url>
   <url><loc>https://lowriskquotes.com/guides/bathroom-renovation-costs/</loc><priority>0.7</priority></url>
-  <url><loc>https://lowriskquotes.com/guides/how-much-contingency/</loc><priority>0.7</priority></url>
-  <url><loc>https://lowriskquotes.com/guides/pricing-guide-for-contractors/</loc><priority>0.7</priority></url>
   <url><loc>https://lowriskquotes.com/guides/kitchen-renovation-costs/</loc><priority>0.7</priority></url>
+  <url><loc>https://lowriskquotes.com/guides/roofing-costs/</loc><priority>0.7</priority></url>
   <url><loc>https://lowriskquotes.com/guides/extension-costs/</loc><priority>0.7</priority></url>
   <url><loc>https://lowriskquotes.com/guides/loft-conversion-costs/</loc><priority>0.7</priority></url>
   <url><loc>https://lowriskquotes.com/guides/driveway-costs/</loc><priority>0.7</priority></url>
-  <url><loc>https://lowriskquotes.com/guides/roofing-costs/</loc><priority>0.7</priority></url>
   <url><loc>https://lowriskquotes.com/guides/plastering-costs/</loc><priority>0.7</priority></url>
   <url><loc>https://lowriskquotes.com/guides/painting-and-decorating-costs/</loc><priority>0.7</priority></url>
+  <url><loc>https://lowriskquotes.com/guides/how-much-contingency/</loc><priority>0.7</priority></url>
+  <url><loc>https://lowriskquotes.com/guides/pricing-guide-for-contractors/</loc><priority>0.7</priority></url>
   <url><loc>https://lowriskquotes.com/guides/pricing-a-job-you-havent-done-before/</loc><priority>0.7</priority></url>
   <url><loc>https://lowriskquotes.com/guides/day-rate-vs-fixed-price/</loc><priority>0.7</priority></url>
   <url><loc>https://lowriskquotes.com/guides/handling-price-increases-mid-job/</loc><priority>0.7</priority></url>
   <url><loc>https://lowriskquotes.com/tools/day-rate-calculator/</loc><priority>0.6</priority></url>
   <url><loc>https://lowriskquotes.com/tools/markup-vs-margin-calculator/</loc><priority>0.6</priority></url>
+  <!-- German -->
+  <url><loc>https://lowriskquotes.com/de/</loc><priority>0.9</priority></url>
+  <url><loc>https://lowriskquotes.com/de/estimate/</loc><priority>0.8</priority></url>
+  <url><loc>https://lowriskquotes.com/de/about/</loc><priority>0.3</priority></url>
+  <url><loc>https://lowriskquotes.com/de/results/</loc><priority>0.5</priority></url>
+  <url><loc>https://lowriskquotes.com/de/guides/wie-man-einen-auftrag-kalkuliert/</loc><priority>0.7</priority></url>
+  <url><loc>https://lowriskquotes.com/de/guides/badezimmer-renovierung-kosten/</loc><priority>0.7</priority></url>
+  <url><loc>https://lowriskquotes.com/de/guides/kuchen-renovierung-kosten/</loc><priority>0.7</priority></url>
+  <url><loc>https://lowriskquotes.com/de/guides/dach-kosten/</loc><priority>0.7</priority></url>
+  <url><loc>https://lowriskquotes.com/de/tools/stundensatz-rechner/</loc><priority>0.6</priority></url>
+  <url><loc>https://lowriskquotes.com/de/tools/aufschlag-marge-rechner/</loc><priority>0.6</priority></url>
+  <!-- French -->
+  <url><loc>https://lowriskquotes.com/fr/</loc><priority>0.9</priority></url>
+  <url><loc>https://lowriskquotes.com/fr/estimate/</loc><priority>0.8</priority></url>
+  <url><loc>https://lowriskquotes.com/fr/about/</loc><priority>0.3</priority></url>
+  <url><loc>https://lowriskquotes.com/fr/results/</loc><priority>0.5</priority></url>
+  <url><loc>https://lowriskquotes.com/fr/guides/comment-faire-un-devis/</loc><priority>0.7</priority></url>
+  <url><loc>https://lowriskquotes.com/fr/guides/cout-renovation-salle-de-bain/</loc><priority>0.7</priority></url>
+  <url><loc>https://lowriskquotes.com/fr/guides/cout-renovation-cuisine/</loc><priority>0.7</priority></url>
+  <url><loc>https://lowriskquotes.com/fr/guides/cout-toiture/</loc><priority>0.7</priority></url>
+  <url><loc>https://lowriskquotes.com/fr/tools/calculateur-taux-journalier/</loc><priority>0.6</priority></url>
+  <url><loc>https://lowriskquotes.com/fr/tools/calculateur-marge-majoration/</loc><priority>0.6</priority></url>
+  <!-- Polish -->
+  <url><loc>https://lowriskquotes.com/pl/</loc><priority>0.9</priority></url>
+  <url><loc>https://lowriskquotes.com/pl/estimate/</loc><priority>0.8</priority></url>
+  <url><loc>https://lowriskquotes.com/pl/about/</loc><priority>0.3</priority></url>
+  <url><loc>https://lowriskquotes.com/pl/results/</loc><priority>0.5</priority></url>
+  <url><loc>https://lowriskquotes.com/pl/guides/jak-wycenic-zlecenie/</loc><priority>0.7</priority></url>
+  <url><loc>https://lowriskquotes.com/pl/guides/koszty-remontu-lazienki/</loc><priority>0.7</priority></url>
+  <url><loc>https://lowriskquotes.com/pl/guides/koszty-remontu-kuchni/</loc><priority>0.7</priority></url>
+  <url><loc>https://lowriskquotes.com/pl/guides/koszty-dachu/</loc><priority>0.7</priority></url>
+  <url><loc>https://lowriskquotes.com/pl/tools/kalkulator-stawki-dziennej/</loc><priority>0.6</priority></url>
+  <url><loc>https://lowriskquotes.com/pl/tools/kalkulator-marzy-narzutu/</loc><priority>0.6</priority></url>
+  <!-- Dutch -->
+  <url><loc>https://lowriskquotes.com/nl/</loc><priority>0.9</priority></url>
+  <url><loc>https://lowriskquotes.com/nl/estimate/</loc><priority>0.8</priority></url>
+  <url><loc>https://lowriskquotes.com/nl/about/</loc><priority>0.3</priority></url>
+  <url><loc>https://lowriskquotes.com/nl/results/</loc><priority>0.5</priority></url>
+  <url><loc>https://lowriskquotes.com/nl/guides/hoe-maak-je-een-offerte/</loc><priority>0.7</priority></url>
+  <url><loc>https://lowriskquotes.com/nl/guides/badkamer-renovatie-kosten/</loc><priority>0.7</priority></url>
+  <url><loc>https://lowriskquotes.com/nl/guides/keuken-renovatie-kosten/</loc><priority>0.7</priority></url>
+  <url><loc>https://lowriskquotes.com/nl/guides/dakwerk-kosten/</loc><priority>0.7</priority></url>
+  <url><loc>https://lowriskquotes.com/nl/tools/dagtarief-calculator/</loc><priority>0.6</priority></url>
+  <url><loc>https://lowriskquotes.com/nl/tools/opslag-marge-calculator/</loc><priority>0.6</priority></url>
+  <!-- Spanish -->
+  <url><loc>https://lowriskquotes.com/es/</loc><priority>0.9</priority></url>
+  <url><loc>https://lowriskquotes.com/es/estimate/</loc><priority>0.8</priority></url>
+  <url><loc>https://lowriskquotes.com/es/about/</loc><priority>0.3</priority></url>
+  <url><loc>https://lowriskquotes.com/es/results/</loc><priority>0.5</priority></url>
+  <url><loc>https://lowriskquotes.com/es/guides/como-hacer-un-presupuesto/</loc><priority>0.7</priority></url>
+  <url><loc>https://lowriskquotes.com/es/guides/costes-reforma-bano/</loc><priority>0.7</priority></url>
+  <url><loc>https://lowriskquotes.com/es/guides/costes-reforma-cocina/</loc><priority>0.7</priority></url>
+  <url><loc>https://lowriskquotes.com/es/guides/costes-tejado/</loc><priority>0.7</priority></url>
+  <url><loc>https://lowriskquotes.com/es/tools/calculadora-tarifa-diaria/</loc><priority>0.6</priority></url>
+  <url><loc>https://lowriskquotes.com/es/tools/calculadora-margen-recargo/</loc><priority>0.6</priority></url>
 </urlset>
