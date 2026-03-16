@@ -1,0 +1,20 @@
+:root {
+  --bg-primary: #0a0a0a;
+  --bg-secondary: #111111;
+  --bg-tertiary: #1a1a1a;
+  --text-primary: #e0e0e0;
+  --text-secondary: #999999;
+  --text-dim: #555555;
+  --accent-amber: #f59e0b;
+  --accent-red: #dc2626;
+  --accent-green: #22c55e;
+  --accent-blue: #3b82f6;
+  --border-color: #333333;
+  --border-bright: #555555;
+  --font-mono: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace;
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 16px;
+  --spacing-lg: 24px;
+  --spacing-xl: 32px;
+}

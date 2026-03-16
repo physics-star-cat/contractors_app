@@ -1,0 +1,23 @@
+.ascii-logo__full {
+  color: var(--accent-amber);
+  font-size: 7px;
+  line-height: 1.1;
+  overflow: hidden;
+}
+
+.ascii-logo__small {
+  display: none;
+  color: var(--accent-amber);
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+@media (max-width: 600px) {
+  .ascii-logo__full {
+    display: none;
+  }
+  .ascii-logo__small {
+    display: inline;
+  }
+}

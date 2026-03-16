@@ -1,0 +1,37 @@
+.recent__item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: var(--spacing-xs) 0;
+  font-size: 12px;
+  color: var(--text-secondary);
+}
+
+.recent__name {
+  color: var(--accent-amber);
+  cursor: pointer;
+  flex: 1;
+}
+
+.recent__name:hover {
+  text-decoration: underline;
+}
+
+.recent__date {
+  margin: 0 var(--spacing-md);
+  color: var(--text-dim);
+}
+
+.recent__delete {
+  color: var(--text-dim);
+  cursor: pointer;
+  background: none;
+  border: none;
+  padding: 0;
+  font-size: 12px;
+}
+
+.recent__delete:hover {
+  color: var(--accent-red);
+  background: none;
+}

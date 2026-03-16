@@ -1,0 +1,14 @@
+.footer {
+  margin-top: var(--spacing-xl);
+  padding: var(--spacing-md) 0;
+}
+
+.footer__separator {
+  color: var(--border-color);
+  margin-bottom: var(--spacing-sm);
+}
+
+.footer__text {
+  font-size: 11px;
+  color: var(--text-dim);
+}

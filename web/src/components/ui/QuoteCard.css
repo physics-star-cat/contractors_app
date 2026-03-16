@@ -1,0 +1,37 @@
+.quote-card {
+  font-size: 13px;
+  margin-bottom: var(--spacing-sm);
+}
+
+.quote-card__header, .quote-card__footer {
+  color: var(--border-color);
+}
+
+.quote-card--recommended .quote-card__header,
+.quote-card--recommended .quote-card__footer {
+  color: var(--accent-amber);
+}
+
+.quote-card__body {
+  padding: var(--spacing-xs) var(--spacing-md);
+}
+
+.quote-card__amount {
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.quote-card--recommended .quote-card__amount {
+  color: var(--accent-amber);
+}
+
+.quote-card__percentile {
+  color: var(--text-secondary);
+  font-size: 12px;
+}
+
+.quote-card__desc {
+  color: var(--text-dim);
+  font-size: 11px;
+}

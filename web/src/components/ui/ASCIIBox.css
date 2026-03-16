@@ -1,0 +1,29 @@
+.ascii-box {
+  margin-bottom: var(--spacing-md);
+}
+
+.ascii-box__header, .ascii-box__footer {
+  color: var(--border-color);
+  font-size: 12px;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.ascii-box--highlight .ascii-box__header,
+.ascii-box--highlight .ascii-box__footer {
+  color: var(--accent-amber);
+}
+
+.ascii-box--warning .ascii-box__header,
+.ascii-box--warning .ascii-box__footer {
+  color: var(--accent-red);
+}
+
+.ascii-box__title {
+  color: var(--text-primary);
+  font-weight: 500;
+}
+
+.ascii-box__content {
+  padding: var(--spacing-sm) var(--spacing-md);
+}
