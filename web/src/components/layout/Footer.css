@@ -12,3 +12,10 @@
   font-size: 11px;
   color: var(--text-dim);
 }
+
+.footer__disclaimer {
+  font-size: 10px;
+  color: var(--text-dim);
+  margin-top: var(--spacing-xs);
+  opacity: 0.6;
+}
