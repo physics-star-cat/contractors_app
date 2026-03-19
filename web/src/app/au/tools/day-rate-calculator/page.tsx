@@ -215,7 +215,7 @@ export default function AUDayRateCalculatorPage() {
         }}
       >
         Need to quote a full job?{' '}
-        <Link href="/estimate/">
+        <Link href="/au/estimate/">
           [START ESTIMATE]
         </Link>
       </div>

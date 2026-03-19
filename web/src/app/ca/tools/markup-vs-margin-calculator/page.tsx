@@ -235,7 +235,7 @@ export default function MarkupVsMarginCalculatorPageCA() {
         }}
       >
         Need to quote a full job?{' '}
-        <Link href="/estimate/">
+        <Link href="/ca/estimate/">
           [START ESTIMATE]
         </Link>
       </div>

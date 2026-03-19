@@ -79,7 +79,7 @@ export default function AboutPageCA() {
         <Link href="/ca/guides/how-to-quote-a-job/" style={{ marginRight: '16px' }}>
           [READ THE GUIDE]
         </Link>
-        <Link href="/estimate/">
+        <Link href="/ca/estimate/">
           [START ESTIMATING]
         </Link>
       </div>

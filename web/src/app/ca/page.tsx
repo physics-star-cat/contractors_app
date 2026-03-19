@@ -50,7 +50,7 @@ export default function HomePageCA() {
       <RecentEstimates />
 
       <section className="home__cta">
-        <Link href="/estimate/" className="home__cta-button">[START ESTIMATE]</Link>
+        <Link href="/ca/estimate/" className="home__cta-button">[START ESTIMATE]</Link>
       </section>
 
       <section className="home__seo">

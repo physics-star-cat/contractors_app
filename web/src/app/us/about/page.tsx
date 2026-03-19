@@ -62,7 +62,7 @@ export default function AboutPage() {
         <Link href="/us/guides/how-to-bid-a-job/" style={{ marginRight: '16px' }}>
           [READ THE GUIDE]
         </Link>
-        <Link href="/estimate/">
+        <Link href="/us/estimate/">
           [START ESTIMATING]
         </Link>
       </div>

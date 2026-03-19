@@ -234,7 +234,7 @@ export default function MarkupVsMarginCalculatorPage() {
         }}
       >
         Need to bid a full job?{' '}
-        <Link href="/estimate/">
+        <Link href="/us/estimate/">
           [START ESTIMATE]
         </Link>
       </div>

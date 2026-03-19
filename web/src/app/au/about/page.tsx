@@ -72,7 +72,7 @@ export default function AUAboutPage() {
         <Link href="/au/guides/how-to-quote-a-job/" style={{ marginRight: '16px' }}>
           [READ THE GUIDE]
         </Link>
-        <Link href="/estimate/">
+        <Link href="/au/estimate/">
           [START ESTIMATING]
         </Link>
       </div>
