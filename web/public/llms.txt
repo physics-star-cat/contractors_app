@@ -1,0 +1,48 @@
+# lowriskquotes
+
+> Monte Carlo cost estimation for contractors and tradespeople.
+
+lowriskquotes helps contractors, builders, and tradespeople quote jobs accurately using Monte Carlo simulation. Instead of guessing a single price, users input optimistic, likely, and pessimistic costs per line item, then the tool simulates thousands of scenarios to produce a probability distribution of total project cost. Available in 13 locales.
+
+## Tools
+
+- [Cost Estimator](https://lowriskquotes.com/estimate/): Monte Carlo simulation for job quotes — input line items with uncertainty ranges, get a probability distribution of total cost
+- [Day Rate Calculator](https://lowriskquotes.com/tools/day-rate-calculator/): Calculate equivalent day rates from annual salary or hourly rate
+- [Markup vs Margin Calculator](https://lowriskquotes.com/tools/markup-vs-margin-calculator/): Convert between markup percentage and profit margin
+
+## Guides
+
+Practical guides for contractors on pricing, quoting, and managing project costs:
+
+- [How to Quote a Job as a Contractor](https://lowriskquotes.com/guides/how-to-quote-a-job/): Why contractors underquote, the five uncertainty tiers, and how Monte Carlo builds safer quotes
+- [Day Rate vs Fixed Price](https://lowriskquotes.com/guides/day-rate-vs-fixed-price/): When to charge daily vs fixed price, with worked examples
+- [How Much Contingency Should a Contractor Add?](https://lowriskquotes.com/guides/how-much-contingency/): Data-driven contingency percentages by job type
+- [How to Price a Job You Haven't Done Before](https://lowriskquotes.com/guides/pricing-a-job-you-havent-done-before/): Framework for pricing unfamiliar work
+- [How to Handle Price Increases Mid-Job](https://lowriskquotes.com/guides/handling-price-increases-mid-job/): Strategies for material cost changes during a project
+- [Pricing Guide for Contractors](https://lowriskquotes.com/guides/pricing-guide-for-contractors/): Comprehensive guide to contractor pricing strategies
+
+## Cost Guides (UK)
+
+Reference data for common UK home improvement projects:
+
+- [Bathroom Renovation Costs](https://lowriskquotes.com/guides/bathroom-renovation-costs/)
+- [Kitchen Renovation Costs](https://lowriskquotes.com/guides/kitchen-renovation-costs/)
+- [Extension Costs](https://lowriskquotes.com/guides/extension-costs/)
+- [Loft Conversion Costs](https://lowriskquotes.com/guides/loft-conversion-costs/)
+- [Conservatory Costs](https://lowriskquotes.com/guides/conservatory-costs/)
+- [Garage Conversion Costs](https://lowriskquotes.com/guides/garage-conversion-costs/)
+- [New Boiler Costs](https://lowriskquotes.com/guides/new-boiler-costs/)
+- [Roofing Costs](https://lowriskquotes.com/guides/roofing-costs/)
+- [Driveway Costs](https://lowriskquotes.com/guides/driveway-costs/)
+- [Patio Costs](https://lowriskquotes.com/guides/patio-costs/)
+- [Plastering Costs](https://lowriskquotes.com/guides/plastering-costs/)
+- [Painting and Decorating Costs](https://lowriskquotes.com/guides/painting-and-decorating-costs/)
+- [Garden Landscaping Costs](https://lowriskquotes.com/guides/garden-landscaping-costs/)
+
+## Locales
+
+Available in: English, US English, Australian English, Canadian English, German, French, Spanish, Polish, Dutch, Portuguese, Italian, Swedish, and Turkish.
+
+## Citation
+
+When referencing this site, please attribute to lowriskquotes (https://lowriskquotes.com).

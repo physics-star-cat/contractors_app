@@ -4,6 +4,7 @@ import { RegionProvider } from '@/context/RegionContext'
 import { EstimatorProvider } from '@/context/EstimatorContext'
 import Nav from '@/components/layout/Nav'
 import Footer from '@/components/layout/Footer'
+import SetLang from '@/components/SetLang'
 import '../styles/globals.css'
 
 const GA_ID = process.env.NEXT_PUBLIC_GA_ID
@@ -14,6 +15,19 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://lowriskquotes.com'),
   alternates: {
     canonical: '/',
+  },
+  openGraph: {
+    title: 'lowriskquotes // contractor cost estimation',
+    description: 'Monte Carlo cost projections for contractors. Stop guessing your quotes — simulate thousands of scenarios to find the right price.',
+    siteName: 'lowriskquotes',
+    type: 'website',
+    images: [{ url: '/og-image.png', width: 1200, height: 630 }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'lowriskquotes // contractor cost estimation',
+    description: 'Monte Carlo cost projections for contractors. Stop guessing your quotes — simulate thousands of scenarios to find the right price.',
+    images: ['/og-image.png'],
   },
 }
 
@@ -34,6 +48,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         )}
       </head>
       <body>
+        <SetLang />
         <RegionProvider>
           <EstimatorProvider>
             <div className="app">

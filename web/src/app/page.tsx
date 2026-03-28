@@ -22,9 +22,32 @@ Materials      [\u2588\u2588\u2588\u2588\u2588\u2588\u2591\u2591\u2591\u2591\u25
 Duration       [\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591] 45%
 Travel         [\u2588\u2588\u2588\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591] 15%`
 
+const organizationSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: 'lowriskquotes',
+  url: 'https://lowriskquotes.com/',
+  description: 'Monte Carlo cost estimation for contractors and tradespeople.',
+}
+
+const webSiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'lowriskquotes',
+  url: 'https://lowriskquotes.com/',
+}
+
 export default function HomePage() {
   return (
     <div className="home">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(webSiteSchema) }}
+      />
       <section className="home__hero">
         <ASCIILogo />
         <p className="home__tagline">stop guessing // start simulating</p>
