@@ -6,7 +6,7 @@ import '../../../guides/guides.css'
 export const metadata: Metadata = {
   title: 'Driveway Costs Australia 2026 // lowriskquotes',
   description:
-    'Realistic driveway costs for Australian tradies. Exposed aggregate, plain concrete, asphalt, and paver driveways — full cost breakdown in AUD with risk ratings.',
+    'How much does a new driveway cost in Australia? 2026 prices for exposed aggregate, concrete, asphalt, and pavers — per square metre, with real quotes and hidden costs to watch for.',
   alternates: { canonical: '/au/guides/driveway-costs/' },
 }
 

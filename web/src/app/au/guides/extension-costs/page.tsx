@@ -6,7 +6,7 @@ import '../../../guides/guides.css'
 export const metadata: Metadata = {
   title: 'House Extension Costs Australia 2026 // lowriskquotes',
   description:
-    'Realistic house extension costs for Australian builders and tradies. Full cost breakdown in AUD with risk ratings for single-storey and double-storey extensions.',
+    'How much does a house extension cost in Australia? 2026 prices per square metre for single and double-storey builds, plus the hidden costs that blow budgets.',
   alternates: { canonical: '/au/guides/extension-costs/' },
 }
 

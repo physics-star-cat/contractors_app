@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 export const metadata: Metadata = {
   title: 'day rate calculator for Canadian contractors // lowriskquotes',
   description:
-    'Calculate your day rate, weekly rate, and annual income from your hourly rate in CAD. Free tool for Canadian contractors and tradespeople.',
+    'Turn your hourly rate into a day rate, weekly rate, and annual income in CAD. Free calculator for Canadian contractors — accounts for billable days and expenses.',
   alternates: { canonical: '/ca/tools/day-rate-calculator/' },
 }
 
