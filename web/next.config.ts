@@ -1,7 +1,8 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  output: 'export',
+  // 'export' removed 2026-08-30: /api route handlers (agent API + MCP) need
+  // serverless functions. All pages remain statically prerendered by Vercel.
   trailingSlash: true,
 };
 

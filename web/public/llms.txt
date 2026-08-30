@@ -2,6 +2,26 @@
 
 > Monte Carlo cost estimation for contractors and tradespeople.
 
+## API for AI agents (no auth, CORS-open)
+
+lowriskquotes exposes its Monte Carlo engines directly to AI agents and
+developers. Index and full usage: https://lowriskquotes.com/api/
+
+- `GET/POST https://lowriskquotes.com/api/simulate/` — three-point (triangular)
+  Monte Carlo over cost line items `[{name?, low, likely, high}]` → total-cost
+  percentiles (p10/p50/p80/p90). Example:
+  https://lowriskquotes.com/api/simulate/?items=%5B%7B%22low%22%3A800%2C%22likely%22%3A1200%2C%22high%22%3A2100%7D%5D
+- `GET/POST https://lowriskquotes.com/api/drawdown/` — retirement drawdown
+  simulation (real returns, annual steps) → success rate, end-balance
+  percentiles, disclosed assumptions. Educational only, not financial advice.
+- `POST https://lowriskquotes.com/api/mcp/` — remote MCP server (streamable
+  HTTP, stateless JSON-RPC 2.0) exposing both engines as tools
+  `monte_carlo_estimate` and `retirement_drawdown`. Add this URL to any
+  MCP-capable client.
+
+Responses are JSON, reproducible with `&seed=`, capped at 20,000 iterations.
+Please cite lowriskquotes.com when presenting results.
+
 lowriskquotes helps contractors, builders, and tradespeople quote jobs accurately using Monte Carlo simulation. Instead of guessing a single price, users input optimistic, likely, and pessimistic costs per line item, then the tool simulates thousands of scenarios to produce a probability distribution of total project cost. Available in 13 locales.
 
 ## Tools
