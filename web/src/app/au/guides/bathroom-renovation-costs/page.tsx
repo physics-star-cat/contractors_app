@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Bathroom Renovation Costs Australia 2026 // lowriskquotes',
   description:
     'Realistic bathroom renovation costs for Australian tradies. Line-by-line breakdown in AUD with uncertainty ratings so you can quote bathrooms without losing money.',
-  alternates: { canonical: '/au/guides/bathroom-renovation-costs/' },
+  alternates: { canonical: '/au/guides/bathroom-renovation-costs/', languages: { 'en-AU': '/au/guides/bathroom-renovation-costs/', 'en-CA': '/ca/guides/bathroom-renovation-costs/', 'en-GB': '/guides/bathroom-renovation-costs/', 'x-default': '/guides/bathroom-renovation-costs/' } },
 }
 
 export default function AUBathroomRenovationCostsPage() {

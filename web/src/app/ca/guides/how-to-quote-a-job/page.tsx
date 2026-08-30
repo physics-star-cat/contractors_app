@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'How to Quote a Job as a Canadian Contractor // lowriskquotes',
   description:
     'A practical guide to quoting jobs accurately in Canada. Learn why contractors underquote, how to assess risk on each line item, and how Monte Carlo simulation builds safer quotes in CAD.',
-  alternates: { canonical: '/ca/guides/how-to-quote-a-job/' },
+  alternates: { canonical: '/ca/guides/how-to-quote-a-job/', languages: { 'en-AU': '/au/guides/how-to-quote-a-job/', 'en-CA': '/ca/guides/how-to-quote-a-job/', 'en-GB': '/guides/how-to-quote-a-job/', 'x-default': '/guides/how-to-quote-a-job/' } },
 }
 
 export default function HowToQuoteAJobPageCA() {

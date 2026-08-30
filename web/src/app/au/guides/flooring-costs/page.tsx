@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Flooring Costs Australia 2026 // lowriskquotes',
   description:
     'Australian flooring costs per square metre — hybrid, timber, tiles, polished concrete. Real tradie pricing with subfloor prep and risk ratings.',
-  alternates: { canonical: '/au/guides/flooring-costs/' },
+  alternates: { canonical: '/au/guides/flooring-costs/', languages: { 'en-AU': '/au/guides/flooring-costs/', 'en-CA': '/ca/guides/flooring-costs/', 'en-US': '/us/guides/flooring-costs/', 'x-default': '/us/guides/flooring-costs/' } },
 }
 
 export default function AUFlooringCostsPage() {

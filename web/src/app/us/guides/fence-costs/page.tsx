@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Fence Costs US 2026 // lowriskquotes',
   description:
     'Realistic fence installation costs for US contractors. Line-by-line breakdown with uncertainty ratings so you can bid fence jobs without losing money.',
-  alternates: { canonical: '/us/guides/fence-costs/' },
+  alternates: { canonical: '/us/guides/fence-costs/', languages: { 'en-CA': '/ca/guides/fence-costs/', 'en-US': '/us/guides/fence-costs/', 'x-default': '/us/guides/fence-costs/' } },
 }
 
 export default function FenceCostsPage() {

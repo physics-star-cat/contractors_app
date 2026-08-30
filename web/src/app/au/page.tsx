@@ -7,8 +7,8 @@ import '../page.css'
 
 export const metadata: Metadata = {
   title: 'lowriskquotes // tradie cost estimation Australia',
-  description: 'Monte Carlo cost projections for Australian tradies. Stop guessing your quotes — simulate thousands of scenarios to find the right price in AUD.',
-  alternates: { canonical: '/au/' },
+  description: 'Stop losing money on quotes. Build your estimate line by line, set risk levels on each item, and get a realistic price range in AUD.',
+  alternates: { canonical: '/au/', languages: { 'en-AU': '/au/', 'en-CA': '/ca/', 'en-GB': '/', 'en-US': '/us/', 'x-default': '/' } },
 }
 
 const SAMPLE_OUTPUT = `┌────────────────┬──────────┐

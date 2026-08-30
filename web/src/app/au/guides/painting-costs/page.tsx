@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Painting Costs Australia 2026 // lowriskquotes',
   description:
     'Realistic painting costs for Australian tradies. Interior and exterior painting — full cost breakdown in AUD with risk ratings to help you quote painting jobs accurately.',
-  alternates: { canonical: '/au/guides/painting-costs/' },
+  alternates: { canonical: '/au/guides/painting-costs/', languages: { 'en-AU': '/au/guides/painting-costs/', 'en-CA': '/ca/guides/painting-costs/', 'en-US': '/us/guides/painting-costs/', 'x-default': '/us/guides/painting-costs/' } },
 }
 
 export default function AUPaintingCostsPage() {

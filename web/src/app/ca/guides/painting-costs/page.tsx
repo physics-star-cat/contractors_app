@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Painting Costs Canada 2026 // lowriskquotes',
   description:
     'Realistic interior and exterior painting costs for Canadian contractors in CAD. Room-by-room breakdown with risk ratings so you can quote painting jobs accurately.',
-  alternates: { canonical: '/ca/guides/painting-costs/' },
+  alternates: { canonical: '/ca/guides/painting-costs/', languages: { 'en-AU': '/au/guides/painting-costs/', 'en-CA': '/ca/guides/painting-costs/', 'en-US': '/us/guides/painting-costs/', 'x-default': '/us/guides/painting-costs/' } },
 }
 
 export default function PaintingCostsPageCA() {

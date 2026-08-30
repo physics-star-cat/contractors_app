@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Flooring Costs Canada 2026 // lowriskquotes',
   description:
     'Realistic flooring installation costs for Canadian contractors in CAD. Covers LVP, engineered hardwood, tile, and laminate with per-square-foot pricing and subfloor prep considerations.',
-  alternates: { canonical: '/ca/guides/flooring-costs/' },
+  alternates: { canonical: '/ca/guides/flooring-costs/', languages: { 'en-AU': '/au/guides/flooring-costs/', 'en-CA': '/ca/guides/flooring-costs/', 'en-US': '/us/guides/flooring-costs/', 'x-default': '/us/guides/flooring-costs/' } },
 }
 
 export default function FlooringCostsPageCA() {

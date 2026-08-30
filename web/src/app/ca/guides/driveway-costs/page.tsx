@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Driveway Costs Canada 2026 // lowriskquotes',
   description:
     'Realistic driveway costs for Canadian contractors in CAD. Asphalt, interlock, concrete, and gravel — with freeze-thaw considerations and line-by-line risk ratings.',
-  alternates: { canonical: '/ca/guides/driveway-costs/' },
+  alternates: { canonical: '/ca/guides/driveway-costs/', languages: { 'en-AU': '/au/guides/driveway-costs/', 'en-CA': '/ca/guides/driveway-costs/', 'en-GB': '/guides/driveway-costs/', 'en-US': '/us/guides/driveway-costs/', 'x-default': '/guides/driveway-costs/' } },
 }
 
 export default function DrivewayCostsPageCA() {

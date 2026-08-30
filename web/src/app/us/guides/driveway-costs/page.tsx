@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'driveway costs // lowriskquotes',
   description:
     'Realistic driveway costs for US contractors. Concrete, asphalt, pavers, and gravel — with line-by-line risk ratings so you bid driveways without losing your shirt.',
-  alternates: { canonical: '/us/guides/driveway-costs/' },
+  alternates: { canonical: '/us/guides/driveway-costs/', languages: { 'en-AU': '/au/guides/driveway-costs/', 'en-CA': '/ca/guides/driveway-costs/', 'en-GB': '/guides/driveway-costs/', 'en-US': '/us/guides/driveway-costs/', 'x-default': '/guides/driveway-costs/' } },
 }
 
 export default function DrivewayCostsPage() {

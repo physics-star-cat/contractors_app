@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'How to Price a Job You Haven\'t Done Before // lowriskquotes Canada',
   description:
     'Practical advice for Canadian contractors quoting unfamiliar work. How to get material prices, talk to other trades, use risk tiers honestly, and build learning time into your quote.',
-  alternates: { canonical: '/ca/guides/pricing-a-job-you-havent-done-before/' },
+  alternates: { canonical: '/ca/guides/pricing-a-job-you-havent-done-before/', languages: { 'en-AU': '/au/guides/pricing-a-job-you-havent-done-before/', 'en-CA': '/ca/guides/pricing-a-job-you-havent-done-before/', 'en-GB': '/guides/pricing-a-job-you-havent-done-before/', 'en-US': '/us/guides/pricing-a-job-you-havent-done-before/', 'x-default': '/guides/pricing-a-job-you-havent-done-before/' } },
 }
 
 export default function PricingAJobYouHaventDoneBeforePageCA() {

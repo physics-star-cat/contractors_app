@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Kitchen Renovation Costs Australia 2026 // lowriskquotes',
   description:
     'Realistic kitchen renovation costs for Australian tradies. Full line-by-line cost breakdown in AUD with risk ratings to help you quote kitchen jobs accurately.',
-  alternates: { canonical: '/au/guides/kitchen-renovation-costs/' },
+  alternates: { canonical: '/au/guides/kitchen-renovation-costs/', languages: { 'en-AU': '/au/guides/kitchen-renovation-costs/', 'en-CA': '/ca/guides/kitchen-renovation-costs/', 'en-GB': '/guides/kitchen-renovation-costs/', 'x-default': '/guides/kitchen-renovation-costs/' } },
 }
 
 export default function AUKitchenRenovationCostsPage() {

@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Day Rate vs Fixed Price for Australian Tradies // lowriskquotes',
   description:
     'Should Australian tradies charge a day rate or fixed price? Pros, cons, and when to use each. Practical advice with AUD examples.',
-  alternates: { canonical: '/au/guides/day-rate-vs-fixed-price/' },
+  alternates: { canonical: '/au/guides/day-rate-vs-fixed-price/', languages: { 'en-AU': '/au/guides/day-rate-vs-fixed-price/', 'en-CA': '/ca/guides/day-rate-vs-fixed-price/', 'en-GB': '/guides/day-rate-vs-fixed-price/', 'en-US': '/us/guides/day-rate-vs-fixed-price/', 'x-default': '/guides/day-rate-vs-fixed-price/' } },
 }
 
 export default function AUDayRateVsFixedPricePage() {

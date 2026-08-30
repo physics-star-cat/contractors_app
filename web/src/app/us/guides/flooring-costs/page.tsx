@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Flooring Costs US 2026 // lowriskquotes',
   description:
     'Realistic flooring installation costs for US contractors. Line-by-line breakdown with uncertainty ratings so you can bid flooring jobs without losing money.',
-  alternates: { canonical: '/us/guides/flooring-costs/' },
+  alternates: { canonical: '/us/guides/flooring-costs/', languages: { 'en-AU': '/au/guides/flooring-costs/', 'en-CA': '/ca/guides/flooring-costs/', 'en-US': '/us/guides/flooring-costs/', 'x-default': '/us/guides/flooring-costs/' } },
 }
 
 export default function FlooringCostsPage() {

@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Driveway Costs Australia 2026 // lowriskquotes',
   description:
     'How much does a new driveway cost in Australia? 2026 prices for exposed aggregate, concrete, asphalt, and pavers — per square metre, with real quotes and hidden costs to watch for.',
-  alternates: { canonical: '/au/guides/driveway-costs/' },
+  alternates: { canonical: '/au/guides/driveway-costs/', languages: { 'en-AU': '/au/guides/driveway-costs/', 'en-CA': '/ca/guides/driveway-costs/', 'en-GB': '/guides/driveway-costs/', 'en-US': '/us/guides/driveway-costs/', 'x-default': '/guides/driveway-costs/' } },
 }
 
 export default function AUDriverwayCostsPage() {

@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'How Much Contingency Should a Tradie Add? // lowriskquotes',
   description:
     'How much contingency should Australian tradies add to their quotes? Why flat percentages fail and how risk-weighted contingency protects your margin. AUD examples.',
-  alternates: { canonical: '/au/guides/how-much-contingency/' },
+  alternates: { canonical: '/au/guides/how-much-contingency/', languages: { 'en-AU': '/au/guides/how-much-contingency/', 'en-CA': '/ca/guides/how-much-contingency/', 'en-GB': '/guides/how-much-contingency/', 'en-US': '/us/guides/how-much-contingency/', 'x-default': '/guides/how-much-contingency/' } },
 }
 
 export default function AUHowMuchContingencyPage() {

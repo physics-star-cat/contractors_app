@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'House Extension Costs Australia 2026 // lowriskquotes',
   description:
     'How much does a house extension cost in Australia? 2026 prices per square metre for single and double-storey builds, plus the hidden costs that blow budgets.',
-  alternates: { canonical: '/au/guides/extension-costs/' },
+  alternates: { canonical: '/au/guides/extension-costs/', languages: { 'en-AU': '/au/guides/extension-costs/', 'en-CA': '/ca/guides/extension-costs/', 'en-GB': '/guides/extension-costs/', 'x-default': '/guides/extension-costs/' } },
 }
 
 export default function AUExtensionCostsPage() {

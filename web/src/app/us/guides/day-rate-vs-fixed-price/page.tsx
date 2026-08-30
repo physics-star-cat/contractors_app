@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'T&M vs fixed bid — which is better // lowriskquotes',
   description:
     'When should contractors charge time and materials vs a fixed bid? Pros and cons of each approach, how to protect yourself on fixed-price work, and hybrid strategies that work.',
-  alternates: { canonical: '/us/guides/day-rate-vs-fixed-price/' },
+  alternates: { canonical: '/us/guides/day-rate-vs-fixed-price/', languages: { 'en-AU': '/au/guides/day-rate-vs-fixed-price/', 'en-CA': '/ca/guides/day-rate-vs-fixed-price/', 'en-GB': '/guides/day-rate-vs-fixed-price/', 'en-US': '/us/guides/day-rate-vs-fixed-price/', 'x-default': '/guides/day-rate-vs-fixed-price/' } },
 }
 
 export default function DayRateVsFixedPricePage() {

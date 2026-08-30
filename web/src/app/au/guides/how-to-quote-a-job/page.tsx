@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'How to Quote a Job as a Tradie in Australia // lowriskquotes',
   description:
     'A practical guide to quoting jobs accurately for Australian tradies. Learn why tradies underquote, how to assess risk on each line item, and how Monte Carlo simulation builds safer quotes. All examples in AUD.',
-  alternates: { canonical: '/au/guides/how-to-quote-a-job/' },
+  alternates: { canonical: '/au/guides/how-to-quote-a-job/', languages: { 'en-AU': '/au/guides/how-to-quote-a-job/', 'en-CA': '/ca/guides/how-to-quote-a-job/', 'en-GB': '/guides/how-to-quote-a-job/', 'x-default': '/guides/how-to-quote-a-job/' } },
 }
 
 export default function AUHowToQuoteAJobPage() {

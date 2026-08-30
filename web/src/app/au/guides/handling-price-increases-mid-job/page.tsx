@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Handling Price Increases Mid-Job for Australian Tradies // lowriskquotes',
   description:
     'How Australian tradies can handle material price increases, supply delays, and cost blowouts during a job. Practical advice with AUD examples.',
-  alternates: { canonical: '/au/guides/handling-price-increases-mid-job/' },
+  alternates: { canonical: '/au/guides/handling-price-increases-mid-job/', languages: { 'en-AU': '/au/guides/handling-price-increases-mid-job/', 'en-CA': '/ca/guides/handling-price-increases-mid-job/', 'en-GB': '/guides/handling-price-increases-mid-job/', 'en-US': '/us/guides/handling-price-increases-mid-job/', 'x-default': '/guides/handling-price-increases-mid-job/' } },
 }
 
 export default function AUHandlingPriceIncreasesPage() {

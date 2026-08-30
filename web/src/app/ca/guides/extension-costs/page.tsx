@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'How Much Does a Home Addition Cost in Canada // lowriskquotes',
   description:
     'Realistic home addition and extension costs for Canadian contractors in CAD. Single-storey and two-storey breakdowns with risk ratings on every line item so you can quote additions without getting burned.',
-  alternates: { canonical: '/ca/guides/extension-costs/' },
+  alternates: { canonical: '/ca/guides/extension-costs/', languages: { 'en-AU': '/au/guides/extension-costs/', 'en-CA': '/ca/guides/extension-costs/', 'en-GB': '/guides/extension-costs/', 'x-default': '/guides/extension-costs/' } },
 }
 
 export default function ExtensionCostsPageCA() {

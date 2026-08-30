@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'how much does a house extension cost // lowriskquotes',
   description:
     'Realistic house extension costs for UK contractors. Single-storey and two-storey breakdowns with risk ratings on every line item so you can quote extensions without getting burned.',
-  alternates: { canonical: '/guides/extension-costs/' },
+  alternates: { canonical: '/guides/extension-costs/', languages: { 'en-AU': '/au/guides/extension-costs/', 'en-CA': '/ca/guides/extension-costs/', 'en-GB': '/guides/extension-costs/', 'x-default': '/guides/extension-costs/' } },
 }
 
 export default function ExtensionCostsPage() {

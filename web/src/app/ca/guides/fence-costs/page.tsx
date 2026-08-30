@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Fence Costs Canada 2026 // lowriskquotes',
   description:
     'Realistic fence installation costs for Canadian contractors in CAD. Covers pressure-treated wood, cedar, and vinyl fencing with per-linear-foot pricing and frost heave considerations.',
-  alternates: { canonical: '/ca/guides/fence-costs/' },
+  alternates: { canonical: '/ca/guides/fence-costs/', languages: { 'en-CA': '/ca/guides/fence-costs/', 'en-US': '/us/guides/fence-costs/', 'x-default': '/us/guides/fence-costs/' } },
 }
 
 export default function FenceCostsPageCA() {

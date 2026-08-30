@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'How to Price a Job You Haven\'t Done Before // lowriskquotes',
   description:
     'How Australian tradies can price unfamiliar work without losing money. A practical approach to quoting jobs outside your comfort zone.',
-  alternates: { canonical: '/au/guides/pricing-a-job-you-havent-done-before/' },
+  alternates: { canonical: '/au/guides/pricing-a-job-you-havent-done-before/', languages: { 'en-AU': '/au/guides/pricing-a-job-you-havent-done-before/', 'en-CA': '/ca/guides/pricing-a-job-you-havent-done-before/', 'en-GB': '/guides/pricing-a-job-you-havent-done-before/', 'en-US': '/us/guides/pricing-a-job-you-havent-done-before/', 'x-default': '/guides/pricing-a-job-you-havent-done-before/' } },
 }
 
 export default function AUPricingNewJobPage() {

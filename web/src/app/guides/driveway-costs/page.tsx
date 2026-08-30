@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'driveway costs // lowriskquotes',
   description:
     'Realistic driveway costs for UK contractors. Block paving, tarmac, resin-bound, gravel and concrete — with line-by-line risk ratings so you quote driveways without losing your shirt.',
-  alternates: { canonical: '/guides/driveway-costs/' },
+  alternates: { canonical: '/guides/driveway-costs/', languages: { 'en-AU': '/au/guides/driveway-costs/', 'en-CA': '/ca/guides/driveway-costs/', 'en-GB': '/guides/driveway-costs/', 'en-US': '/us/guides/driveway-costs/', 'x-default': '/guides/driveway-costs/' } },
 }
 
 export default function DrivewayCostsPage() {

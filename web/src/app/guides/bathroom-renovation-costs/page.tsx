@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Bathroom Renovation Costs UK 2026 // lowriskquotes',
   description:
     'Realistic bathroom renovation costs for UK contractors. Line-by-line breakdown with uncertainty ratings so you can quote bathrooms without losing money.',
-  alternates: { canonical: '/guides/bathroom-renovation-costs/' },
+  alternates: { canonical: '/guides/bathroom-renovation-costs/', languages: { 'en-AU': '/au/guides/bathroom-renovation-costs/', 'en-CA': '/ca/guides/bathroom-renovation-costs/', 'en-GB': '/guides/bathroom-renovation-costs/', 'x-default': '/guides/bathroom-renovation-costs/' } },
 }
 
 export default function BathroomRenovationCostsPage() {

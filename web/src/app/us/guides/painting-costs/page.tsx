@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Painting Costs US 2026 // lowriskquotes',
   description:
     'Realistic painting costs for US contractors. Interior and exterior breakdowns with risk ratings so you can bid painting jobs without losing money.',
-  alternates: { canonical: '/us/guides/painting-costs/' },
+  alternates: { canonical: '/us/guides/painting-costs/', languages: { 'en-AU': '/au/guides/painting-costs/', 'en-CA': '/ca/guides/painting-costs/', 'en-US': '/us/guides/painting-costs/', 'x-default': '/us/guides/painting-costs/' } },
 }
 
 export default function PaintingCostsPage() {

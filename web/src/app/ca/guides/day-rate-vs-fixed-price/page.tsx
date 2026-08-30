@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Day Rate vs Fixed Price — Which Is Better // lowriskquotes Canada',
   description:
     'When should Canadian contractors charge a day rate vs fixed price? Pros and cons of each approach, how to protect yourself on fixed-price work, and hybrid strategies that work.',
-  alternates: { canonical: '/ca/guides/day-rate-vs-fixed-price/' },
+  alternates: { canonical: '/ca/guides/day-rate-vs-fixed-price/', languages: { 'en-AU': '/au/guides/day-rate-vs-fixed-price/', 'en-CA': '/ca/guides/day-rate-vs-fixed-price/', 'en-GB': '/guides/day-rate-vs-fixed-price/', 'en-US': '/us/guides/day-rate-vs-fixed-price/', 'x-default': '/guides/day-rate-vs-fixed-price/' } },
 }
 
 export default function DayRateVsFixedPricePageCA() {

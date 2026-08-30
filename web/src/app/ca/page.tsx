@@ -7,8 +7,8 @@ import '../page.css'
 
 export const metadata: Metadata = {
   title: 'lowriskquotes // contractor cost estimation for Canada',
-  description: 'Monte Carlo cost projections for Canadian contractors. Stop guessing your quotes — simulate thousands of scenarios to find the right price in CAD.',
-  alternates: { canonical: '/ca/' },
+  description: 'Stop losing money on quotes. Build your estimate line by line, set risk levels on each item, and get a realistic price range in CAD.',
+  alternates: { canonical: '/ca/', languages: { 'en-AU': '/au/', 'en-CA': '/ca/', 'en-GB': '/', 'en-US': '/us/', 'x-default': '/' } },
 }
 
 const SAMPLE_OUTPUT = `\u250C\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u252C\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510

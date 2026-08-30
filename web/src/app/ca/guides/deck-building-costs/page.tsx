@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Deck Building Costs Canada 2026 // lowriskquotes',
   description:
     'Realistic deck building costs for Canadian contractors in CAD. Covers pressure-treated, cedar, and composite decking with frost depth footings and permit requirements by province.',
-  alternates: { canonical: '/ca/guides/deck-building-costs/' },
+  alternates: { canonical: '/ca/guides/deck-building-costs/', languages: { 'en-CA': '/ca/guides/deck-building-costs/', 'en-US': '/us/guides/deck-building-costs/', 'x-default': '/us/guides/deck-building-costs/' } },
 }
 
 export default function DeckBuildingCostsPageCA() {

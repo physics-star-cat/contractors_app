@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Roofing Costs Canada 2026 // lowriskquotes',
   description:
     'Realistic roofing costs for Canadian contractors in CAD. Asphalt shingles, metal roofing, flat roofs, and ice/water shield — with line-by-line risk ratings so you can quote roofing work without getting burned.',
-  alternates: { canonical: '/ca/guides/roofing-costs/' },
+  alternates: { canonical: '/ca/guides/roofing-costs/', languages: { 'en-AU': '/au/guides/roofing-costs/', 'en-CA': '/ca/guides/roofing-costs/', 'en-GB': '/guides/roofing-costs/', 'en-US': '/us/guides/roofing-costs/', 'x-default': '/guides/roofing-costs/' } },
 }
 
 export default function RoofingCostsPageCA() {

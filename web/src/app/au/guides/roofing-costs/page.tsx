@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Roofing Costs Australia 2026 // lowriskquotes',
   description:
     'Realistic roofing costs for Australian tradies. Colorbond, concrete tile, and terracotta re-roofs — with line-by-line risk ratings so you can quote roofing work without getting burned.',
-  alternates: { canonical: '/au/guides/roofing-costs/' },
+  alternates: { canonical: '/au/guides/roofing-costs/', languages: { 'en-AU': '/au/guides/roofing-costs/', 'en-CA': '/ca/guides/roofing-costs/', 'en-GB': '/guides/roofing-costs/', 'en-US': '/us/guides/roofing-costs/', 'x-default': '/guides/roofing-costs/' } },
 }
 
 export default function AURoofingCostsPage() {

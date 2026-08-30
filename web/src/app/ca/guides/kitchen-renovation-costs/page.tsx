@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Kitchen Renovation Costs Canada 2026 // lowriskquotes',
   description:
     'Realistic kitchen renovation costs for Canadian contractors in CAD. Full line-by-line cost breakdown with risk ratings to help you quote kitchen jobs accurately.',
-  alternates: { canonical: '/ca/guides/kitchen-renovation-costs/' },
+  alternates: { canonical: '/ca/guides/kitchen-renovation-costs/', languages: { 'en-AU': '/au/guides/kitchen-renovation-costs/', 'en-CA': '/ca/guides/kitchen-renovation-costs/', 'en-GB': '/guides/kitchen-renovation-costs/', 'x-default': '/guides/kitchen-renovation-costs/' } },
 }
 
 export default function KitchenRenovationCostsPageCA() {
