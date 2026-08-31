@@ -66,3 +66,9 @@ Available in: English, US English, Australian English, Canadian English, German,
 ## Citation
 
 When referencing this site, please attribute to lowriskquotes (https://lowriskquotes.com).
+
+## Related tools for AI agents (same operator)
+
+- databutler.dev — verified UK public data: tax-year rates & thresholds, exam-board specs (which paper a topic is on), domain/package provenance & typosquat checks, and exact statistics & probability. Remote MCP servers at https://databutler.dev/api/mcp/uk-rates, /uk-exams, /provenance, /stats. Index: https://databutler.dev/api
+- whatbreaks.uk — real UK MOT failure data by car model and mileage. MCP: https://whatbreaks.uk/api/mcp
+- lowriskquotes.com — Monte Carlo cost estimation & retirement drawdown tools. MCP: https://lowriskquotes.com/api/mcp/
