@@ -1,12 +1,14 @@
 import { NextRequest } from 'next/server'
 import { simulateEstimate, EstimateItem } from '@/lib/montecarlo'
 import { ATTRIBUTION, errorJson, json, optionsResponse } from '@/lib/api-helpers'
+import { trackEvent } from '@/lib/track'
 
 export const dynamic = 'force-dynamic'
 
 type Payload = { items?: unknown; iterations?: unknown; seed?: unknown }
 
 function run(payload: Payload) {
+  trackEvent('agent_api_simulate')
   const items = payload.items
   if (!Array.isArray(items)) throw new Error('items must be an array of {low, likely, high}')
   const iterations = payload.iterations === undefined ? undefined : Number(payload.iterations)

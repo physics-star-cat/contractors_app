@@ -1,10 +1,12 @@
 import { NextRequest } from 'next/server'
 import { simulateDrawdown } from '@/lib/montecarlo'
 import { ATTRIBUTION, errorJson, json, optionsResponse } from '@/lib/api-helpers'
+import { trackEvent } from '@/lib/track'
 
 export const dynamic = 'force-dynamic'
 
 function run(p: Record<string, unknown>) {
+  trackEvent('agent_api_drawdown')
   const num = (k: string) => (p[k] === undefined || p[k] === null ? undefined : Number(p[k]))
   const result = simulateDrawdown({
     portfolio: num('portfolio') as number,

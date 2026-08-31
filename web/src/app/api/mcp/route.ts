@@ -7,6 +7,7 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { simulateEstimate, simulateDrawdown, EstimateItem } from '@/lib/montecarlo'
 import { ATTRIBUTION, CORS_HEADERS, optionsResponse } from '@/lib/api-helpers'
+import { trackEvent } from '@/lib/track'
 
 export const dynamic = 'force-dynamic'
 
@@ -115,6 +116,7 @@ function handle(msg: RpcRequest) {
       return rpcResult(id, { tools: TOOLS })
     case 'tools/call': {
       const name = msg.params?.name as string
+      trackEvent(`agent_mcp_${String(name).slice(0, 28)}`)
       const args = (msg.params?.arguments ?? {}) as Record<string, unknown>
       try {
         const result = callTool(name, args)
