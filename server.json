@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.physics-star-cat/lowriskquotes-montecarlo",
+  "description": "Monte Carlo tools: three-point cost estimation and an educational retirement drawdown simulator.",
+  "repository": {
+    "url": "https://github.com/physics-star-cat/contractors_app",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "websiteUrl": "https://lowriskquotes.com/api/",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://lowriskquotes.com/api/mcp/"
+    }
+  ]
+}
