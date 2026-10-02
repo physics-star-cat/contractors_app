@@ -35,7 +35,7 @@ export default function Footer() {
     <footer className="footer">
       <div className="footer__separator">{'─'.repeat(60)}</div>
       <p className="footer__text">
-        lowriskquotes // <Link href={aboutPath}>{strings.about}</Link> // {strings.privacy}
+        lowriskquotes // <Link href={aboutPath}>{strings.about}</Link> // <Link href="/privacy/">privacy</Link> // {strings.privacy}
       </p>
       <p className="footer__disclaimer">{strings.disclaimer}</p>
     </footer>

@@ -13,9 +13,16 @@ export const dynamic = 'force-dynamic'
 
 const PROTOCOL_VERSION = '2025-06-18'
 
+// Both tools are pure functions of the caller's inputs: read-only,
+// non-destructive, closed-world. Directory reviewers (Claude connectors,
+// ChatGPT apps) require title + annotations on each tool.
+const READ_ONLY = { readOnlyHint: true, destructiveHint: false, openWorldHint: false }
+
 const TOOLS = [
   {
     name: 'monte_carlo_estimate',
+    title: 'Monte Carlo cost estimate',
+    annotations: READ_ONLY,
     description:
       'Run a three-point (triangular) Monte Carlo simulation over cost line items. Use when a ' +
       'user needs a realistic range for a quote, budget or project cost instead of a single ' +
@@ -46,6 +53,8 @@ const TOOLS = [
   },
   {
     name: 'retirement_drawdown',
+    title: 'Retirement drawdown simulation',
+    annotations: READ_ONLY,
     description:
       'Monte Carlo retirement drawdown simulation: given a portfolio, annual spending, horizon ' +
       'and equity allocation, returns the probability the money lasts, end-balance percentiles ' +

@@ -63,6 +63,10 @@ Reference data for common UK home improvement projects:
 
 Available in: English, US English, Australian English, Canadian English, German, French, Spanish, Polish, Dutch, Portuguese, Italian, Swedish, and Turkish.
 
+## Privacy
+
+- [Privacy policy](https://lowriskquotes.com/privacy/): No accounts; Google Analytics on the website; the API/MCP server records anonymous event counts only and persists none of your inputs; no data sold.
+
 ## Citation
 
 When referencing this site, please attribute to lowriskquotes (https://lowriskquotes.com).
