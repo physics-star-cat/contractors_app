@@ -43,14 +43,12 @@ export function RegionProvider({ children }: { children: React.ReactNode }) {
   const defaultRegion = LOCALE_TO_REGION[locale] || 'UK'
 
   const [region, setRegionState] = useState<AppRegionCode>(defaultRegion)
-  const [loaded, setLoaded] = useState(false)
 
   useEffect(() => {
     const saved = loadRegion()
     // Only use saved region if user explicitly set one, otherwise use locale default
     const hasManualOverride = typeof window !== 'undefined' && localStorage.getItem('lowriskquotes_region')
     setRegionState(hasManualOverride ? saved : defaultRegion)
-    setLoaded(true)
   }, [defaultRegion])
 
   const setRegion = (r: AppRegionCode) => {
@@ -58,8 +56,14 @@ export function RegionProvider({ children }: { children: React.ReactNode }) {
     saveRegion(r)
   }
 
-  if (!loaded) return null
-
+  // Always render. Until 2026-10-02 this returned null before the localStorage
+  // read above had run, which meant the server-rendered HTML for every page on
+  // the site was an empty <body>: five words of visible text, no guides, no
+  // tools. Google (which runs JS) still indexed it at position ~77; Bing,
+  // Copilot, Perplexity and ChatGPT saw nothing at all. The server and the
+  // first client render now both use the locale's default region, and a saved
+  // manual override is applied in the effect — a brief default-currency flash
+  // for returning users who changed region, in exchange for a readable site.
   return (
     <RegionContext.Provider value={{ region, setRegion }}>
       {children}
