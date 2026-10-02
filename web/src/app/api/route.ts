@@ -1,9 +1,9 @@
-import { ATTRIBUTION, json, optionsResponse } from '@/lib/api-helpers'
+import { ATTRIBUTION, cachedJson, optionsResponse } from '@/lib/api-helpers'
 
 export const dynamic = 'force-dynamic'
 
 export async function GET() {
-  return json({
+  return cachedJson({
     name: 'lowriskquotes agent API',
     description:
       'Monte Carlo simulation endpoints for AI agents and developers. No auth, CORS-open, ' +

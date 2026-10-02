@@ -6,7 +6,7 @@
  */
 import { NextRequest, NextResponse } from 'next/server'
 import { simulateEstimate, simulateDrawdown, EstimateItem } from '@/lib/montecarlo'
-import { ATTRIBUTION, CORS_HEADERS, optionsResponse } from '@/lib/api-helpers'
+import { ATTRIBUTION, CORS_HEADERS, cachedJson, optionsResponse, rejectProber } from '@/lib/api-helpers'
 import { trackEvent } from '@/lib/track'
 
 export const dynamic = 'force-dynamic'
@@ -137,6 +137,8 @@ function handle(msg: RpcRequest) {
 }
 
 export async function POST(req: NextRequest) {
+  const refused = rejectProber(req)
+  if (refused) return refused
   let body: unknown
   try {
     body = await req.json()
@@ -152,10 +154,12 @@ export async function POST(req: NextRequest) {
 }
 
 export async function GET() {
-  // No SSE stream in this stateless server; advertise POST.
-  return NextResponse.json(
+  // No SSE stream in this stateless server; advertise POST. Static, so let the
+  // CDN serve it — clients that GET first then POST were costing an invocation each.
+  return cachedJson(
     { info: 'lowriskquotes remote MCP server. POST JSON-RPC 2.0 messages to this endpoint.', docs: ATTRIBUTION.docs },
-    { status: 405, headers: { ...CORS_HEADERS, Allow: 'POST, OPTIONS' } },
+    405,
+    { Allow: 'POST, OPTIONS' },
   )
 }
 
