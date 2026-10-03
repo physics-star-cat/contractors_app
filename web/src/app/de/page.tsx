@@ -7,7 +7,7 @@ import '../page.css'
 
 export const metadata: Metadata = {
   title: 'lowriskquotes // Kostenkalkulation für Handwerker',
-  description: 'Monte-Carlo-Kostenprognosen für Handwerker und Bauunternehmer. Hören Sie auf zu raten — simulieren Sie tausende Szenarien, um den richtigen Preis zu finden.',
+  description: 'Kein Geld mehr bei Aufträgen verlieren. Erstellen Sie Ihr Angebot Position für Position, legen Sie Risikostufen fest und erhalten Sie eine realistische Preisspanne — nicht eine einzige Zahl, die nicht stimmt.',
   alternates: { canonical: '/de/' },
 }
 

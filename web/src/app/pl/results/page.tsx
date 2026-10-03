@@ -85,10 +85,12 @@ export default function PlResultsPage() {
       <div className="results__actions">
         <button onClick={handleSave} type="button">[ZAPISZ WYCENĘ]</button>
         <button onClick={() => {
+          window.gtag?.('event', 'pdf_download', { pdf_type: 'customer' })
           const blob = generateCustomerPDF(project, simulationResult.percentile80, region)
           downloadPDF(blob, `${project.name}-wycena.pdf`)
         }} type="button">[PDF DLA KLIENTA]</button>
         <button onClick={() => {
+          window.gtag?.('event', 'pdf_download', { pdf_type: 'detailed' })
           const blob = generateDetailedPDF(project, simulationResult, region)
           downloadPDF(blob, `${project.name}-szczegoly.pdf`)
         }} type="button">[PDF SZCZEGÓŁOWY]</button>

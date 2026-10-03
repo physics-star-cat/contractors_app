@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 
 export const metadata: Metadata = {
   title: 'sobre // lowriskquotes',
-  description: 'Como o LowRiskQuotes usa simulação Monte Carlo para ajudar profissionais da construção a criar orçamentos mais seguros.',
+  description: 'Por que profissionais da construção perdem dinheiro em orçamentos? Porque os imprevistos não estão incluídos. O LowRiskQuotes calcula milhares de cenários para mostrar quanto as obras realmente custam.',
   alternates: { canonical: '/pt/about/' },
 }
 

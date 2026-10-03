@@ -85,10 +85,12 @@ export default function NlResultsPage() {
       <div className="results__actions">
         <button onClick={handleSave} type="button">[OFFERTE OPSLAAN]</button>
         <button onClick={() => {
+          window.gtag?.('event', 'pdf_download', { pdf_type: 'customer' })
           const blob = generateCustomerPDF(project, simulationResult.percentile80, region)
           downloadPDF(blob, `${project.name}-offerte.pdf`)
         }} type="button">[KLANT PDF]</button>
         <button onClick={() => {
+          window.gtag?.('event', 'pdf_download', { pdf_type: 'detailed' })
           const blob = generateDetailedPDF(project, simulationResult, region)
           downloadPDF(blob, `${project.name}-detail.pdf`)
         }} type="button">[DETAIL PDF]</button>

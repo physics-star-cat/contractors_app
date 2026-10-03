@@ -85,10 +85,12 @@ export default function TrResultsPage() {
       <div className="results__actions">
         <button onClick={handleSave} type="button">[KAYDET]</button>
         <button onClick={() => {
+          window.gtag?.('event', 'pdf_download', { pdf_type: 'customer' })
           const blob = generateCustomerPDF(project, simulationResult.percentile80, region)
           downloadPDF(blob, `${project.name}-teklif.pdf`)
         }} type="button">[MÜŞTERİ PDF]</button>
         <button onClick={() => {
+          window.gtag?.('event', 'pdf_download', { pdf_type: 'detailed' })
           const blob = generateDetailedPDF(project, simulationResult, region)
           downloadPDF(blob, `${project.name}-detayli.pdf`)
         }} type="button">[DETAYLI PDF]</button>

@@ -11,14 +11,14 @@ const GA_ID = process.env.NEXT_PUBLIC_GA_ID
 
 export const metadata: Metadata = {
   title: 'lowriskquotes // contractor cost estimation',
-  description: 'Monte Carlo cost projections for contractors. Stop guessing, start simulating.',
+  description: 'Stop losing money on jobs. Realistic cost projections for kitchens, bathrooms, extensions, roofing and more — with built-in risk buffers so your quotes hold up.',
   metadataBase: new URL('https://lowriskquotes.com'),
   alternates: {
     canonical: '/',
   },
   openGraph: {
     title: 'lowriskquotes // contractor cost estimation',
-    description: 'Monte Carlo cost projections for contractors. Stop guessing your quotes — simulate thousands of scenarios to find the right price.',
+    description: 'Stop losing money on jobs. Realistic cost projections for kitchens, bathrooms, extensions, roofing and more — with built-in risk buffers so your quotes hold up.',
     siteName: 'lowriskquotes',
     type: 'website',
     images: [{ url: '/og-image.png', width: 1200, height: 630 }],
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'lowriskquotes // contractor cost estimation',
-    description: 'Monte Carlo cost projections for contractors. Stop guessing your quotes — simulate thousands of scenarios to find the right price.',
+    description: 'Stop losing money on jobs. Realistic cost projections for kitchens, bathrooms, extensions, roofing and more — with built-in risk buffers so your quotes hold up.',
     images: ['/og-image.png'],
   },
 }

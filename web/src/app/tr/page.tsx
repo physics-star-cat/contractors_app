@@ -7,7 +7,7 @@ import '../page.css'
 
 export const metadata: Metadata = {
   title: 'lowriskquotes // ustalar için maliyet tahmini',
-  description: 'Ustalar ve müteahhitler için Monte Carlo maliyet projeksiyonları. Tekliflerinizi tahmin etmeyi bırakın — doğru fiyatı bulmak için binlerce senaryo simüle edin.',
+  description: 'İşlerde para kaybetmeyi bırakın. Teklifinizi kalem kalem oluşturun, her kalemin risk seviyesini belirleyin ve gerçekçi bir fiyat aralığı elde edin.',
   alternates: { canonical: '/tr/' },
 }
 

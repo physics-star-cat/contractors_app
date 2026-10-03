@@ -7,7 +7,7 @@ import '../page.css'
 
 export const metadata: Metadata = {
   title: 'lowriskquotes // kostnadsuppskattning för hantverkare',
-  description: 'Monte Carlo-kostnadsprognoser för hantverkare och entreprenörer. Sluta gissa på dina offerter — simulera tusentals scenarier för att hitta rätt pris.',
+  description: 'Sluta förlora pengar på jobb. Bygg din offert post för post, ange risknivå för varje del och få ett realistiskt prisintervall i SEK.',
   alternates: { canonical: '/sv/' },
 }
 

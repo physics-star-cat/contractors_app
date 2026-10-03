@@ -7,7 +7,7 @@ import '../page.css'
 
 export const metadata: Metadata = {
   title: 'lowriskquotes // estimación de costes para contratistas',
-  description: 'Proyecciones de costes Monte Carlo para contratistas. Deja de adivinar tus presupuestos — simula miles de escenarios para encontrar el precio correcto.',
+  description: 'Deja de perder dinero en tus trabajos. Crea tu presupuesto partida por partida, establece el nivel de riesgo de cada elemento y obtén un rango de precios realista.',
   alternates: { canonical: '/es/' },
 }
 

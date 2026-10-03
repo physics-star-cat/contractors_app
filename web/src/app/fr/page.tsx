@@ -7,7 +7,7 @@ import '../page.css'
 
 export const metadata: Metadata = {
   title: 'lowriskquotes // estimation des coûts pour artisans',
-  description: 'Projections de coûts Monte Carlo pour artisans et entrepreneurs. Arrêtez de deviner vos devis — simulez des milliers de scénarios pour trouver le juste prix.',
+  description: 'Arrêtez de perdre de l\'argent sur vos chantiers. Construisez votre devis poste par poste, définissez le niveau de risque de chaque élément et obtenez une fourchette de prix réaliste.',
   alternates: { canonical: '/fr/' },
 }
 

@@ -7,7 +7,7 @@ import '../page.css'
 
 export const metadata: Metadata = {
   title: 'lowriskquotes // estimativa de custos para profissionais da construção',
-  description: 'Projeções de custos Monte Carlo para profissionais da construção civil. Pare de adivinhar seus orçamentos — simule milhares de cenários para encontrar o preço certo.',
+  description: 'Pare de perder dinheiro em obras. Monte seu orçamento item por item, defina o nível de risco de cada elemento e obtenha uma faixa de preço realista em BRL.',
   alternates: { canonical: '/pt/' },
 }
 

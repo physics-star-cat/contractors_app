@@ -85,10 +85,12 @@ export default function PaginaResultadosES() {
       <div className="results__actions">
         <button onClick={handleSave} type="button">[GUARDAR]</button>
         <button onClick={() => {
+          window.gtag?.('event', 'pdf_download', { pdf_type: 'customer' })
           const blob = generateCustomerPDF(project, simulationResult.percentile80, region)
           downloadPDF(blob, `${project.name}-presupuesto.pdf`)
         }} type="button">[PDF CLIENTE]</button>
         <button onClick={() => {
+          window.gtag?.('event', 'pdf_download', { pdf_type: 'detailed' })
           const blob = generateDetailedPDF(project, simulationResult, region)
           downloadPDF(blob, `${project.name}-detallado.pdf`)
         }} type="button">[PDF DETALLADO]</button>

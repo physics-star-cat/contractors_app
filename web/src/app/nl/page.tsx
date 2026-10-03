@@ -6,7 +6,7 @@ import RecentEstimates from '@/components/home/RecentEstimates'
 
 export const metadata: Metadata = {
   title: 'lowriskquotes // kostenraming voor aannemers',
-  description: 'Monte Carlo-kostenprognoses voor aannemers. Stop met gokken — simuleer duizenden scenario\'s om de juiste prijs te vinden.',
+  description: 'Stop met geld verliezen op opdrachten. Bouw uw offerte post voor post op, stel risiconiveaus in per item en krijg een realistische prijsbandbreedte.',
   alternates: { canonical: '/nl/' },
 }
 

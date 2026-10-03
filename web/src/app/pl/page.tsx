@@ -7,7 +7,7 @@ import '../page.css'
 
 export const metadata: Metadata = {
   title: 'lowriskquotes // wycena kosztów dla wykonawców',
-  description: 'Prognozy kosztów Monte Carlo dla wykonawców. Przestań zgadywać — symuluj tysiące scenariuszy, aby znaleźć właściwą cenę.',
+  description: 'Przestań tracić pieniądze na zleceniach. Zbuduj wycenę pozycja po pozycji, ustaw poziom ryzyka dla każdego elementu i uzyskaj realistyczny zakres cen.',
   alternates: { canonical: '/pl/' },
 }
 

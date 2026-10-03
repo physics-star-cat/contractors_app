@@ -7,7 +7,7 @@ import '../page.css'
 
 export const metadata: Metadata = {
   title: 'lowriskquotes // stima dei costi per imprese edili',
-  description: 'Proiezioni di costo Monte Carlo per imprese edili e artigiani. Smetti di tirare a indovinare i tuoi preventivi — simula migliaia di scenari per trovare il prezzo giusto.',
+  description: 'Smetti di perdere soldi sui cantieri. Costruisci il tuo preventivo voce per voce, imposta il livello di rischio di ogni elemento e ottieni una fascia di prezzo realistica.',
   alternates: { canonical: '/it/' },
 }
 

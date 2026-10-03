@@ -85,10 +85,12 @@ export default function ResultsPage() {
       <div className="results__actions">
         <button onClick={handleSave} type="button">[SAVE ESTIMATE]</button>
         <button onClick={() => {
+          window.gtag?.('event', 'pdf_download', { pdf_type: 'customer' })
           const blob = generateCustomerPDF(project, simulationResult.percentile80, region)
           downloadPDF(blob, `${project.name}-quote.pdf`)
         }} type="button">[CUSTOMER PDF]</button>
         <button onClick={() => {
+          window.gtag?.('event', 'pdf_download', { pdf_type: 'detailed' })
           const blob = generateDetailedPDF(project, simulationResult, region)
           downloadPDF(blob, `${project.name}-detailed.pdf`)
         }} type="button">[DETAILED PDF]</button>
