@@ -4,7 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "node scripts/build-changes.cjs --check && next build",
+    "changes": "node scripts/build-changes.cjs",
+    "test": "node scripts/build-changes.cjs --check",
     "start": "next start"
   },
   "dependencies": {

@@ -346,3 +346,7 @@ See [PROGRESS.md](./PROGRESS.md) for detailed roadmap.
 ## License
 
 Proprietary - All rights reserved.
+
+## Verified Changes
+
+The web app publishes `/.well-known/changes.json` and `/changes.json` (verified-changes/0.1). See `web/README.md`.

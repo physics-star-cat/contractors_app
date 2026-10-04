@@ -1,0 +1,14 @@
+{
+  "updated": "2026-10-04",
+  "note": "No entries yet. lowriskquotes publishes no externally sourced facts: its two Monte Carlo engines (three-point cost estimation and retirement drawdown) run on user inputs. The drawdown engine's capital-market assumptions (equity real return mean 5%, stdev 17%; bond real return mean 1.5%, stdev 6%; lognormal, annual steps) are fixed model choices disclosed in every /api/drawdown/ response, have not changed since the engine shipped on 2026-08-30, and are not read from an official source, so they are not itemised as verified changes. If they change, or are re-based on an authority's published figures, an entry will be appended here.",
+  "publisher": { "name": "lowriskquotes", "url": "https://lowriskquotes.com/" },
+  "areas": [
+    {
+      "name": "drawdown-assumptions",
+      "description": "Capital-market assumptions used by the retirement drawdown engine (/api/drawdown/ and the MCP tool retirement_drawdown): real (after-inflation) return means and standard deviations for equities and bonds. Model choices, not official statistics; an entry is published only when one changes.",
+      "cadence": "On change only; reviewed whenever the engine is modified."
+    }
+  ],
+  "licence": "Free to reuse with attribution to lowriskquotes.com.",
+  "contact": "https://github.com/physics-star-cat"
+}

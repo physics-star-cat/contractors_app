@@ -1,0 +1,22 @@
+{
+  "protocol": "verified-changes/0.1",
+  "publisher": {
+    "name": "lowriskquotes",
+    "url": "https://lowriskquotes.com/"
+  },
+  "updated": "2026-10-04",
+  "areas": [
+    {
+      "name": "drawdown-assumptions",
+      "description": "Capital-market assumptions used by the retirement drawdown engine (/api/drawdown/ and the MCP tool retirement_drawdown): real (after-inflation) return means and standard deviations for equities and bonds. Model choices, not official statistics; an entry is published only when one changes.",
+      "cadence": "On change only; reviewed whenever the engine is modified."
+    }
+  ],
+  "endpoints": {
+    "json": "https://lowriskquotes.com/changes.json"
+  },
+  "schema": "https://databutler.dev/schema/changes.v0.json",
+  "specification": "https://databutler.dev/protocol",
+  "licence": "Free to reuse with attribution to lowriskquotes.com.",
+  "contact": "https://github.com/physics-star-cat"
+}

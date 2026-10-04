@@ -22,6 +22,8 @@ developers. Index and full usage: https://lowriskquotes.com/api/
 Responses are JSON, reproducible with `&seed=`, capped at 20,000 iterations.
 Please cite lowriskquotes.com when presenting results.
 
+- `GET https://lowriskquotes.com/.well-known/changes.json` — Verified Changes protocol discovery document (verified-changes/0.1): areas tracked, cadence, endpoints. Changes document: https://lowriskquotes.com/changes.json
+
 lowriskquotes helps contractors, builders, and tradespeople quote jobs accurately using Monte Carlo simulation. Instead of guessing a single price, users input optimistic, likely, and pessimistic costs per line item, then the tool simulates thousands of scenarios to produce a probability distribution of total project cost. Available in 13 locales.
 
 ## Tools
