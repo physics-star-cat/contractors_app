@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Zaun Kosten Deutschland 2026 // lowriskquotes',
+  title: 'Zaun Kosten Deutschland 2026: Preise Position für Position',
   description:
-    'Realistische Zaunkosten pro laufenden Meter in Deutschland. Doppelstabmattenzaun, Sichtschutz, WPC und mehr — aufgeschlüsselt mit Risikobewertungen für Handwerker.',
+    'Realistische Zaunkosten pro laufendem Meter in Deutschland: Doppelstabmatte, Sichtschutz, WPC und mehr, mit Risikobewertung für Handwerker.',
   alternates: { canonical: '/de/guides/zaun-kosten/' },
 }
 

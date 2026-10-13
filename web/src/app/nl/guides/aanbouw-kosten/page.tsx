@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Aanbouw kosten 2026 // lowriskquotes',
+  title: 'Aanbouw kosten Nederland 2026: prijzen per post',
   description:
     'Wat kost een aanbouw in Nederland? Compleet kostenoverzicht met risicobeoordeling voor aannemers.',
   alternates: { canonical: '/nl/guides/aanbouw-kosten/' },

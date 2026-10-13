@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Onbekende klus prijzen 2026 // lowriskquotes',
+  title: 'Onbekende klus prijzen zonder verlies: zo pak je het aan',
   description:
     'Hoe prijs je een klus die je nog nooit hebt gedaan? Strategieën voor aannemers om onbekend werk veilig te offreren.',
   alternates: { canonical: '/nl/guides/onbekende-klus-prijzen/' },

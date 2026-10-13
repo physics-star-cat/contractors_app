@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'How to Bid a Job as a Contractor // lowriskquotes',
+  title: 'How to Bid a Job: Contractor Pricing Without the Risk',
   description:
-    'A practical guide to bidding jobs accurately. Learn why contractors underbid, how to assess risk on each line item, and how Monte Carlo simulation builds safer bids.',
+    'Bid jobs accurately: why contractors underbid, how to rate the risk on each line item, and how Monte Carlo simulation builds safer bids.',
   alternates: { canonical: '/us/guides/how-to-bid-a-job/' },
 }
 

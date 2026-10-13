@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Custos de reforma de cozinha Brasil 2026 // lowriskquotes',
+  title: 'Custo de reforma de cozinha 2026: preços item por item',
   description:
-    'Custos reais de reforma de cozinha para profissionais da construção no Brasil. Detalhamento completo item por item com níveis de risco para orçar suas cozinhas com precisão.',
+    'Custos reais de reforma de cozinha no Brasil, item por item com níveis de risco, para orçar suas cozinhas com precisão.',
   alternates: { canonical: '/pt/guides/custos-reforma-cozinha/' },
 }
 

@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'How Much Contingency Should a Tradie Add? // lowriskquotes',
+  title: 'How Much Contingency Tradies Should Add to a Quote',
   description:
-    'How much contingency should Australian tradies add to their quotes? Why flat percentages fail and how risk-weighted contingency protects your margin. AUD examples.',
+    'Set the right contingency on every quote: why flat percentages fail Australian tradies and how risk-weighted contingency protects your margin (AUD).',
   alternates: { canonical: '/au/guides/how-much-contingency/', languages: { 'en-AU': '/au/guides/how-much-contingency/', 'en-CA': '/ca/guides/how-much-contingency/', 'en-GB': '/guides/how-much-contingency/', 'en-US': '/us/guides/how-much-contingency/', 'x-default': '/guides/how-much-contingency/' } },
 }
 

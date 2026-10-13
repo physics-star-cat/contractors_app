@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Costes de reforma de baño España 2026 // lowriskquotes',
+  title: 'Coste reforma de baño 2026: precios partida por partida',
   description:
     'Costes reales de reforma de baño para contratistas en España. Desglose partida por partida con niveles de riesgo para presupuestar baños sin perder dinero.',
   alternates: { canonical: '/es/guides/costes-reforma-bano/' },

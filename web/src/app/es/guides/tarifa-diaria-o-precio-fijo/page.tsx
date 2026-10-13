@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Tarifa diaria o precio fijo 2026 // lowriskquotes',
+  title: 'Tarifa diaria o precio fijo: qué protege tu margen',
   description:
     'Cuándo cobrar por día y cuándo a precio cerrado. Comparación de modelos de facturación para contratistas.',
   alternates: { canonical: '/es/guides/tarifa-diaria-o-precio-fijo/' },

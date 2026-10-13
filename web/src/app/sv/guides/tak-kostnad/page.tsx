@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Kostnad takarbeten Sverige 2026 // lowriskquotes',
+  title: 'Kostnad takarbeten Sverige 2026: priser post för post',
   description:
-    'Realistiska kostnader för takarbeten för hantverkare i Sverige. Omläggning, platta tak, reparationer och plåtarbeten — med risknivåer för att prissätta utan att bränna sig.',
+    'Realistiska kostnader för takarbeten i Sverige: omläggning, platta tak, reparationer och plåtarbeten, med risknivåer så att du inte bränner dig.',
   alternates: { canonical: '/sv/guides/tak-kostnad/' },
 }
 

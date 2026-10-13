@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'How Much Does a Home Addition Cost in Canada // lowriskquotes',
+  title: 'Home Addition Cost Canada 2026: Line-by-Line Price Ranges',
   description:
-    'Realistic home addition and extension costs for Canadian contractors in CAD. Single-storey and two-storey breakdowns with risk ratings on every line item so you can quote additions without getting burned.',
+    'Realistic home addition cost ranges in Canada (CAD), single- and two-storey, with a risk rating on every line item so you can quote without getting burned.',
   alternates: { canonical: '/ca/guides/extension-costs/', languages: { 'en-AU': '/au/guides/extension-costs/', 'en-CA': '/ca/guides/extension-costs/', 'en-GB': '/guides/extension-costs/', 'x-default': '/guides/extension-costs/' } },
 }
 

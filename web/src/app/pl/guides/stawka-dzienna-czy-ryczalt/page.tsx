@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Stawka dzienna czy ryczałt? 2026 // lowriskquotes',
+  title: 'Stawka dzienna czy ryczałt: co chroni Twoją marżę',
   description:
     'Kiedy brać stawkę dzienną, a kiedy cenę ryczałtową? Porównanie modeli rozliczania dla polskich wykonawców.',
   alternates: { canonical: '/pl/guides/stawka-dzienna-czy-ryczalt/' },

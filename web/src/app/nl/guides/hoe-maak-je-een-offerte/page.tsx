@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Hoe maak je een offerte als aannemer // lowriskquotes',
+  title: 'Hoe maak je een offerte: prijzen zonder risico',
   description:
-    'Een praktische gids voor het nauwkeurig offreren van opdrachten. Leer waarom aannemers te laag inschrijven, hoe u risico per kostenpost beoordeelt, en hoe Monte Carlo-simulatie veiligere offertes maakt.',
+    'Offreer nauwkeurig: waarom aannemers te laag inschrijven, hoe u het risico per post beoordeelt en hoe Monte Carlo-simulatie veiligere offertes maakt.',
   alternates: { canonical: '/nl/guides/hoe-maak-je-een-offerte/' },
 }
 

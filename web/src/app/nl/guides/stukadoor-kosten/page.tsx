@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Stukadoor kosten 2026 // lowriskquotes',
+  title: 'Stukadoor kosten Nederland 2026: prijzen per post',
   description:
     'Wat kost stucwerk in Nederland? Prijzen per m² voor glad, spachtel en sierpleister met risicobeoordeling.',
   alternates: { canonical: '/nl/guides/stukadoor-kosten/' },

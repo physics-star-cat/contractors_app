@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Schilder kosten 2026 // lowriskquotes',
+  title: 'Schilder kosten Nederland 2026: prijzen per post',
   description:
     'Wat kost schilderwerk in Nederland? Prijzen per m² voor binnen en buiten met risicobeoordeling voor aannemers.',
   alternates: { canonical: '/nl/guides/schilder-kosten/' },

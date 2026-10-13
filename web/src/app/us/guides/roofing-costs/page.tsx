@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'roofing costs // lowriskquotes',
+  title: 'Roofing Cost US 2026: Line-by-Line Price Ranges',
   description:
-    'Realistic roofing costs for US contractors. Full re-roofs, flat roofs, repairs, and siding — with line-by-line risk ratings so you can bid roofing work without getting burned.',
+    'Realistic US roofing cost ranges: re-roofs, flat roofs, repairs and siding, with line-by-line risk ratings so you can bid roofing without getting burned.',
   alternates: { canonical: '/us/guides/roofing-costs/', languages: { 'en-AU': '/au/guides/roofing-costs/', 'en-CA': '/ca/guides/roofing-costs/', 'en-GB': '/guides/roofing-costs/', 'en-US': '/us/guides/roofing-costs/', 'x-default': '/guides/roofing-costs/' } },
 }
 

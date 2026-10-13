@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Painting Costs Canada 2026 // lowriskquotes',
+  title: 'Painting Cost Canada 2026: Line-by-Line Price Ranges',
   description:
-    'Realistic interior and exterior painting costs for Canadian contractors in CAD. Room-by-room breakdown with risk ratings so you can quote painting jobs accurately.',
+    'Realistic interior and exterior painting cost ranges in Canada (CAD), room by room with risk ratings so you can quote painting jobs accurately.',
   alternates: { canonical: '/ca/guides/painting-costs/', languages: { 'en-AU': '/au/guides/painting-costs/', 'en-CA': '/ca/guides/painting-costs/', 'en-US': '/us/guides/painting-costs/', 'x-default': '/us/guides/painting-costs/' } },
 }
 

@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Kitchen Renovation Costs Australia 2026 // lowriskquotes',
+  title: 'Kitchen Renovation Cost Australia 2026: Price Ranges by Line',
   description:
-    'Realistic kitchen renovation costs for Australian tradies. Full line-by-line cost breakdown in AUD with risk ratings to help you quote kitchen jobs accurately.',
+    'Realistic kitchen renovation cost ranges in Australia (AUD), line by line with risk ratings so tradies can quote kitchen jobs accurately.',
   alternates: { canonical: '/au/guides/kitchen-renovation-costs/', languages: { 'en-AU': '/au/guides/kitchen-renovation-costs/', 'en-CA': '/ca/guides/kitchen-renovation-costs/', 'en-GB': '/guides/kitchen-renovation-costs/', 'x-default': '/guides/kitchen-renovation-costs/' } },
 }
 

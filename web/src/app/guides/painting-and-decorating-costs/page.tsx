@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../guides.css'
 
 export const metadata: Metadata = {
-  title: 'painting and decorating costs // lowriskquotes',
+  title: 'Painting and Decorating Cost UK 2026: Price Ranges by Line',
   description:
-    'UK painting and decorating costs for contractors. Interior and exterior rates, risk factors like prep work and wallpaper removal, plus a worked example for a full house interior.',
+    'Realistic UK painting and decorating rates, interior and exterior, with risk factors like prep and wallpaper removal plus a worked full-house example.',
   alternates: { canonical: '/guides/painting-and-decorating-costs/' },
 }
 

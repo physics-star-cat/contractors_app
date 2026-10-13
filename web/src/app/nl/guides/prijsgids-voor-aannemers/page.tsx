@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Prijsgids voor aannemers 2026 // lowriskquotes',
+  title: 'Prijsgids voor aannemers: van opmeting tot offerte',
   description:
     'Hoe maak je een offerte als aannemer? Complete gids van opmeting tot presentatie aan de klant.',
   alternates: { canonical: '/nl/guides/prijsgids-voor-aannemers/' },

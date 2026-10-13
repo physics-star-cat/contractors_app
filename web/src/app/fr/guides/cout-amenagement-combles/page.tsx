@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Coût aménagement combles France 2026 // lowriskquotes',
+  title: 'Coût aménagement combles France 2026 : prix poste par poste',
   description:
     'Coûts réalistes d\'aménagement de combles en France. Ventilation poste par poste avec niveaux de risque pour artisans.',
   alternates: { canonical: '/fr/guides/cout-amenagement-combles/' },

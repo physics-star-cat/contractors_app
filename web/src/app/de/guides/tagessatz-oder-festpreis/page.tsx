@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Tagessatz oder Festpreis? Ratgeber 2026 // lowriskquotes',
+  title: 'Tagessatz oder Festpreis? Welches Modell Ihre Marge schützt',
   description:
     'Wann Handwerker besser auf Tagessatz arbeiten und wann ein Festpreis sinnvoll ist. Vor- und Nachteile beider Modelle mit konkreten Beispielen.',
   alternates: { canonical: '/de/guides/tagessatz-oder-festpreis/' },

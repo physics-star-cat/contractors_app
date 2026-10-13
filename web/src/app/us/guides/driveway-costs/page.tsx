@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'driveway costs // lowriskquotes',
+  title: 'Driveway Cost US 2026: Line-by-Line Price Ranges',
   description:
-    'Realistic driveway costs for US contractors. Concrete, asphalt, pavers, and gravel — with line-by-line risk ratings so you bid driveways without losing your shirt.',
+    'Realistic US driveway cost ranges: concrete, asphalt, pavers and gravel, with line-by-line risk ratings so you can bid driveways without losing your shirt.',
   alternates: { canonical: '/us/guides/driveway-costs/', languages: { 'en-AU': '/au/guides/driveway-costs/', 'en-CA': '/ca/guides/driveway-costs/', 'en-GB': '/guides/driveway-costs/', 'en-US': '/us/guides/driveway-costs/', 'x-default': '/guides/driveway-costs/' } },
 }
 

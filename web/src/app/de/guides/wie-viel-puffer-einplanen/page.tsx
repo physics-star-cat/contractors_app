@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Wie viel Puffer einplanen? Ratgeber 2026 // lowriskquotes',
+  title: 'Wie viel Puffer einplanen? Warum pauschal 10 % nicht reicht',
   description:
-    'Wie viel Puffer sollten Handwerker bei der Kalkulation einplanen? Warum pauschale 10 % nicht reichen und wie positionsweise Risikobewertung besser funktioniert.',
+    'Den richtigen Puffer für jede Kalkulation: warum pauschale 10 % nicht reichen und wie eine Risikobewertung Position für Position besser funktioniert.',
   alternates: { canonical: '/de/guides/wie-viel-puffer-einplanen/' },
 }
 

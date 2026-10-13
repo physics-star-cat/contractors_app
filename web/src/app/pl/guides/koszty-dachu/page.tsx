@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Koszty dachu 2026 // lowriskquotes',
+  title: 'Koszty dachu 2026: ceny pozycja po pozycji',
   description:
     'Realne koszty prac dachowych dla polskich wykonawców. Wymiana dachu, naprawy, rynny — pozycja po pozycji z ocenami ryzyka, abyś wycenił dach bez strat.',
   alternates: { canonical: '/pl/guides/koszty-dachu/' },

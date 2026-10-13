@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Pergola Costs Australia 2026 // lowriskquotes',
+  title: 'Pergola Cost Australia 2026: Line-by-Line Price Ranges',
   description:
-    'Pergola and patio costs in Australia — timber, aluminium, insulated panels. Real tradie pricing per square metre with council exemption sizes and risk ratings.',
+    'Realistic pergola and patio costs per square metre in Australia: timber, aluminium and insulated panels, with council exemption sizes and risk ratings.',
   alternates: { canonical: '/au/guides/pergola-costs/' },
 }
 

@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Coût toiture France 2026 // lowriskquotes',
+  title: 'Coût toiture France 2026 : prix poste par poste',
   description:
-    'Coûts réalistes de toiture pour artisans couvreurs en France. Réfection complète, toiture plate, réparations et zinguerie — avec niveaux de risque pour chiffrer sans se brûler.',
+    'Coûts réalistes de toiture en France : réfection, toit plat, réparations et zinguerie, avec niveaux de risque pour chiffrer sans se brûler.',
   alternates: { canonical: '/fr/guides/cout-toiture/' },
 }
 

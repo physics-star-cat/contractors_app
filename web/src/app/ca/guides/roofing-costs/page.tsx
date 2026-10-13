@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Roofing Costs Canada 2026 // lowriskquotes',
+  title: 'Roofing Cost Canada 2026: Line-by-Line Price Ranges',
   description:
-    'Realistic roofing costs for Canadian contractors in CAD. Asphalt shingles, metal roofing, flat roofs, and ice/water shield — with line-by-line risk ratings so you can quote roofing work without getting burned.',
+    'Realistic roofing cost ranges in Canada (CAD): asphalt shingles, metal, flat roofs and ice/water shield, with line-by-line risk ratings.',
   alternates: { canonical: '/ca/guides/roofing-costs/', languages: { 'en-AU': '/au/guides/roofing-costs/', 'en-CA': '/ca/guides/roofing-costs/', 'en-GB': '/guides/roofing-costs/', 'en-US': '/us/guides/roofing-costs/', 'x-default': '/guides/roofing-costs/' } },
 }
 

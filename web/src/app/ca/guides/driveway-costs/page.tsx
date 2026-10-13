@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Driveway Costs Canada 2026 // lowriskquotes',
+  title: 'Driveway Cost Canada 2026: Line-by-Line Price Ranges',
   description:
-    'Realistic driveway costs for Canadian contractors in CAD. Asphalt, interlock, concrete, and gravel — with freeze-thaw considerations and line-by-line risk ratings.',
+    'Realistic driveway cost ranges in Canada (CAD): asphalt, interlock, concrete and gravel, with freeze-thaw factors and line-by-line risk ratings.',
   alternates: { canonical: '/ca/guides/driveway-costs/', languages: { 'en-AU': '/au/guides/driveway-costs/', 'en-CA': '/ca/guides/driveway-costs/', 'en-GB': '/guides/driveway-costs/', 'en-US': '/us/guides/driveway-costs/', 'x-default': '/guides/driveway-costs/' } },
 }
 

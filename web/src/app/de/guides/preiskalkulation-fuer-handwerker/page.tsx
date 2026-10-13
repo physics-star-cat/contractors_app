@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Preiskalkulation für Handwerker 2026 // lowriskquotes',
+  title: 'Preiskalkulation für Handwerker: Schritt für Schritt',
   description:
-    'Leitfaden zur Preiskalkulation für Handwerker in Deutschland. Wie Sie Ihre Stunden, Material und Gemeinkosten richtig einkalkulieren und Ihre Marge schützen.',
+    'Kalkulieren Sie Stunden, Material und Gemeinkosten richtig und schützen Sie Ihre Marge: Leitfaden zur Preiskalkulation für Handwerker.',
   alternates: { canonical: '/de/guides/preiskalkulation-fuer-handwerker/' },
 }
 

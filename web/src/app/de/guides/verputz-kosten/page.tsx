@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Verputz Kosten Deutschland 2026 // lowriskquotes',
+  title: 'Verputz Kosten 2026: Preise Position für Position',
   description:
     'Realistische Kosten für Putzarbeiten in Deutschland. Innenputz, Außenputz, Sanierputz — Position für Position mit Risikobewertungen.',
   alternates: { canonical: '/de/guides/verputz-kosten/' },

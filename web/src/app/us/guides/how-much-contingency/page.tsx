@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'How Much Contingency Should a Contractor Add? // lowriskquotes',
+  title: 'How Much Contingency to Add to a Bid (Not a Flat 10%)',
   description:
     'Why flat contingency percentages fail contractors and how probabilistic estimation gives you a smarter buffer based on actual project risk.',
   alternates: { canonical: '/us/guides/how-much-contingency/', languages: { 'en-AU': '/au/guides/how-much-contingency/', 'en-CA': '/ca/guides/how-much-contingency/', 'en-GB': '/guides/how-much-contingency/', 'en-US': '/us/guides/how-much-contingency/', 'x-default': '/guides/how-much-contingency/' } },

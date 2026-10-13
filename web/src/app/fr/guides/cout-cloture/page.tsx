@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Prix clôture France 2026 // lowriskquotes',
+  title: 'Coût clôture France 2026 : prix poste par poste',
   description:
     'Prix réalistes de clôture au mètre linéaire en France. Grillage, palissade bois, PVC, aluminium — détaillés avec évaluations de risque pour les artisans.',
   alternates: { canonical: '/fr/guides/cout-cloture/' },

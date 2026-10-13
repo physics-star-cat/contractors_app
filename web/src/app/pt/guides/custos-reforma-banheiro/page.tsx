@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Custos de reforma de banheiro Brasil 2026 // lowriskquotes',
+  title: 'Custo de reforma de banheiro 2026: preços item por item',
   description:
-    'Custos reais de reforma de banheiro para profissionais da construção no Brasil. Detalhamento item por item com níveis de risco para orçar suas obras sem perder dinheiro.',
+    'Custos reais de reforma de banheiro no Brasil, item por item com níveis de risco, para orçar suas obras sem perder dinheiro.',
   alternates: { canonical: '/pt/guides/custos-reforma-banheiro/' },
 }
 

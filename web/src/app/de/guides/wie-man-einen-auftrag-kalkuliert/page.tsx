@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Wie man einen Auftrag als Handwerker kalkuliert // lowriskquotes',
+  title: 'Auftrag kalkulieren: Preise als Handwerker ohne Risiko',
   description:
-    'Ein praktischer Leitfaden zur genauen Auftragskalkulation. Erfahren Sie, warum Handwerker zu niedrig kalkulieren, wie Sie das Risiko jeder Position bewerten und wie Monte-Carlo-Simulation sicherere Angebote erstellt.',
+    'Genau kalkulieren: warum Handwerker zu niedrig ansetzen, wie Sie jede Position nach Risiko bewerten und wie Monte Carlo sicherere Angebote liefert.',
   alternates: { canonical: '/de/guides/wie-man-einen-auftrag-kalkuliert/' },
 }
 

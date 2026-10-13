@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../guides.css'
 
 export const metadata: Metadata = {
-  title: 'driveway costs // lowriskquotes',
+  title: 'Driveway Cost UK 2026: Line-by-Line Price Ranges',
   description:
-    'Realistic driveway costs for UK contractors. Block paving, tarmac, resin-bound, gravel and concrete — with line-by-line risk ratings so you quote driveways without losing your shirt.',
+    'Realistic UK driveway cost ranges: block paving, tarmac, resin-bound, gravel and concrete, with line-by-line risk ratings so your quote holds up.',
   alternates: { canonical: '/guides/driveway-costs/', languages: { 'en-AU': '/au/guides/driveway-costs/', 'en-CA': '/ca/guides/driveway-costs/', 'en-GB': '/guides/driveway-costs/', 'en-US': '/us/guides/driveway-costs/', 'x-default': '/guides/driveway-costs/' } },
 }
 

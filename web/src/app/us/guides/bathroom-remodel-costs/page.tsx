@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Bathroom Remodel Costs US 2026 // lowriskquotes',
+  title: 'Bathroom Remodel Cost US 2026: Line-by-Line Price Ranges',
   description:
     'Realistic bathroom remodel costs for US contractors. Line-by-line breakdown with uncertainty ratings so you can bid bathrooms without losing money.',
   alternates: { canonical: '/us/guides/bathroom-remodel-costs/' },

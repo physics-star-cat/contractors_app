@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Dakwerk kosten Nederland 2026 // lowriskquotes',
+  title: 'Dakwerk kosten Nederland 2026: prijzen per post',
   description:
-    'Realistische dakwerkkosten voor Nederlandse aannemers. Volledige dakrenovaties, platte daken, reparaties en dakgoten — met risicobeoordelingen per post zodat u dakwerk kunt offreren zonder verliezen.',
+    'Realistische dakwerkkosten in Nederland: dakrenovatie, platte daken, reparaties en dakgoten, met risicobeoordeling per post om zonder verlies te offreren.',
   alternates: { canonical: '/nl/guides/dakwerk-kosten/' },
 }
 

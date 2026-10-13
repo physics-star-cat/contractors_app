@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Hoeveel marge inbouwen? 2026 // lowriskquotes',
+  title: 'Hoeveel marge inbouwen? Risicobuffer zonder gokken',
   description:
     'Hoeveel marge moet je inbouwen in je offerte? Gids voor aannemers — risicobuffer per post in plaats van een vast percentage.',
   alternates: { canonical: '/nl/guides/hoeveel-marge-inbouwen/' },

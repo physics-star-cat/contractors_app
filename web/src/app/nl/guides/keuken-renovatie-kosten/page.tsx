@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Keuken renovatie kosten Nederland 2026 // lowriskquotes',
+  title: 'Keuken renovatie kosten Nederland 2026: prijzen per post',
   description:
-    'Realistische keukenrenovatiekosten voor Nederlandse aannemers. Volledige kostenuitsplitsing per post met risicobeoordelingen om keukenopdrachten nauwkeurig te offreren.',
+    'Realistische keukenrenovatiekosten in Nederland, post voor post met risicobeoordeling, om keukenopdrachten nauwkeurig te offreren.',
   alternates: { canonical: '/nl/guides/keuken-renovatie-kosten/' },
 }
 

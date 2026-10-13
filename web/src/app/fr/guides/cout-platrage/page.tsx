@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Coût plâtrage France 2026 // lowriskquotes',
+  title: 'Coût plâtrage France 2026 : prix poste par poste',
   description:
     'Coûts réalistes de plâtrage en France. Enduit intérieur, ravalement, doublage — ventilation poste par poste avec niveaux de risque.',
   alternates: { canonical: '/fr/guides/cout-platrage/' },

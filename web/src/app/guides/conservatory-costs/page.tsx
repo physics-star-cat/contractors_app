@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../guides.css'
 
 export const metadata: Metadata = {
-  title: 'Conservatory Costs UK 2026 // lowriskquotes',
+  title: 'Conservatory Cost UK 2026: Line-by-Line Price Ranges',
   description:
-    'Realistic conservatory costs for UK homeowners and contractors. Lean-to, Victorian, Edwardian and orangery prices with building regs guidance and planning advice.',
+    'Realistic UK conservatory cost ranges for 2026: lean-to, Victorian, Edwardian and orangery, with building regs and planning guidance.',
   alternates: { canonical: '/guides/conservatory-costs/' },
 }
 

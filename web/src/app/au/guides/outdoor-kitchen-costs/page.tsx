@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Outdoor Kitchen Costs Australia 2026 // lowriskquotes',
+  title: 'Outdoor Kitchen Cost Australia 2026: Price Ranges by Line',
   description:
     'Real outdoor kitchen costs for Australian tradies. BBQ setups to full alfresco kitchens — AUD pricing, risk ratings, and what catches builders out.',
   alternates: { canonical: '/au/guides/outdoor-kitchen-costs/' },

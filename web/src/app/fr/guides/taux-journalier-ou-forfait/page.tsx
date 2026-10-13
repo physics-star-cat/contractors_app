@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Taux journalier ou forfait ? 2026 // lowriskquotes',
+  title: 'Taux journalier ou forfait ? Lequel protège votre marge',
   description:
-    'Quand les artisans doivent-ils travailler en régie et quand un forfait est-il préférable ? Avantages et inconvénients des deux modèles avec exemples concrets.',
+    'Choisissez entre régie et forfait : avantages et inconvénients des deux modèles pour les artisans, avec exemples concrets.',
   alternates: { canonical: '/fr/guides/taux-journalier-ou-forfait/' },
 }
 

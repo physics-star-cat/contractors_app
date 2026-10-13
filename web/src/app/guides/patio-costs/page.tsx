@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../guides.css'
 
 export const metadata: Metadata = {
-  title: 'Patio Costs UK 2026 // lowriskquotes',
+  title: 'Patio Cost UK 2026: Line-by-Line Price Ranges',
   description:
-    'Realistic patio costs for UK homeowners and contractors. Indian sandstone, porcelain, concrete and block paving prices with per-sqm rates, sub-base advice and drainage regs.',
+    'Realistic UK patio cost ranges: Indian sandstone, porcelain, concrete and block paving, with per-sqm rates, sub-base advice and drainage regs.',
   alternates: { canonical: '/guides/patio-costs/' },
 }
 

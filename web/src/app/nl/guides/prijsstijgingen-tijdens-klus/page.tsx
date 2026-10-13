@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Prijsstijgingen tijdens klus 2026 // lowriskquotes',
+  title: 'Prijsstijgingen tijdens de klus: zo bescherm je jezelf',
   description:
     'Hoe ga je om met prijsstijgingen van materialen tijdens een klus? Strategieën voor aannemers op een onzekere markt.',
   alternates: { canonical: '/nl/guides/prijsstijgingen-tijdens-klus/' },

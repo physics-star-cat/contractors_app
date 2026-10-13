@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../guides.css'
 
 export const metadata: Metadata = {
-  title: 'New Boiler Costs UK 2026 // lowriskquotes',
+  title: 'New Boiler Cost UK 2026: Line-by-Line Price Ranges',
   description:
-    'Realistic new boiler installation costs for UK homeowners and contractors. Combi, system and regular boiler prices with Gas Safe requirements and practical fitting advice.',
+    'Realistic UK new boiler cost ranges for combi, system and regular boilers, with Gas Safe requirements and practical fitting advice.',
   alternates: { canonical: '/guides/new-boiler-costs/' },
 }
 

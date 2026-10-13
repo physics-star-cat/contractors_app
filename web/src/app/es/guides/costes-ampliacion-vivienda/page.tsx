@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Costes ampliación vivienda 2026 // lowriskquotes',
+  title: 'Coste ampliación de vivienda 2026: precios por partida',
   description:
     'Cuánto cuesta una ampliación de vivienda en España. Desglose completo con evaluación de riesgo para contratistas.',
   alternates: { canonical: '/es/guides/costes-ampliacion-vivienda/' },

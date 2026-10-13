@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Coût peinture France 2026 // lowriskquotes',
+  title: 'Coût peinture France 2026 : prix poste par poste',
   description:
     'Coûts réalistes de peinture en France. Intérieur, façade, laquage — ventilation poste par poste avec niveaux de risque pour artisans.',
   alternates: { canonical: '/fr/guides/cout-peinture/' },

@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Basement Finishing Costs Canada 2026 // lowriskquotes',
+  title: 'Basement Finishing Cost Canada 2026: Price Ranges by Line',
   description:
-    'Realistic basement finishing costs for Canadian contractors in CAD. Full breakdown covering framing, insulation, egress windows, and moisture management so you can quote basements confidently.',
+    'Realistic basement finishing cost ranges in Canada (CAD): framing, insulation, egress windows and moisture control, with risk ratings on every line.',
   alternates: { canonical: '/ca/guides/basement-finishing-costs/', languages: { 'en-CA': '/ca/guides/basement-finishing-costs/', 'en-US': '/us/guides/basement-finishing-costs/', 'x-default': '/us/guides/basement-finishing-costs/' } },
 }
 

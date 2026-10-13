@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Costes enlucido 2026 // lowriskquotes',
+  title: 'Coste enlucido España 2026: precios partida por partida',
   description:
     'Cuánto cuesta enlucir paredes y techos en España. Precios por m² de yeso, cemento y monocapa con evaluación de riesgo.',
   alternates: { canonical: '/es/guides/costes-enlucido/' },

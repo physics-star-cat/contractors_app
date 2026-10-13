@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Granny Flat Costs Australia 2026 // lowriskquotes',
+  title: 'Granny Flat Cost Australia 2026: Line-by-Line Price Ranges',
   description:
     'What granny flats actually cost to build in Australia. Kit homes vs custom builds, DA requirements, connection costs, and where builders lose money.',
   alternates: { canonical: '/au/guides/granny-flat-costs/' },

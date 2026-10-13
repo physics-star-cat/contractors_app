@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Costes de tejado España 2026 // lowriskquotes',
+  title: 'Coste tejado España 2026: precios partida por partida',
   description:
-    'Costes reales de trabajos de tejado para contratistas en España. Retejados, tejados planos, reparaciones y canalones — con niveles de riesgo por partida para presupuestar sin perder dinero.',
+    'Costes reales de tejado en España: retejados, cubiertas planas, reparaciones y canalones, con niveles de riesgo por partida para no perder dinero.',
   alternates: { canonical: '/es/guides/costes-tejado/' },
 }
 

@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Koszty podjazdu 2026 // lowriskquotes',
+  title: 'Koszty podjazdu 2026: ceny pozycja po pozycji',
   description:
     'Ile kosztuje wykonanie podjazdu w Polsce? Kostka, asfalt, beton — realne ceny z oceną ryzyka dla wykonawców.',
   alternates: { canonical: '/pl/guides/koszty-podjazdu/' },

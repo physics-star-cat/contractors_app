@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Dachbodenausbau Kosten Deutschland 2026 // lowriskquotes',
+  title: 'Dachbodenausbau Kosten 2026: Preise Position für Position',
   description:
     'Realistische Kosten für einen Dachbodenausbau in Deutschland. Position für Position aufgeschlüsselt mit Risikobewertungen für eine sichere Kalkulation.',
   alternates: { canonical: '/de/guides/dachbodenausbau-kosten/' },

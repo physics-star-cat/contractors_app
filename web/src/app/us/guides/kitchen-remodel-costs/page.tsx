@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Kitchen Remodel Costs US 2026 // lowriskquotes',
+  title: 'Kitchen Remodel Cost US 2026: Line-by-Line Price Ranges',
   description:
     'Realistic kitchen remodel costs for US contractors. Full line-by-line cost breakdown with risk ratings to help you bid kitchen jobs accurately.',
   alternates: { canonical: '/us/guides/kitchen-remodel-costs/' },

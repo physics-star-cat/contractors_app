@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Mutfak renovasyon maliyetleri Türkiye 2026 // lowriskquotes',
+  title: 'Mutfak renovasyon maliyetleri 2026: kalem kalem fiyatlar',
   description:
-    'Türkiye\'deki ustalar için gerçekçi mutfak renovasyon maliyetleri. Mutfaklarınızı hassas bir şekilde fiyatlandırmak için risk seviyeleriyle eksiksiz kalem kalem dökümü.',
+    'Türkiye\'de gerçekçi mutfak renovasyon maliyetleri, kalem kalem ve risk seviyeleriyle, mutfak işlerini doğru fiyatlandırmanız için.',
   alternates: { canonical: '/tr/guides/mutfak-renovasyon-maliyetleri/' },
 }
 

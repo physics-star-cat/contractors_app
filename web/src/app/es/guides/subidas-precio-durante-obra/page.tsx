@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Subidas de precio durante la obra 2026 // lowriskquotes',
+  title: 'Subidas de precio durante la obra: cómo protegerte',
   description:
     'Cómo protegerse de las subidas de precio de materiales durante una obra. Estrategias para contratistas en un mercado inestable.',
   alternates: { canonical: '/es/guides/subidas-precio-durante-obra/' },

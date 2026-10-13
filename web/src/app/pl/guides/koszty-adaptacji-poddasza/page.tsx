@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Koszty adaptacji poddasza 2026 // lowriskquotes',
+  title: 'Koszty adaptacji poddasza 2026: ceny pozycja po pozycji',
   description:
     'Ile kosztuje adaptacja poddasza w Polsce? Pełne rozbicie kosztów z oceną ryzyka dla wykonawców.',
   alternates: { canonical: '/pl/guides/koszty-adaptacji-poddasza/' },

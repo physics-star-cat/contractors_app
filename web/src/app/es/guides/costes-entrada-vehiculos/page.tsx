@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Costes entrada de vehículos 2026 // lowriskquotes',
+  title: 'Coste entrada de vehículos 2026: precios partida por partida',
   description:
     'Cuánto cuesta una entrada de vehículos en España. Adoquín, hormigón, asfalto — precios reales con evaluación de riesgo.',
   alternates: { canonical: '/es/guides/costes-entrada-vehiculos/' },

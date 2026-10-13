@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Deck Building Costs Canada 2026 // lowriskquotes',
+  title: 'Deck Building Cost Canada 2026: Line-by-Line Price Ranges',
   description:
-    'Realistic deck building costs for Canadian contractors in CAD. Covers pressure-treated, cedar, and composite decking with frost depth footings and permit requirements by province.',
+    'Realistic deck building cost ranges in Canada (CAD): pressure-treated, cedar and composite, with frost-depth footings and permit rules by province.',
   alternates: { canonical: '/ca/guides/deck-building-costs/', languages: { 'en-CA': '/ca/guides/deck-building-costs/', 'en-US': '/us/guides/deck-building-costs/', 'x-default': '/us/guides/deck-building-costs/' } },
 }
 

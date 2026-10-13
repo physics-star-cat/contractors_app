@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../guides.css'
 
 export const metadata: Metadata = {
-  title: 'Garage Conversion Costs UK 2026 // lowriskquotes',
+  title: 'Garage Conversion Cost UK 2026: Line-by-Line Price Ranges',
   description:
-    'Realistic garage conversion costs for UK homeowners and contractors. Single and double garage prices, building regs, insulation, damp proofing and RSL beam guidance.',
+    'Realistic UK garage conversion cost ranges for single and double garages, plus building regs, insulation, damp proofing and RSJ beam guidance.',
   alternates: { canonical: '/guides/garage-conversion-costs/' },
 }
 

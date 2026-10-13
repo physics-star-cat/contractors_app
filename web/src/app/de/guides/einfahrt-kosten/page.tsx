@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Einfahrt Kosten Deutschland 2026 // lowriskquotes',
+  title: 'Einfahrt Kosten 2026: Preise Position für Position',
   description:
     'Realistische Kosten für eine neue Einfahrt in Deutschland. Pflaster, Asphalt oder Beton — Position für Position mit Risikobewertungen.',
   alternates: { canonical: '/de/guides/einfahrt-kosten/' },

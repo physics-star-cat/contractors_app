@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Dachdeckerkosten Deutschland 2026 // lowriskquotes',
+  title: 'Dachdecker Kosten 2026: Preise Position für Position',
   description:
-    'Realistische Dachdeckerkosten für deutsche Handwerksbetriebe. Komplettsanierung, Flachdach, Reparaturen und Dachrinnen — mit Risikobewertungen für eine sichere Kalkulation.',
+    'Realistische Dachdeckerkosten in Deutschland: Komplettsanierung, Flachdach, Reparaturen und Dachrinnen, mit Risikobewertung für sichere Kalkulation.',
   alternates: { canonical: '/de/guides/dach-kosten/' },
 }
 

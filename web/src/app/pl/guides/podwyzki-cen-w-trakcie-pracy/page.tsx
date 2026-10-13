@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Podwyżki cen w trakcie pracy 2026 // lowriskquotes',
+  title: 'Podwyżki cen w trakcie pracy: jak się zabezpieczyć',
   description:
     'Jak radzić sobie z podwyżkami cen materiałów w trakcie zlecenia? Strategie dla wykonawców na niestabilnym rynku.',
   alternates: { canonical: '/pl/guides/podwyzki-cen-w-trakcie-pracy/' },

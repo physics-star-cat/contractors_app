@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Maler Kosten Deutschland 2026 // lowriskquotes',
+  title: 'Maler Kosten Deutschland 2026: Preise Position für Position',
   description:
     'Realistische Kosten für Malerarbeiten in Deutschland. Innenanstrich, Fassade, Tapezieren — Position für Position mit Risikobewertungen.',
   alternates: { canonical: '/de/guides/maler-kosten/' },

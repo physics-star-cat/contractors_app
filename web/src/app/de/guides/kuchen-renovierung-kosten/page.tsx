@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Küchen-Renovierung Kosten Deutschland 2026 // lowriskquotes',
+  title: 'Küchenrenovierung Kosten 2026: Preise Position für Position',
   description:
     'Realistische Kosten für Küchenrenovierung in Deutschland. Vollständige Kostenaufschlüsselung mit Risikobewertungen für eine sichere Auftragskalkulation.',
   alternates: { canonical: '/de/guides/kuchen-renovierung-kosten/' },

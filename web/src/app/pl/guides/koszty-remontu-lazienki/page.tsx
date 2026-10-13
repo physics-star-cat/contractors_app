@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Koszty remontu łazienki 2026 // lowriskquotes',
+  title: 'Koszty remontu łazienki 2026: ceny pozycja po pozycji',
   description:
     'Realne koszty remontu łazienki dla polskich wykonawców. Pozycja po pozycji z ocenami ryzyka, abyś mógł wycenić łazienkę bez straty.',
   alternates: { canonical: '/pl/guides/koszty-remontu-lazienki/' },

@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Coût rénovation salle de bain France 2026 // lowriskquotes',
+  title: 'Coût rénovation salle de bain 2026 : prix poste par poste',
   description:
-    'Coûts réalistes de rénovation de salle de bain pour artisans en France. Ventilation poste par poste avec niveaux de risque pour chiffrer vos chantiers sans perdre d\'argent.',
+    'Coûts réalistes de rénovation de salle de bain en France, poste par poste avec niveaux de risque, pour chiffrer sans perdre d\'argent.',
   alternates: { canonical: '/fr/guides/cout-renovation-salle-de-bain/' },
 }
 

@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Bathroom Renovation Costs Australia 2026 // lowriskquotes',
+  title: 'Bathroom Renovation Cost Australia 2026: Line-by-Line Prices',
   description:
-    'Realistic bathroom renovation costs for Australian tradies. Line-by-line breakdown in AUD with uncertainty ratings so you can quote bathrooms without losing money.',
+    'Realistic bathroom renovation cost ranges in Australia (AUD), line by line with uncertainty ratings so tradies can quote bathrooms without losing money.',
   alternates: { canonical: '/au/guides/bathroom-renovation-costs/', languages: { 'en-AU': '/au/guides/bathroom-renovation-costs/', 'en-CA': '/ca/guides/bathroom-renovation-costs/', 'en-GB': '/guides/bathroom-renovation-costs/', 'x-default': '/guides/bathroom-renovation-costs/' } },
 }
 

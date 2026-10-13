@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../guides.css'
 
 export const metadata: Metadata = {
-  title: 'loft conversion costs // lowriskquotes',
+  title: 'Loft Conversion Cost UK 2026: Line-by-Line Price Ranges',
   description:
-    'Realistic loft conversion costs broken down by type. Velux, dormer, hip-to-gable, and mansard — with risk ratings on every line item so contractors can quote lofts with confidence.',
+    'Realistic UK loft conversion cost ranges: Velux, dormer, hip-to-gable and mansard, with risk ratings on every line item so you quote with confidence.',
   alternates: { canonical: '/guides/loft-conversion-costs/' },
 }
 

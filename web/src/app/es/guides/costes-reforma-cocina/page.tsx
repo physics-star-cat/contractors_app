@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Costes de reforma de cocina España 2026 // lowriskquotes',
+  title: 'Coste reforma de cocina 2026: precios partida por partida',
   description:
-    'Costes reales de reforma de cocina para contratistas en España. Desglose completo partida por partida con niveles de riesgo para presupuestar cocinas con precisión.',
+    'Costes reales de reforma de cocina en España, partida por partida con niveles de riesgo, para que presupuestes cocinas con precisión.',
   alternates: { canonical: '/es/guides/costes-reforma-cocina/' },
 }
 

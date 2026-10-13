@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Hur man gör en offert som hantverkare // lowriskquotes',
+  title: 'Hur man gör en offert: prissätt jobbet utan risk',
   description:
-    'Praktisk guide för att prissätta dina projekt med precision. Lär dig varför hantverkare underprisar, hur du bedömer risk på varje post och hur Monte Carlo-simulering bygger säkrare offerter.',
+    'Prissätt dina projekt med precision: varför hantverkare underprisar, hur du bedömer risken på varje post och hur Monte Carlo ger säkrare offerter.',
   alternates: { canonical: '/sv/guides/hur-man-offerterar/' },
 }
 

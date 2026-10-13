@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../guides.css'
 
 export const metadata: Metadata = {
-  title: 'Bathroom Renovation Costs UK 2026 // lowriskquotes',
+  title: 'Bathroom Renovation Cost UK 2026: Line-by-Line Price Ranges',
   description:
     'Realistic bathroom renovation costs for UK contractors. Line-by-line breakdown with uncertainty ratings so you can quote bathrooms without losing money.',
   alternates: { canonical: '/guides/bathroom-renovation-costs/', languages: { 'en-AU': '/au/guides/bathroom-renovation-costs/', 'en-CA': '/ca/guides/bathroom-renovation-costs/', 'en-GB': '/guides/bathroom-renovation-costs/', 'x-default': '/guides/bathroom-renovation-costs/' } },

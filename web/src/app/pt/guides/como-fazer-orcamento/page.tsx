@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Como fazer um orçamento de obra // lowriskquotes',
+  title: 'Como fazer um orçamento de obra sem perder dinheiro',
   description:
-    'Guia prático para orçar suas obras com precisão. Descubra por que profissionais subestimam seus orçamentos, como avaliar o risco em cada item e como a simulação Monte Carlo constrói orçamentos mais seguros.',
+    'Orce obras com precisão: por que profissionais subestimam orçamentos, como avaliar o risco de cada item e como Monte Carlo gera orçamentos mais seguros.',
   alternates: { canonical: '/pt/guides/como-fazer-orcamento/' },
 }
 

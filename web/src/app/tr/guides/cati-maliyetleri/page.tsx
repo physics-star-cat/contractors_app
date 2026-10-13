@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Çatı maliyetleri Türkiye 2026 // lowriskquotes',
+  title: 'Çatı maliyetleri Türkiye 2026: kalem kalem fiyatlar',
   description:
-    'Türkiye\'deki ustalar için gerçekçi çatı maliyetleri. Komple yenileme, düz çatı, onarımlar ve sac işleri — fiyatlandırmada yanılmamak için risk seviyeleriyle.',
+    'Türkiye\'de gerçekçi çatı maliyetleri: komple yenileme, düz çatı, onarım ve sac işleri, fiyatlandırmada yanılmamak için risk seviyeleriyle.',
   alternates: { canonical: '/tr/guides/cati-maliyetleri/' },
 }
 

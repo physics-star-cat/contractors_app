@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Deck Building Costs US 2026 // lowriskquotes',
+  title: 'Deck Building Cost US 2026: Line-by-Line Price Ranges',
   description:
     'Realistic deck building costs for US contractors. Line-by-line breakdown with uncertainty ratings so you can bid deck projects without losing money.',
   alternates: { canonical: '/us/guides/deck-building-costs/', languages: { 'en-CA': '/ca/guides/deck-building-costs/', 'en-US': '/us/guides/deck-building-costs/', 'x-default': '/us/guides/deck-building-costs/' } },

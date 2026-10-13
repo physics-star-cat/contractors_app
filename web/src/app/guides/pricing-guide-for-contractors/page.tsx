@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../guides.css'
 
 export const metadata: Metadata = {
-  title: 'Pricing Guide for Contractors // lowriskquotes',
+  title: 'Contractor Pricing Guide: Cost-Plus, Value or Competitive?',
   description:
     'How to price your work as a contractor. Cost-plus, value-based, and competitive pricing strategies explained with practical advice for tradespeople.',
   alternates: { canonical: '/guides/pricing-guide-for-contractors/' },

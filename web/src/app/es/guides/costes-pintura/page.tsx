@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Costes pintura 2026 // lowriskquotes',
+  title: 'Coste pintura España 2026: precios partida por partida',
   description:
     'Cuánto cuesta pintar una vivienda en España. Precios por m², costes ocultos y evaluación de riesgo para contratistas.',
   alternates: { canonical: '/es/guides/costes-pintura/' },

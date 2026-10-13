@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Flooring Costs US 2026 // lowriskquotes',
+  title: 'Flooring Cost US 2026: Line-by-Line Price Ranges',
   description:
-    'Realistic flooring installation costs for US contractors. Line-by-line breakdown with uncertainty ratings so you can bid flooring jobs without losing money.',
+    'Realistic US flooring installation cost ranges, line by line with uncertainty ratings so you can bid flooring jobs without losing money.',
   alternates: { canonical: '/us/guides/flooring-costs/', languages: { 'en-AU': '/au/guides/flooring-costs/', 'en-CA': '/ca/guides/flooring-costs/', 'en-US': '/us/guides/flooring-costs/', 'x-default': '/us/guides/flooring-costs/' } },
 }
 

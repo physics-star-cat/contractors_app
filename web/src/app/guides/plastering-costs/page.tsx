@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../guides.css'
 
 export const metadata: Metadata = {
-  title: 'plastering costs // lowriskquotes',
+  title: 'Plastering Cost UK 2026: Line-by-Line Price Ranges',
   description:
-    'UK plastering costs broken down by type: skim coat, full re-plaster, dry lining, and rendering. Per-sqm rates, risk factors, and a worked example for a 3-bed house.',
+    'Realistic UK plastering cost ranges: skim, full re-plaster, dry lining and rendering, with per-sqm rates, risk factors and a 3-bed worked example.',
   alternates: { canonical: '/guides/plastering-costs/' },
 }
 

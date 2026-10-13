@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Window Replacement Costs Canada 2026 // lowriskquotes',
+  title: 'Window Replacement Cost Canada 2026: Price Ranges by Line',
   description:
-    'Realistic window replacement costs for Canadian contractors in CAD. Covers double vs triple pane, vinyl vs fibreglass, Energy Star ratings, and rebate programs like Greener Homes.',
+    'Realistic window replacement cost ranges in Canada (CAD): double vs triple pane, vinyl vs fibreglass, Energy Star ratings and rebate programs.',
   alternates: { canonical: '/ca/guides/window-replacement-costs/' },
 }
 

@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../guides.css'
 
 export const metadata: Metadata = {
-  title: 'How to Quote a Job as a Contractor // lowriskquotes',
+  title: 'How to Quote a Job: Contractor Pricing Without the Risk',
   description:
-    'A practical guide to quoting jobs accurately. Learn why contractors underquote, how to assess risk on each line item, and how Monte Carlo simulation builds safer quotes.',
+    'Quote jobs accurately: why contractors underquote, how to rate the risk on each line item, and how Monte Carlo simulation builds safer quotes.',
   alternates: { canonical: '/guides/how-to-quote-a-job/', languages: { 'en-AU': '/au/guides/how-to-quote-a-job/', 'en-CA': '/ca/guides/how-to-quote-a-job/', 'en-GB': '/guides/how-to-quote-a-job/', 'x-default': '/guides/how-to-quote-a-job/' } },
 }
 

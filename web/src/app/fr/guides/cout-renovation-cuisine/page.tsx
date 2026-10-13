@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Coût rénovation cuisine France 2026 // lowriskquotes',
+  title: 'Coût rénovation cuisine France 2026 : prix poste par poste',
   description:
-    'Coûts réalistes de rénovation de cuisine pour artisans en France. Ventilation complète poste par poste avec niveaux de risque pour chiffrer vos cuisines avec précision.',
+    'Coûts réalistes de rénovation de cuisine en France, poste par poste avec niveaux de risque, pour chiffrer vos cuisines avec précision.',
   alternates: { canonical: '/fr/guides/cout-renovation-cuisine/' },
 }
 

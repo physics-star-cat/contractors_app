@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Guide de tarification pour artisans 2026 // lowriskquotes',
+  title: 'Guide de tarification pour artisans : étape par étape',
   description:
     'Guide de tarification pour artisans en France. Comment calculer vos heures, matériaux et frais généraux pour protéger votre marge.',
   alternates: { canonical: '/fr/guides/guide-tarification-artisans/' },

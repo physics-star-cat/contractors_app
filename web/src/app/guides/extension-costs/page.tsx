@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../guides.css'
 
 export const metadata: Metadata = {
-  title: 'how much does a house extension cost // lowriskquotes',
+  title: 'House Extension Cost UK 2026: Line-by-Line Price Ranges',
   description:
-    'Realistic house extension costs for UK contractors. Single-storey and two-storey breakdowns with risk ratings on every line item so you can quote extensions without getting burned.',
+    'Realistic UK house extension cost ranges, single- and two-storey, with a risk rating on every line item so you can quote extensions without getting burned.',
   alternates: { canonical: '/guides/extension-costs/', languages: { 'en-AU': '/au/guides/extension-costs/', 'en-CA': '/ca/guides/extension-costs/', 'en-GB': '/guides/extension-costs/', 'x-default': '/guides/extension-costs/' } },
 }
 

@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Basement Finishing Costs US 2026 // lowriskquotes',
+  title: 'Basement Finishing Cost US 2026: Line-by-Line Price Ranges',
   description:
     'Realistic basement finishing costs for US contractors. Line-by-line breakdown with uncertainty ratings so you can bid basement jobs without losing money.',
   alternates: { canonical: '/us/guides/basement-finishing-costs/', languages: { 'en-CA': '/ca/guides/basement-finishing-costs/', 'en-US': '/us/guides/basement-finishing-costs/', 'x-default': '/us/guides/basement-finishing-costs/' } },

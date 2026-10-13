@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Zolder verbouwing kosten 2026 // lowriskquotes',
+  title: 'Zolder verbouwing kosten Nederland 2026: prijzen per post',
   description:
     'Wat kost een zolderverbouwing in Nederland? Realistisch kostenoverzicht met risicobeoordeling voor aannemers.',
   alternates: { canonical: '/nl/guides/zolder-verbouwing-kosten/' },

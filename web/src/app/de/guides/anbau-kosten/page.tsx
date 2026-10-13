@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Anbau Kosten Deutschland 2026 // lowriskquotes',
+  title: 'Anbau Kosten Deutschland 2026: Preise Position für Position',
   description:
-    'Realistische Kosten für einen Anbau in Deutschland. Position für Position aufgeschlüsselt mit Risikobewertungen, damit Sie Anbauten kalkulieren können, ohne draufzuzahlen.',
+    'Realistische Kosten für einen Anbau in Deutschland, Position für Position mit Risikobewertung, damit Sie Anbauten ohne Draufzahlen kalkulieren.',
   alternates: { canonical: '/de/guides/anbau-kosten/' },
 }
 

@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'how much does a home addition cost // lowriskquotes',
+  title: 'Home Addition Cost US 2026: Line-by-Line Price Ranges',
   description:
-    'Realistic home addition costs for US contractors. Single-story and two-story breakdowns with risk ratings on every line item so you can bid additions without getting burned.',
+    'Realistic US home addition cost ranges, single- and two-story, with a risk rating on every line item so you can bid additions without getting burned.',
   alternates: { canonical: '/us/guides/home-addition-costs/' },
 }
 

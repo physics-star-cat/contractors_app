@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Costi ristrutturazione cucina Italia 2026 // lowriskquotes',
+  title: 'Costi ristrutturazione cucina 2026: prezzi voce per voce',
   description:
-    'Costi realistici di ristrutturazione cucina per artigiani in Italia. Dettaglio completo voce per voce con livelli di rischio per preventivare le cucine con precisione.',
+    'Costi realistici di ristrutturazione cucina in Italia, voce per voce con livelli di rischio, per preventivare le cucine con precisione.',
   alternates: { canonical: '/it/guides/costi-ristrutturazione-cucina/' },
 }
 

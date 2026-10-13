@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Combien de marge de sécurité prévoir ? 2026 // lowriskquotes',
+  title: 'Marge de sécurité : combien prévoir (10 % ne suffit pas)',
   description:
-    'Combien de marge de sécurité les artisans doivent-ils prévoir ? Pourquoi 10 % forfaitaires ne suffisent pas et comment une évaluation poste par poste fonctionne mieux.',
+    'Prévoyez la bonne marge de sécurité : pourquoi 10 % forfaitaires ne suffisent pas et comment une évaluation poste par poste protège votre devis.',
   alternates: { canonical: '/fr/guides/combien-de-marge-securite/' },
 }
 

@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Costes suelos España 2026 // lowriskquotes',
+  title: 'Coste suelos España 2026: precios partida por partida',
   description:
-    'Precios reales de instalación de suelos por m² en España. Gres porcelánico, tarima, vinilo, microcemento — desglosados con evaluaciones de riesgo para profesionales.',
+    'Precios reales de instalación de suelos por m² en España: gres porcelánico, tarima, vinilo y microcemento, con evaluación de riesgo por partida.',
   alternates: { canonical: '/es/guides/costes-suelos/' },
 }
 

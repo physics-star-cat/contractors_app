@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Presupuestar trabajo desconocido 2026 // lowriskquotes',
+  title: 'Presupuestar un trabajo desconocido sin perder dinero',
   description:
     'Cómo presupuestar un trabajo que nunca has hecho. Estrategias para contratistas ante encargos desconocidos.',
   alternates: { canonical: '/es/guides/presupuestar-trabajo-desconocido/' },

@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Banyo renovasyon maliyetleri Türkiye 2026 // lowriskquotes',
+  title: 'Banyo renovasyon maliyetleri 2026: kalem kalem fiyatlar',
   description:
     'Türkiye\'deki ustalar için gerçekçi banyo renovasyon maliyetleri. Para kaybetmeden fiyatlandırmak için risk seviyeleriyle kalem kalem dökümü.',
   alternates: { canonical: '/tr/guides/banyo-renovasyon-maliyetleri/' },

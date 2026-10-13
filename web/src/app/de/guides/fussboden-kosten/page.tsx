@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Fussboden Kosten Deutschland 2026 // lowriskquotes',
+  title: 'Fußboden Kosten 2026: Preise Position für Position',
   description:
     'Realistische Bodenbelag-Kosten pro Quadratmeter in Deutschland. Parkett, Laminat, Vinyl, Fliesen — aufgeschlüsselt mit Risikobewertungen für Handwerker.',
   alternates: { canonical: '/de/guides/fussboden-kosten/' },

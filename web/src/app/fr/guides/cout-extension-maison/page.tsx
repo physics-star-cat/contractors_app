@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Coût extension maison France 2026 // lowriskquotes',
+  title: 'Coût extension maison France 2026 : prix poste par poste',
   description:
     'Coûts réalistes d\'une extension de maison en France. Ventilation poste par poste avec niveaux de risque pour chiffrer sans perdre d\'argent.',
   alternates: { canonical: '/fr/guides/cout-extension-maison/' },

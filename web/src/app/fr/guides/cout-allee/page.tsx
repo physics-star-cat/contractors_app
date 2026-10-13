@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Coût allée France 2026 // lowriskquotes',
+  title: 'Coût allée France 2026 : prix poste par poste',
   description:
     'Coûts réalistes pour une allée en France. Pavés, enrobé ou béton — ventilation poste par poste avec niveaux de risque.',
   alternates: { canonical: '/fr/guides/cout-allee/' },

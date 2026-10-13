@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Come fare un preventivo da artigiano // lowriskquotes',
+  title: 'Come fare un preventivo: prezzi da artigiano senza rischi',
   description:
-    'Guida pratica per preventivare i tuoi cantieri con precisione. Scopri perché gli artigiani sottovalutano i preventivi, come valutare il rischio su ogni voce e come la simulazione Monte Carlo costruisce preventivi più sicuri.',
+    'Preventivi precisi: perché gli artigiani sottostimano, come valutare il rischio di ogni voce e come la simulazione Monte Carlo rende i preventivi sicuri.',
   alternates: { canonical: '/it/guides/come-fare-un-preventivo/' },
 }
 

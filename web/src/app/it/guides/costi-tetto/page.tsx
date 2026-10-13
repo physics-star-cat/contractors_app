@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Costi tetto Italia 2026 // lowriskquotes',
+  title: 'Costi rifacimento tetto 2026: prezzi voce per voce',
   description:
-    'Costi realistici per lavori sul tetto per artigiani in Italia. Rifacimento completo, tetto piano, riparazioni e lattoneria — con livelli di rischio per preventivare senza rimetterci.',
+    'Costi realistici dei lavori sul tetto in Italia: rifacimento, tetto piano, riparazioni e lattoneria, con livelli di rischio per non rimetterci.',
   alternates: { canonical: '/it/guides/costi-tetto/' },
 }
 

@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Gérer les hausses de prix en cours de chantier 2026 // lowriskquotes',
+  title: 'Hausses de prix en cours de chantier : comment se protéger',
   description:
     'Comment les artisans gèrent les hausses de prix de matériaux et de sous-traitants pendant un chantier. Cadre juridique et stratégies pratiques.',
   alternates: { canonical: '/fr/guides/gerer-hausses-prix-en-cours/' },

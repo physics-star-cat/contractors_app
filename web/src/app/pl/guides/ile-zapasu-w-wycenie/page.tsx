@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Ile zapasu w wycenie? Rezerwa budżetowa 2026 // lowriskquotes',
+  title: 'Ile zapasu w wycenie? Rezerwa budżetowa bez zgadywania',
   description:
     'Ile rezerwy dodać do wyceny budowlanej? Poradnik dla wykonawców — jak kalkulować zapas na nieprzewidziane wydatki.',
   alternates: { canonical: '/pl/guides/ile-zapasu-w-wycenie/' },

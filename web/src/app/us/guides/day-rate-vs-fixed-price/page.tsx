@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'T&M vs fixed bid — which is better // lowriskquotes',
+  title: 'T&M vs Fixed Bid: Which Protects Your Margin?',
   description:
-    'When should contractors charge time and materials vs a fixed bid? Pros and cons of each approach, how to protect yourself on fixed-price work, and hybrid strategies that work.',
+    'Know when to bid time and materials and when to fix the price: pros and cons of each, how to protect yourself on fixed bids, and hybrid options.',
   alternates: { canonical: '/us/guides/day-rate-vs-fixed-price/', languages: { 'en-AU': '/au/guides/day-rate-vs-fixed-price/', 'en-CA': '/ca/guides/day-rate-vs-fixed-price/', 'en-GB': '/guides/day-rate-vs-fixed-price/', 'en-US': '/us/guides/day-rate-vs-fixed-price/', 'x-default': '/guides/day-rate-vs-fixed-price/' } },
 }
 

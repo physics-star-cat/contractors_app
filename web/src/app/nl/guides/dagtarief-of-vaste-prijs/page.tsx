@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Dagtarief of vaste prijs? 2026 // lowriskquotes',
+  title: 'Dagtarief of vaste prijs: welk model beschermt je marge',
   description:
     'Wanneer werk je op dagtarief en wanneer op vaste prijs? Vergelijking van afrekenmodellen voor aannemers.',
   alternates: { canonical: '/nl/guides/dagtarief-of-vaste-prijs/' },

@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Unbekannten Auftrag kalkulieren 2026 // lowriskquotes',
+  title: 'Unbekannten Auftrag kalkulieren, ohne draufzuzahlen',
   description:
     'Wie Handwerker Aufträge kalkulieren, die sie noch nie gemacht haben. Strategien für unbekannte Arbeiten, faire Preise und Risikobewertung.',
   alternates: { canonical: '/de/guides/unbekannten-auftrag-kalkulieren/' },

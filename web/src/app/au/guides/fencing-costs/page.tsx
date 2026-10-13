@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Fencing Costs Australia 2026 // lowriskquotes',
+  title: 'Fencing Cost Australia 2026: Line-by-Line Price Ranges',
   description:
-    'Australian fencing costs per metre for Colorbond, timber, pool fencing, and retaining walls. Real tradie pricing with risk ratings and council regulation tips.',
+    'Realistic fencing costs per metre in Australia: Colorbond, timber, pool fencing and retaining walls, with risk ratings and council regulation tips.',
   alternates: { canonical: '/au/guides/fencing-costs/' },
 }
 

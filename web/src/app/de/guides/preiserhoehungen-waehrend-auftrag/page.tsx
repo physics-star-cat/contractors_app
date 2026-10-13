@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Preiserhöhungen während des Auftrags handhaben 2026 // lowriskquotes',
+  title: 'Preiserhöhungen im laufenden Auftrag: So sichern Sie sich ab',
   description:
-    'Wie Handwerker mit Preiserhöhungen bei Material und Subunternehmern während eines laufenden Auftrags umgehen. Rechtliche Grundlagen und praktische Strategien.',
+    'So fangen Handwerker Preiserhöhungen bei Material und Subunternehmern im laufenden Auftrag ab: rechtliche Grundlagen und praktische Strategien.',
   alternates: { canonical: '/de/guides/preiserhoehungen-waehrend-auftrag/' },
 }
 

@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'How to Price a Job You Haven\'t Done Before // lowriskquotes Canada',
+  title: 'Pricing Unfamiliar Work in Canada: Quote Without a Loss',
   description:
-    'Practical advice for Canadian contractors quoting unfamiliar work. How to get material prices, talk to other trades, use risk tiers honestly, and build learning time into your quote.',
+    'Price unfamiliar work in Canada without losing money: get material prices, ask other trades, use risk tiers honestly, and build in learning time.',
   alternates: { canonical: '/ca/guides/pricing-a-job-you-havent-done-before/', languages: { 'en-AU': '/au/guides/pricing-a-job-you-havent-done-before/', 'en-CA': '/ca/guides/pricing-a-job-you-havent-done-before/', 'en-GB': '/guides/pricing-a-job-you-havent-done-before/', 'en-US': '/us/guides/pricing-a-job-you-havent-done-before/', 'x-default': '/guides/pricing-a-job-you-havent-done-before/' } },
 }
 

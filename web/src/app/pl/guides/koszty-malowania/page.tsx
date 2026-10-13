@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Koszty malowania 2026 // lowriskquotes',
+  title: 'Koszty malowania 2026: ceny pozycja po pozycji',
   description:
     'Ile kosztuje malowanie mieszkania lub domu w Polsce? Stawki za m², ukryte koszty i ocena ryzyka dla wykonawców.',
   alternates: { canonical: '/pl/guides/koszty-malowania/' },

@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Koszty tynkowania 2026 // lowriskquotes',
+  title: 'Koszty tynkowania 2026: ceny pozycja po pozycji',
   description:
     'Realne koszty tynkowania ścian i sufitów w Polsce. Tynk gipsowy, cementowo-wapienny, maszynowy — ceny z oceną ryzyka.',
   alternates: { canonical: '/pl/guides/koszty-tynkowania/' },

@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Custos de telhado Brasil 2026 // lowriskquotes',
+  title: 'Custo de telhado Brasil 2026: preços item por item',
   description:
     'Custos reais de telhado para profissionais no Brasil. Reforma completa, telhado embutido, reparos e calhas — com níveis de risco para orçar sem se queimar.',
   alternates: { canonical: '/pt/guides/custos-telhado/' },

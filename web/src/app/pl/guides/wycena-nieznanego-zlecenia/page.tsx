@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Wycena nieznanego zlecenia 2026 // lowriskquotes',
+  title: 'Wycena nieznanego zlecenia: jak nie stracić pieniędzy',
   description:
     'Jak wycenić robotę, której nigdy nie robiłeś? Poradnik dla wykonawców — strategie wyceny nieznanych zleceń.',
   alternates: { canonical: '/pl/guides/wycena-nieznanego-zlecenia/' },

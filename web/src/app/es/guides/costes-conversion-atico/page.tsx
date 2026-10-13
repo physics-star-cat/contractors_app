@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Costes conversión ático 2026 // lowriskquotes',
+  title: 'Coste conversión de ático 2026: precios partida por partida',
   description:
     'Cuánto cuesta convertir un ático o buhardilla en vivienda en España. Desglose de costes con evaluación de riesgo.',
   alternates: { canonical: '/es/guides/costes-conversion-atico/' },

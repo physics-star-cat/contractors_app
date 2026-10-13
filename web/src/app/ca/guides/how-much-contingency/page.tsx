@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'How Much Contingency Should a Canadian Contractor Add? // lowriskquotes',
+  title: 'Contingency for Canadian Contractors: How Much to Add',
   description:
-    'Why flat contingency percentages fail Canadian contractors and how probabilistic estimation gives you a smarter buffer based on actual project risk. CAD examples included.',
+    'Set a smarter contingency on every quote: why flat percentages fail Canadian contractors and how probabilistic estimates match it to real risk (CAD).',
   alternates: { canonical: '/ca/guides/how-much-contingency/', languages: { 'en-AU': '/au/guides/how-much-contingency/', 'en-CA': '/ca/guides/how-much-contingency/', 'en-GB': '/guides/how-much-contingency/', 'en-US': '/us/guides/how-much-contingency/', 'x-default': '/guides/how-much-contingency/' } },
 }
 

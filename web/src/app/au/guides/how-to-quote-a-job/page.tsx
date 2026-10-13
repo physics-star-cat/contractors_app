@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'How to Quote a Job as a Tradie in Australia // lowriskquotes',
+  title: 'How to Quote a Job: Tradie Pricing Without the Risk',
   description:
-    'A practical guide to quoting jobs accurately for Australian tradies. Learn why tradies underquote, how to assess risk on each line item, and how Monte Carlo simulation builds safer quotes. All examples in AUD.',
+    'Quote jobs accurately as an Australian tradie: why tradies underquote, how to rate risk on each line item, and how Monte Carlo builds safer quotes (AUD).',
   alternates: { canonical: '/au/guides/how-to-quote-a-job/', languages: { 'en-AU': '/au/guides/how-to-quote-a-job/', 'en-CA': '/ca/guides/how-to-quote-a-job/', 'en-GB': '/guides/how-to-quote-a-job/', 'x-default': '/guides/how-to-quote-a-job/' } },
 }
 

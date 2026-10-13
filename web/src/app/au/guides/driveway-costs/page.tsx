@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Driveway Costs Australia 2026 // lowriskquotes',
+  title: 'Driveway Cost Australia 2026: Line-by-Line Price Ranges',
   description:
-    'How much does a new driveway cost in Australia? 2026 prices for exposed aggregate, concrete, asphalt, and pavers — per square metre, with real quotes and hidden costs to watch for.',
+    'Realistic 2026 driveway cost ranges in Australia per square metre: exposed aggregate, concrete, asphalt and pavers, plus the hidden costs to watch.',
   alternates: { canonical: '/au/guides/driveway-costs/', languages: { 'en-AU': '/au/guides/driveway-costs/', 'en-CA': '/ca/guides/driveway-costs/', 'en-GB': '/guides/driveway-costs/', 'en-US': '/us/guides/driveway-costs/', 'x-default': '/guides/driveway-costs/' } },
 }
 

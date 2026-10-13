@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Kitchen Renovation Costs Canada 2026 // lowriskquotes',
+  title: 'Kitchen Renovation Cost Canada 2026: Price Ranges by Line',
   description:
-    'Realistic kitchen renovation costs for Canadian contractors in CAD. Full line-by-line cost breakdown with risk ratings to help you quote kitchen jobs accurately.',
+    'Realistic kitchen renovation cost ranges in Canada (CAD), line by line with risk ratings so you can quote kitchen jobs accurately.',
   alternates: { canonical: '/ca/guides/kitchen-renovation-costs/', languages: { 'en-AU': '/au/guides/kitchen-renovation-costs/', 'en-CA': '/ca/guides/kitchen-renovation-costs/', 'en-GB': '/guides/kitchen-renovation-costs/', 'x-default': '/guides/kitchen-renovation-costs/' } },
 }
 

@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Poradnik wyceny dla wykonawców 2026 // lowriskquotes',
+  title: 'Poradnik wyceny dla wykonawców: od obmiaru do oferty',
   description:
     'Jak wyceniać zlecenia budowlane? Kompletny poradnik dla wykonawców — od obmiaru po prezentację oferty klientowi.',
   alternates: { canonical: '/pl/guides/poradnik-wyceny-dla-wykonawcow/' },

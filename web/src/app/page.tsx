@@ -6,8 +6,8 @@ import RecentEstimates from '@/components/home/RecentEstimates'
 import './page.css'
 
 export const metadata: Metadata = {
-  title: 'lowriskquotes // contractor cost estimation',
-  description: 'Stop losing money on jobs. Build your quote line by line, set risk levels on each item, and get a realistic price range — not a single number that\'s wrong.',
+  title: 'Low-Risk Contractor Quotes: Price Every Job Line by Line',
+  description: 'Price every job line by line, set a risk level on each item, and get a realistic price range instead of one number that\'s wrong. Stop losing money on jobs.',
   alternates: { canonical: '/', languages: { 'en-AU': '/au/', 'en-CA': '/ca/', 'en-GB': '/', 'en-US': '/us/', 'x-default': '/' } },
 }
 

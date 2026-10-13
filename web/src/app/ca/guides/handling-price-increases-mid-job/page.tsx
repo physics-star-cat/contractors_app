@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'How to Handle Price Increases Mid-Job // lowriskquotes Canada',
+  title: 'Price Increases Mid-Job in Canada: How to Recover Costs',
   description:
-    'What to do when material costs go up or scope creeps during a job in Canada. How to talk to clients, write change orders, and protect yourself in the original quote.',
+    'Recover rising material costs and scope creep mid-job in Canada: how to talk to clients, write change orders, and protect yourself in the original quote.',
   alternates: { canonical: '/ca/guides/handling-price-increases-mid-job/', languages: { 'en-AU': '/au/guides/handling-price-increases-mid-job/', 'en-CA': '/ca/guides/handling-price-increases-mid-job/', 'en-GB': '/guides/handling-price-increases-mid-job/', 'en-US': '/us/guides/handling-price-increases-mid-job/', 'x-default': '/guides/handling-price-increases-mid-job/' } },
 }
 

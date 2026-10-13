@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Koszty remontu kuchni 2026 // lowriskquotes',
+  title: 'Koszty remontu kuchni 2026: ceny pozycja po pozycji',
   description:
     'Realne koszty remontu kuchni dla polskich wykonawców. Pełne rozbicie pozycja po pozycji z ocenami ryzyka, abyś wycenił kuchnię trafnie.',
   alternates: { canonical: '/pl/guides/koszty-remontu-kuchni/' },

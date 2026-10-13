@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Kostnad köksrenovering Sverige 2026 // lowriskquotes',
+  title: 'Kostnad köksrenovering Sverige 2026: priser post för post',
   description:
-    'Realistiska kostnader för köksrenovering för hantverkare i Sverige. Komplett post-för-post-uppdelning med risknivåer för att prissätta dina kök med precision.',
+    'Realistiska kostnader för köksrenovering i Sverige, post för post med risknivåer, så att du prissätter köksjobb med precision.',
   alternates: { canonical: '/sv/guides/koksrenovering-kostnad/' },
 }
 

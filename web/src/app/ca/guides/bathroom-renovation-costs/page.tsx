@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Bathroom Renovation Costs Canada 2026 // lowriskquotes',
+  title: 'Bathroom Renovation Cost Canada 2026: Price Ranges by Line',
   description:
-    'Realistic bathroom renovation costs for Canadian contractors in CAD. Line-by-line breakdown with uncertainty ratings so you can quote bathrooms without losing money.',
+    'Realistic bathroom renovation cost ranges in Canada (CAD), line by line with uncertainty ratings so you can quote bathrooms without losing money.',
   alternates: { canonical: '/ca/guides/bathroom-renovation-costs/', languages: { 'en-AU': '/au/guides/bathroom-renovation-costs/', 'en-CA': '/ca/guides/bathroom-renovation-costs/', 'en-GB': '/guides/bathroom-renovation-costs/', 'x-default': '/guides/bathroom-renovation-costs/' } },
 }
 

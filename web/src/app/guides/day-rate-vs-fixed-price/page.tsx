@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../guides.css'
 
 export const metadata: Metadata = {
-  title: 'day rate vs fixed price — which is better // lowriskquotes',
+  title: 'Day Rate vs Fixed Price: Which Protects Your Margin?',
   description:
-    'When should contractors charge a day rate vs fixed price? Pros and cons of each approach, how to protect yourself on fixed-price work, and hybrid strategies that work.',
+    'Know when to charge a day rate and when to fix the price: pros and cons of each, how to protect yourself on fixed-price work, and hybrid options.',
   alternates: { canonical: '/guides/day-rate-vs-fixed-price/', languages: { 'en-AU': '/au/guides/day-rate-vs-fixed-price/', 'en-CA': '/ca/guides/day-rate-vs-fixed-price/', 'en-GB': '/guides/day-rate-vs-fixed-price/', 'en-US': '/us/guides/day-rate-vs-fixed-price/', 'x-default': '/guides/day-rate-vs-fixed-price/' } },
 }
 

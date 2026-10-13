@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Concrete Patio Costs US 2026 // lowriskquotes',
+  title: 'Concrete Patio Cost US 2026: Line-by-Line Price Ranges',
   description:
     'Realistic concrete patio costs for US contractors. Line-by-line breakdown with uncertainty ratings so you can bid patio jobs without losing money.',
   alternates: { canonical: '/us/guides/concrete-patio-costs/' },

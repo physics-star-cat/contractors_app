@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Prix revêtement de sol France 2026 // lowriskquotes',
+  title: 'Coût revêtement de sol France 2026 : prix poste par poste',
   description:
     'Prix réalistes de pose de sol au m² en France. Parquet, carrelage, vinyle, béton ciré — détaillés avec évaluations de risque pour les artisans.',
   alternates: { canonical: '/fr/guides/cout-sol/' },

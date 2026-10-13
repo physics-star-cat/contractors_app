@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Cómo hacer un presupuesto como contratista // lowriskquotes',
+  title: 'Cómo hacer un presupuesto: precios de obra sin riesgo',
   description:
-    'Guía práctica para presupuestar trabajos con precisión. Aprenda por qué los contratistas presupuestan por debajo, cómo evaluar el riesgo en cada partida y cómo la simulación Monte Carlo genera presupuestos más seguros.',
+    'Presupuesta con precisión: por qué se presupuesta por debajo, cómo evaluar el riesgo de cada partida y cómo Monte Carlo da presupuestos más seguros.',
   alternates: { canonical: '/es/guides/como-hacer-un-presupuesto/' },
 }
 

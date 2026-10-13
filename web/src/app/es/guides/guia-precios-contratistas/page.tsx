@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Guía de precios para contratistas 2026 // lowriskquotes',
+  title: 'Guía de precios para contratistas: de medición a oferta',
   description:
     'Cómo presupuestar trabajos de construcción. Guía completa para contratistas — de la medición a la presentación de la oferta.',
   alternates: { canonical: '/es/guides/guia-precios-contratistas/' },

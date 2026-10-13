@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Badezimmer-Renovierung Kosten Deutschland 2026 // lowriskquotes',
+  title: 'Badsanierung Kosten 2026: Preise Position für Position',
   description:
-    'Realistische Kosten für eine Badsanierung in Deutschland. Position für Position aufgeschlüsselt mit Risikobewertungen, damit Sie Bäder kalkulieren können, ohne draufzuzahlen.',
+    'Realistische Kosten einer Badsanierung in Deutschland, Position für Position mit Risikobewertung, damit Sie Bäder ohne Draufzahlen kalkulieren.',
   alternates: { canonical: '/de/guides/badezimmer-renovierung-kosten/' },
 }
 

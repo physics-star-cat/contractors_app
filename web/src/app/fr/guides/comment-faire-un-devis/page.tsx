@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Comment faire un devis en tant qu\'artisan // lowriskquotes',
+  title: 'Comment faire un devis : chiffrer un chantier sans risque',
   description:
-    'Guide pratique pour chiffrer vos chantiers avec précision. Découvrez pourquoi les artisans sous-évaluent leurs devis, comment évaluer le risque sur chaque poste, et comment la simulation Monte Carlo construit des devis plus sûrs.',
+    'Chiffrez vos chantiers avec précision : pourquoi les artisans sous-évaluent, comment noter le risque de chaque poste, et comment Monte Carlo sécurise.',
   alternates: { canonical: '/fr/guides/comment-faire-un-devis/' },
 }
 

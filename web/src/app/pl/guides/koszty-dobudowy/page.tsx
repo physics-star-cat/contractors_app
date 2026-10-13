@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Koszty dobudowy 2026 // lowriskquotes',
+  title: 'Koszty dobudowy 2026: ceny pozycja po pozycji',
   description:
     'Realne koszty dobudowy domu w Polsce. Kompletne rozbicie pozycji z oceną ryzyka, aby wycenić rozbudowę bez straty.',
   alternates: { canonical: '/pl/guides/koszty-dobudowy/' },

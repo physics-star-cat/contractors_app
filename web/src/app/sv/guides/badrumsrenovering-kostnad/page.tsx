@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Kostnad badrumsrenovering Sverige 2026 // lowriskquotes',
+  title: 'Kostnad badrumsrenovering Sverige 2026: priser post för post',
   description:
-    'Realistiska kostnader för badrumsrenovering för hantverkare i Sverige. Post-för-post-uppdelning med risknivåer för att prissätta dina projekt utan att förlora pengar.',
+    'Realistiska kostnader för badrumsrenovering i Sverige, post för post med risknivåer, så att du prissätter projekten utan att förlora pengar.',
   alternates: { canonical: '/sv/guides/badrumsrenovering-kostnad/' },
 }
 

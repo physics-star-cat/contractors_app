@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../guides.css'
 
 export const metadata: Metadata = {
-  title: 'Garden Landscaping Costs UK 2026 // lowriskquotes',
+  title: 'Garden Landscaping Cost UK 2026: Line-by-Line Price Ranges',
   description:
-    'Realistic garden landscaping costs for UK homeowners and contractors. Patio, lawn, fencing, planting and drainage prices with per-sqm rates and practical advice.',
+    'Realistic UK garden landscaping cost ranges: patio, lawn, fencing, planting and drainage, with per-sqm rates and practical advice.',
   alternates: { canonical: '/guides/garden-landscaping-costs/' },
 }
 

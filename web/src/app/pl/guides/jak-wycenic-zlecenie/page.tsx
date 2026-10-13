@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Jak wycenić zlecenie jako wykonawca // lowriskquotes',
+  title: 'Jak wycenić zlecenie: ceny wykonawcy bez ryzyka',
   description:
-    'Praktyczny poradnik wyceniania zleceń. Dowiedz się, dlaczego wykonawcy zaniżają ceny, jak oceniać ryzyko na każdej pozycji i jak symulacja Monte Carlo buduje bezpieczniejsze wyceny.',
+    'Wyceniaj zlecenia dokładnie: dlaczego wykonawcy zaniżają ceny, jak ocenić ryzyko każdej pozycji i jak symulacja Monte Carlo daje bezpieczniejsze wyceny.',
   alternates: { canonical: '/pl/guides/jak-wycenic-zlecenie/' },
 }
 

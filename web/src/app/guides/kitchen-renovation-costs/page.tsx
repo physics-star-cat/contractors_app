@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../guides.css'
 
 export const metadata: Metadata = {
-  title: 'Kitchen Renovation Costs UK 2026 // lowriskquotes',
+  title: 'Kitchen Renovation Cost UK 2026: Line-by-Line Price Ranges',
   description:
     'Realistic kitchen renovation costs for UK contractors. Full line-by-line cost breakdown with risk ratings to help you quote kitchen jobs accurately.',
   alternates: { canonical: '/guides/kitchen-renovation-costs/', languages: { 'en-AU': '/au/guides/kitchen-renovation-costs/', 'en-CA': '/ca/guides/kitchen-renovation-costs/', 'en-GB': '/guides/kitchen-renovation-costs/', 'x-default': '/guides/kitchen-renovation-costs/' } },

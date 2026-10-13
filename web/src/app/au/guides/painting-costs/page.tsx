@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Painting Costs Australia 2026 // lowriskquotes',
+  title: 'Painting Cost Australia 2026: Line-by-Line Price Ranges',
   description:
-    'Realistic painting costs for Australian tradies. Interior and exterior painting — full cost breakdown in AUD with risk ratings to help you quote painting jobs accurately.',
+    'Realistic interior and exterior painting cost ranges in Australia (AUD), line by line with risk ratings so tradies can quote painting jobs accurately.',
   alternates: { canonical: '/au/guides/painting-costs/', languages: { 'en-AU': '/au/guides/painting-costs/', 'en-CA': '/ca/guides/painting-costs/', 'en-US': '/us/guides/painting-costs/', 'x-default': '/us/guides/painting-costs/' } },
 }
 

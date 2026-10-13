@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Roofing Costs Australia 2026 // lowriskquotes',
+  title: 'Roofing Cost Australia 2026: Line-by-Line Price Ranges',
   description:
-    'Realistic roofing costs for Australian tradies. Colorbond, concrete tile, and terracotta re-roofs — with line-by-line risk ratings so you can quote roofing work without getting burned.',
+    'Realistic roofing cost ranges in Australia: Colorbond, concrete tile and terracotta re-roofs, with line-by-line risk ratings so your quote holds up.',
   alternates: { canonical: '/au/guides/roofing-costs/', languages: { 'en-AU': '/au/guides/roofing-costs/', 'en-CA': '/ca/guides/roofing-costs/', 'en-GB': '/guides/roofing-costs/', 'en-US': '/us/guides/roofing-costs/', 'x-default': '/guides/roofing-costs/' } },
 }
 

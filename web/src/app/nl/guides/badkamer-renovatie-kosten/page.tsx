@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Badkamer renovatie kosten Nederland 2026 // lowriskquotes',
+  title: 'Badkamer renovatie kosten Nederland 2026: prijzen per post',
   description:
-    'Realistische badkamerrenovatiekosten voor Nederlandse aannemers. Post-voor-post uitsplitsing met risicobeoordelingen zodat u badkamers kunt offreren zonder geld te verliezen.',
+    'Realistische badkamerrenovatiekosten in Nederland, post voor post met risicobeoordeling, zodat u badkamers offreert zonder geld te verliezen.',
   alternates: { canonical: '/nl/guides/badkamer-renovatie-kosten/' },
 }
 

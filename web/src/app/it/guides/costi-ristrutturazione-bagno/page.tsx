@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Costi ristrutturazione bagno Italia 2026 // lowriskquotes',
+  title: 'Costi ristrutturazione bagno 2026: prezzi voce per voce',
   description:
-    'Costi realistici di ristrutturazione bagno per artigiani in Italia. Dettaglio voce per voce con livelli di rischio per preventivare i cantieri senza rimetterci.',
+    'Costi realistici di ristrutturazione bagno in Italia, voce per voce con livelli di rischio, per preventivare i cantieri senza rimetterci.',
   alternates: { canonical: '/it/guides/costi-ristrutturazione-bagno/' },
 }
 

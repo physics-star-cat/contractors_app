@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Costes vallado España 2026 // lowriskquotes',
+  title: 'Coste vallado España 2026: precios partida por partida',
   description:
     'Precios reales de vallado por metro lineal en España. Malla, madera, hormigón, aluminio — desglosados con evaluaciones de riesgo para profesionales.',
   alternates: { canonical: '/es/guides/costes-vallado/' },

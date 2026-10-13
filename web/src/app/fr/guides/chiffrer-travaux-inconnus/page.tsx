@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Chiffrer des travaux inconnus 2026 // lowriskquotes',
+  title: 'Chiffrer des travaux inconnus sans perdre d\'argent',
   description:
     'Comment les artisans chiffrent des travaux qu\'ils n\'ont jamais réalisés. Stratégies pour des travaux inconnus, tarifs justes et évaluation des risques.',
   alternates: { canonical: '/fr/guides/chiffrer-travaux-inconnus/' },

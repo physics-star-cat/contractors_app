@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Cuánto margen de seguridad 2026 // lowriskquotes',
+  title: 'Cuánto margen de seguridad añadir a un presupuesto',
   description:
     'Cuánto margen de seguridad añadir al presupuesto de obra. Guía para contratistas — contingencia por partida en vez de porcentaje fijo.',
   alternates: { canonical: '/es/guides/cuanto-margen-de-seguridad/' },

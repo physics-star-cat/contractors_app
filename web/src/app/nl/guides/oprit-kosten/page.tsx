@@ -4,7 +4,7 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Oprit kosten 2026 // lowriskquotes',
+  title: 'Oprit kosten Nederland 2026: prijzen per post',
   description:
     'Wat kost een nieuwe oprit in Nederland? Klinkers, asfalt, beton — realistische prijzen met risicobeoordeling.',
   alternates: { canonical: '/nl/guides/oprit-kosten/' },

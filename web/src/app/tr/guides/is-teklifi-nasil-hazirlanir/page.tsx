@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Usta olarak iş teklifi nasıl hazırlanır // lowriskquotes',
+  title: 'İş teklifi nasıl hazırlanır: risksiz fiyatlandırma',
   description:
-    'Projelerinizi hassas bir şekilde fiyatlandırmak için pratik rehber. Ustaların neden düşük fiyat verdiğini, her kalemde riski nasıl değerlendireceğinizi ve Monte Carlo simülasyonunun nasıl daha güvenli teklifler oluşturduğunu öğrenin.',
+    'Projelerinizi doğru fiyatlandırın: ustalar neden düşük fiyat verir, her kalemin riski nasıl ölçülür ve Monte Carlo nasıl daha güvenli teklif üretir.',
   alternates: { canonical: '/tr/guides/is-teklifi-nasil-hazirlanir/' },
 }
 

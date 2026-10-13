@@ -4,9 +4,9 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Fence Costs Canada 2026 // lowriskquotes',
+  title: 'Fence Cost Canada 2026: Line-by-Line Price Ranges',
   description:
-    'Realistic fence installation costs for Canadian contractors in CAD. Covers pressure-treated wood, cedar, and vinyl fencing with per-linear-foot pricing and frost heave considerations.',
+    'Realistic fence installation costs per linear foot in Canada (CAD): pressure-treated wood, cedar and vinyl, with risk ratings and frost-heave factors.',
   alternates: { canonical: '/ca/guides/fence-costs/', languages: { 'en-CA': '/ca/guides/fence-costs/', 'en-US': '/us/guides/fence-costs/', 'x-default': '/us/guides/fence-costs/' } },
 }
 
