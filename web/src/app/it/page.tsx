@@ -6,8 +6,8 @@ import RecentEstimates from '@/components/home/RecentEstimates'
 import '../page.css'
 
 export const metadata: Metadata = {
-  title: 'lowriskquotes // stima dei costi per imprese edili',
-  description: 'Smetti di perdere soldi sui cantieri. Costruisci il tuo preventivo voce per voce, imposta il livello di rischio di ogni elemento e ottieni una fascia di prezzo realistica.',
+  title: 'Preventivi edili senza perdite: prezzi voce per voce',
+  description: 'Calcola ogni preventivo voce per voce, imposta il rischio di ogni elemento e ottieni una fascia di prezzo realistica. Smetti di perdere soldi sui cantieri.',
   alternates: { canonical: '/it/' },
 }
 

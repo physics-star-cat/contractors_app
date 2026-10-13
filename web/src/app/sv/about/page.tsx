@@ -3,8 +3,8 @@ import Link from 'next/link'
 import ASCIIBox from '@/components/ui/ASCIIBox'
 
 export const metadata: Metadata = {
-  title: 'om oss // lowriskquotes',
-  description: 'Varför förlorar hantverkare pengar på offerter? För att överraskningar inte är inprisade. LowRiskQuotes beräknar tusentals scenarier för att visa vad jobb verkligen kostar.',
+  title: 'Om lowriskquotes',
+  description: 'Varför hantverkare förlorar pengar på offerter: överraskningar är inte inprisade. LowRiskQuotes räknar tusentals scenarier och visar verklig kostnad.',
   alternates: { canonical: '/sv/about/' },
 }
 

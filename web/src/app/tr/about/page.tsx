@@ -3,8 +3,8 @@ import Link from 'next/link'
 import ASCIIBox from '@/components/ui/ASCIIBox'
 
 export const metadata: Metadata = {
-  title: 'hakkında // lowriskquotes',
-  description: 'Ustalar neden tekliflerde para kaybeder? Çünkü sürprizler fiyata dahil değildir. LowRiskQuotes binlerce senaryo hesaplayarak işlerin gerçekte ne kadara mal olduğunu gösterir.',
+  title: 'lowriskquotes hakkında',
+  description: 'Ustalar tekliflerde neden para kaybeder? Çünkü sürprizler fiyata dahil değildir. LowRiskQuotes binlerce senaryo hesaplayıp gerçek maliyeti gösterir.',
   alternates: { canonical: '/tr/about/' },
 }
 

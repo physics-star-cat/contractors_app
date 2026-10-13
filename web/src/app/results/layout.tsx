@@ -1,8 +1,8 @@
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Your Quote Results // lowriskquotes',
-  description: 'Your personalised cost projection — see the realistic range, the risk breakdown, and where the biggest uncertainties are in your quote.',
+  title: 'Your Quote Results: Realistic Range and Risk Breakdown',
+  description: 'Your cost projection: the realistic price range, the risk breakdown, and where the biggest uncertainties are in your quote.',
   alternates: { canonical: '/results/' },
 }
 

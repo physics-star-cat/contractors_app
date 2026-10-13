@@ -4,8 +4,8 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Guias // lowriskquotes',
-  description: 'Guias de estimativa de custos para empreiteiros e prestadores de serviço no Brasil. Banheiro, cozinha, telhado e como fazer orçamentos.',
+  title: 'Guias de custos de obra 2026: faixas de preço item por item',
+  description: 'Custos 2026 de banheiro, cozinha, telhado e mais, com faixas de preço item por item, e como fazer orçamentos. Para profissionais da construção no Brasil.',
   alternates: { canonical: '/pt/guides/' },
 }
 

@@ -6,8 +6,8 @@ import RecentEstimates from '@/components/home/RecentEstimates'
 import '../page.css'
 
 export const metadata: Metadata = {
-  title: 'lowriskquotes // estimativa de custos para profissionais da construção',
-  description: 'Pare de perder dinheiro em obras. Monte seu orçamento item por item, defina o nível de risco de cada elemento e obtenha uma faixa de preço realista em BRL.',
+  title: 'Orçamentos de obra sem prejuízo, item por item',
+  description: 'Monte cada orçamento item por item, defina o risco de cada elemento e obtenha uma faixa de preço realista em BRL. Pare de perder dinheiro em obras.',
   alternates: { canonical: '/pt/' },
 }
 

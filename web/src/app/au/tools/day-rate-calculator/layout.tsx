@@ -1,9 +1,9 @@
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'day rate calculator for australian tradies // lowriskquotes',
+  title: 'Tradie Day Rate Calculator: Hourly to Daily and Yearly AUD',
   description:
-    'Calculate your day rate, weekly rate, and annual income from your hourly rate. Free tool for Australian tradies in AUD.',
+    'Turn your hourly rate into a day rate, weekly rate and annual income in AUD, plus the ATO travel claim. Free calculator for Australian tradies.',
   alternates: { canonical: '/au/tools/day-rate-calculator/' },
 }
 

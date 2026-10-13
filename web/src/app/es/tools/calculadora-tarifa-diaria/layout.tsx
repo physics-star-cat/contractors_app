@@ -1,9 +1,9 @@
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'calculadora de tarifa diaria para contratistas // lowriskquotes',
+  title: 'Calculadora de tarifa diaria: de precio por hora a día y año',
   description:
-    'Calcule su tarifa diaria, semanal y anual a partir de su tarifa por hora. Herramienta gratuita para contratistas y profesionales.',
+    'Convierte tu tarifa por hora en tarifa diaria, semanal y anual en segundos. Calculadora gratuita para contratistas y profesionales.',
   alternates: { canonical: '/es/tools/calculadora-tarifa-diaria/' },
 }
 

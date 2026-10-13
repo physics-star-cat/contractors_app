@@ -1,9 +1,9 @@
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'calculadora de margen vs recargo // lowriskquotes',
+  title: 'Calculadora margen vs recargo: presupuesta sin perder dinero',
   description:
-    'Calcule la diferencia entre margen y recargo. Calculadora gratuita para contratistas — deje de perder dinero confundiendo los dos conceptos.',
+    'Compara margen y recargo para cualquier porcentaje y no vuelvas a cobrar de menos por confundirlos. Calculadora gratuita para contratistas.',
   alternates: { canonical: '/es/tools/calculadora-margen-recargo/' },
 }
 

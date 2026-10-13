@@ -6,8 +6,8 @@ import RecentEstimates from '@/components/home/RecentEstimates'
 import '../page.css'
 
 export const metadata: Metadata = {
-  title: 'lowriskquotes // ustalar için maliyet tahmini',
-  description: 'İşlerde para kaybetmeyi bırakın. Teklifinizi kalem kalem oluşturun, her kalemin risk seviyesini belirleyin ve gerçekçi bir fiyat aralığı elde edin.',
+  title: 'Zarar ettirmeyen teklifler: her işi kalem kalem fiyatlayın',
+  description: 'Her teklifi kalem kalem hazırlayın, her kalemin risk seviyesini belirleyin ve gerçekçi bir fiyat aralığı alın. İşlerde para kaybetmeyi bırakın.',
   alternates: { canonical: '/tr/' },
 }
 

@@ -4,8 +4,8 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Guide // lowriskquotes',
-  description: 'Guide ai costi per artigiani e imprese edili in Italia. Bagno, cucina, tetto e come fare un preventivo.',
+  title: 'Guide ai costi edili 2026: fasce di prezzo voce per voce',
+  description: 'Costi 2026 di bagno, cucina, tetto e altro con fasce di prezzo voce per voce, e come fare un preventivo. Per artigiani e imprese edili in Italia.',
   alternates: { canonical: '/it/guides/' },
 }
 

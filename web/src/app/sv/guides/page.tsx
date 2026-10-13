@@ -4,8 +4,8 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Guider // lowriskquotes',
-  description: 'Kostnadsguider för hantverkare i Sverige. Badrum, kök, tak och hur man gör en offert.',
+  title: 'Kostnadsguider för hantverkare 2026: priser post för post',
+  description: 'Kostnader 2026 för badrum, kök, tak och mer med prisintervall post för post, och hur man gör en offert. Guider för hantverkare i Sverige.',
   alternates: { canonical: '/sv/guides/' },
 }
 

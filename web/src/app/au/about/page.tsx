@@ -3,8 +3,8 @@ import Link from 'next/link'
 import ASCIIBox from '@/components/ui/ASCIIBox'
 
 export const metadata: Metadata = {
-  title: 'about // lowriskquotes Australia',
-  description: 'Why do tradies lose money on quotes? Because surprises aren\'t priced in. LowRiskQuotes runs thousands of what-if scenarios to show you what jobs really cost — in AUD.',
+  title: 'About lowriskquotes Australia',
+  description: 'Why do tradies lose money on quotes? Because surprises aren\'t priced in. LowRiskQuotes runs thousands of scenarios to show what jobs really cost, in AUD.',
   alternates: { canonical: '/au/about/' },
 }
 

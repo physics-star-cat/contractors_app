@@ -6,8 +6,8 @@ import RecentEstimates from '@/components/home/RecentEstimates'
 import '../page.css'
 
 export const metadata: Metadata = {
-  title: 'lowriskquotes // tradie cost estimation Australia',
-  description: 'Stop losing money on quotes. Build your estimate line by line, set risk levels on each item, and get a realistic price range in AUD.',
+  title: 'Low-Risk Tradie Quotes: Price Every Job Line by Line',
+  description: 'Price every job line by line, set a risk level on each item, and get a realistic price range in AUD. Stop losing money on quotes.',
   alternates: { canonical: '/au/', languages: { 'en-AU': '/au/', 'en-CA': '/ca/', 'en-GB': '/', 'en-US': '/us/', 'x-default': '/' } },
 }
 

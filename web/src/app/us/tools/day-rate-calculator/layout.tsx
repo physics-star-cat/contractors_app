@@ -1,9 +1,9 @@
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'day rate calculator for contractors // lowriskquotes',
+  title: 'Day Rate Calculator: Hourly Rate to Daily and Yearly Pay',
   description:
-    'Calculate your day rate, weekly rate, and annual income from your hourly rate. Free tool for contractors.',
+    'Turn your hourly rate into a day rate, weekly rate and annual income in seconds. Free calculator for contractors.',
   alternates: { canonical: '/us/tools/day-rate-calculator/' },
 }
 

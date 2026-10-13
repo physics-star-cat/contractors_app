@@ -6,9 +6,9 @@ const UPDATED = '2026-10-03'
 const CONTACT_URL = 'https://github.com/physics-star-cat'
 
 export const metadata: Metadata = {
-  title: 'privacy // lowriskquotes',
+  title: 'Privacy Policy | lowriskquotes',
   description:
-    'lowriskquotes privacy policy: no accounts, Google Analytics on the website, anonymous event counts only on the API and MCP server, nothing you send is stored, no data sold.',
+    'lowriskquotes privacy policy: no accounts, Google Analytics on the site, anonymous event counts on the API and MCP server, nothing you send stored or sold.',
   alternates: { canonical: '/privacy/' },
 }
 

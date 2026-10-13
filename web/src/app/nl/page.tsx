@@ -5,8 +5,8 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import RecentEstimates from '@/components/home/RecentEstimates'
 
 export const metadata: Metadata = {
-  title: 'lowriskquotes // kostenraming voor aannemers',
-  description: 'Stop met geld verliezen op opdrachten. Bouw uw offerte post voor post op, stel risiconiveaus in per item en krijg een realistische prijsbandbreedte.',
+  title: 'Offertes zonder verlies voor aannemers, post voor post',
+  description: 'Bereken elke offerte post voor post, stel per item een risiconiveau in en krijg een realistische prijsbandbreedte. Stop met geld verliezen op opdrachten.',
   alternates: { canonical: '/nl/' },
 }
 

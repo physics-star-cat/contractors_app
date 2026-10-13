@@ -3,8 +3,8 @@ import Link from 'next/link'
 import ASCIIBox from '@/components/ui/ASCIIBox'
 
 export const metadata: Metadata = {
-  title: 'acerca de // lowriskquotes',
-  description: 'Por qué los contratistas pierden dinero en presupuestos? Porque los imprevistos no están incluidos. LowRiskQuotes calcula miles de escenarios para mostrar lo que los trabajos realmente cuestan.',
+  title: 'Acerca de lowriskquotes',
+  description: '¿Por qué los contratistas pierden dinero? Porque los imprevistos no se presupuestan. LowRiskQuotes calcula miles de escenarios para mostrar el coste real.',
   alternates: { canonical: '/es/about/' },
 }
 

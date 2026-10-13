@@ -1,9 +1,9 @@
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'markup vs margin calculator // lowriskquotes Canada',
+  title: 'Markup vs Margin Calculator (CAD): Stop Underpricing Jobs',
   description:
-    'Calculate the difference between markup and margin in CAD. Free calculator for Canadian contractors — stop losing money by confusing the two.',
+    'See markup and margin for any percentage side by side in CAD, so you never underprice a job by confusing the two. Free calculator for contractors.',
   alternates: { canonical: '/ca/tools/markup-vs-margin-calculator/' },
 }
 

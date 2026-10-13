@@ -6,8 +6,8 @@ import RecentEstimates from '@/components/home/RecentEstimates'
 import '../page.css'
 
 export const metadata: Metadata = {
-  title: 'lowriskquotes // kostnadsuppskattning för hantverkare',
-  description: 'Sluta förlora pengar på jobb. Bygg din offert post för post, ange risknivå för varje del och få ett realistiskt prisintervall i SEK.',
+  title: 'Offerter utan förlust: räkna varje jobb post för post',
+  description: 'Räkna varje offert post för post, ange risknivå för varje del och få ett realistiskt prisintervall i SEK. Sluta förlora pengar på jobb.',
   alternates: { canonical: '/sv/' },
 }
 

@@ -6,8 +6,8 @@ import RecentEstimates from '@/components/home/RecentEstimates'
 import '../page.css'
 
 export const metadata: Metadata = {
-  title: 'lowriskquotes // estimación de costes para contratistas',
-  description: 'Deja de perder dinero en tus trabajos. Crea tu presupuesto partida por partida, establece el nivel de riesgo de cada elemento y obtén un rango de precios realista.',
+  title: 'Presupuestos de obra sin pérdidas, partida por partida',
+  description: 'Calcula cada presupuesto partida por partida, fija el riesgo de cada elemento y obtén un rango de precios realista. Deja de perder dinero en tus obras.',
   alternates: { canonical: '/es/' },
 }
 

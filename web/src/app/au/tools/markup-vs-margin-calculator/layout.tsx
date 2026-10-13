@@ -1,9 +1,9 @@
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'markup vs margin calculator for australian tradies // lowriskquotes',
+  title: 'Markup vs Margin Calculator for Tradies: Stop Underpricing',
   description:
-    'Calculate the difference between markup and margin in AUD. Free calculator for Australian tradies — stop losing money by confusing the two.',
+    'See markup and margin for any percentage side by side in AUD, so you never underprice a job by confusing the two. Free calculator for tradies.',
   alternates: { canonical: '/au/tools/markup-vs-margin-calculator/' },
 }
 

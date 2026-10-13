@@ -4,8 +4,8 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../../guides/guides.css'
 
 export const metadata: Metadata = {
-  title: 'Rehberler // lowriskquotes',
-  description: 'Türk müteahhitler ve ustalar için maliyet tahmin rehberleri. Banyo, mutfak, çatı maliyetleri ve teklif hazırlama.',
+  title: 'Usta maliyet rehberleri 2026: kalem kalem fiyat aralıkları',
+  description: 'Banyo, mutfak ve çatı için 2026 maliyetleri, kalem kalem fiyat aralıklarıyla, ve teklif hazırlama. Türk müteahhitler ve ustalar için rehberler.',
   alternates: { canonical: '/tr/guides/' },
 }
 

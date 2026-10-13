@@ -6,8 +6,8 @@ import RecentEstimates from '@/components/home/RecentEstimates'
 import '../page.css'
 
 export const metadata: Metadata = {
-  title: 'lowriskquotes // estimation des coûts pour artisans',
-  description: 'Arrêtez de perdre de l\'argent sur vos chantiers. Construisez votre devis poste par poste, définissez le niveau de risque de chaque élément et obtenez une fourchette de prix réaliste.',
+  title: 'Devis fiables pour artisans : chiffrez poste par poste',
+  description: 'Chiffrez chaque devis poste par poste, fixez un niveau de risque par élément et obtenez une fourchette de prix réaliste. Ne perdez plus d\'argent.',
   alternates: { canonical: '/fr/' },
 }
 

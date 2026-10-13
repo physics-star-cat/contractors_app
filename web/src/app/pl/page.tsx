@@ -6,8 +6,8 @@ import RecentEstimates from '@/components/home/RecentEstimates'
 import '../page.css'
 
 export const metadata: Metadata = {
-  title: 'lowriskquotes // wycena kosztów dla wykonawców',
-  description: 'Przestań tracić pieniądze na zleceniach. Zbuduj wycenę pozycja po pozycji, ustaw poziom ryzyka dla każdego elementu i uzyskaj realistyczny zakres cen.',
+  title: 'Wyceny bez strat: licz każde zlecenie pozycja po pozycji',
+  description: 'Wyceniaj każde zlecenie pozycja po pozycji, ustaw poziom ryzyka dla każdego elementu i uzyskaj realistyczny zakres cen. Przestań tracić na zleceniach.',
   alternates: { canonical: '/pl/' },
 }
 

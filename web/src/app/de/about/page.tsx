@@ -3,8 +3,8 @@ import Link from 'next/link'
 import ASCIIBox from '@/components/ui/ASCIIBox'
 
 export const metadata: Metadata = {
-  title: 'über uns // lowriskquotes',
-  description: 'Warum verlieren Handwerker Geld bei Angeboten? Weil Überraschungen nicht eingepreist sind. LowRiskQuotes berechnet tausende Was-wäre-wenn-Szenarien und zeigt, was Aufträge wirklich kosten.',
+  title: 'Über lowriskquotes',
+  description: 'Warum Handwerker bei Angeboten Geld verlieren: Überraschungen sind nicht eingepreist. LowRiskQuotes rechnet tausende Szenarien und zeigt echte Kosten.',
   alternates: { canonical: '/de/about/' },
 }
 

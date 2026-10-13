@@ -11,14 +11,14 @@ const GA_ID = process.env.NEXT_PUBLIC_GA_ID
 
 export const metadata: Metadata = {
   title: 'Low-Risk Contractor Quotes: Price Every Job Line by Line',
-  description: 'Stop losing money on jobs. Realistic cost projections for kitchens, bathrooms, extensions, roofing and more — with built-in risk buffers so your quotes hold up.',
+  description: 'Realistic cost ranges for kitchens, bathrooms, extensions, roofing and more, with risk buffers so your quotes hold up. Stop losing money on jobs.',
   metadataBase: new URL('https://lowriskquotes.com'),
   alternates: {
     canonical: '/',
   },
   openGraph: {
     title: 'Low-Risk Contractor Quotes: Price Every Job Line by Line',
-    description: 'Stop losing money on jobs. Realistic cost projections for kitchens, bathrooms, extensions, roofing and more — with built-in risk buffers so your quotes hold up.',
+    description: 'Realistic cost ranges for kitchens, bathrooms, extensions, roofing and more, with risk buffers so your quotes hold up. Stop losing money on jobs.',
     siteName: 'lowriskquotes',
     type: 'website',
     images: [{ url: '/og-image.png', width: 1200, height: 630 }],
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Low-Risk Contractor Quotes: Price Every Job Line by Line',
-    description: 'Stop losing money on jobs. Realistic cost projections for kitchens, bathrooms, extensions, roofing and more — with built-in risk buffers so your quotes hold up.',
+    description: 'Realistic cost ranges for kitchens, bathrooms, extensions, roofing and more, with risk buffers so your quotes hold up. Stop losing money on jobs.',
     images: ['/og-image.png'],
   },
 }

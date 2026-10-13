@@ -6,8 +6,8 @@ import RecentEstimates from '@/components/home/RecentEstimates'
 import '../page.css'
 
 export const metadata: Metadata = {
-  title: 'lowriskquotes // Kostenkalkulation für Handwerker',
-  description: 'Kein Geld mehr bei Aufträgen verlieren. Erstellen Sie Ihr Angebot Position für Position, legen Sie Risikostufen fest und erhalten Sie eine realistische Preisspanne — nicht eine einzige Zahl, die nicht stimmt.',
+  title: 'Handwerker-Angebote ohne Verlust: Position für Position',
+  description: 'Kalkulieren Sie jedes Angebot Position für Position, mit Risikostufe je Posten, und erhalten Sie eine realistische Preisspanne statt einer falschen Zahl.',
   alternates: { canonical: '/de/' },
 }
 
