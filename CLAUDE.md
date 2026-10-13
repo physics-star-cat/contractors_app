@@ -131,8 +131,10 @@ import ASCIIBox from '@/components/ui/ASCIIBox'
 import '../guides.css'
 
 export const metadata: Metadata = {
-  title: 'your title // lowriskquotes',
-  description: 'SEO description',
+  // Outcome first, ≤60 chars, no "// lowriskquotes" suffix (owner rule, 2026-10-13):
+  // e.g. 'Bathroom Renovation Cost UK 2026: Line-by-Line Price Ranges'
+  title: '{Job} Cost {Country} 2026: Line-by-Line Price Ranges',
+  description: 'Realistic {job} costs in {country}: … (≤155 chars, outcome first)',
   alternates: { canonical: '/guides/your-guide-slug/' },
 }
 
