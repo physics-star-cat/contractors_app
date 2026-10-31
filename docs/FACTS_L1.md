@@ -13,6 +13,8 @@ https://databutler.dev/protocol/facts. Discovery: https://lowriskquotes.com/.wel
 | `uk-eng/building-regulations/exempt-conservatory-max-floor-area` | 30 m2 | Building Regulations 2010 Sch 2 Class 7, https://www.legislation.gov.uk/uksi/2010/2214/schedule/2 | conservatory guide |
 | `uk/gas-safety/gas-safe-registration-required` | rule | HSE domestic gas FAQs, https://www.hse.gov.uk/gas/domestic/faqs.htm | new-boiler guide |
 
+Keys follow spec §3.2: the three England-only rules use the ISO 3166-2 subdivision namespace `uk-eng` (as in `uk-sct/...`), and the GB-wide Gas Safe rule uses `uk`.
+
 All are `changeCadence: irregular`, `nextExpectedChange: null`: they move only when an amending
 statutory instrument is made, and there is no calendar for that. No `nextScheduledRefresh` is set,
 because nothing re-checks them automatically yet.
