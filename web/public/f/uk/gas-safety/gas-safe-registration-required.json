@@ -1,0 +1,21 @@
+{
+  "protocol": "verified-facts/0.3",
+  "key": "uk/gas-safety/gas-safe-registration-required",
+  "label": "Who may be employed to do gas work in domestic premises",
+  "value": "Anyone employed to work on gas appliances in domestic premises must be a Gas Safe registered engineer",
+  "unit": "rule",
+  "period": null,
+  "effectiveFrom": null,
+  "effectiveTo": null,
+  "source": "https://www.hse.gov.uk/gas/domestic/faqs.htm",
+  "quote": "Anyone employed to work on gas appliances in domestic premises must be a Gas Safe registered engineer and competent in that area of gas work.",
+  "verifiedDate": "2026-10-31",
+  "changeCadence": "irregular",
+  "nextExpectedChange": null,
+  "scope": "Great Britain (the Gas Safety (Installation and Use) Regulations 1998, regulation 3; Northern Ireland has its own regulations). Stated in the lowriskquotes new-boiler cost guide.",
+  "hash": "sha256:96e460bf12ddd9c4fce612a5a5597600295294e358fb74a5a8e532f853de6763",
+  "publisher": {
+    "name": "lowriskquotes",
+    "url": "https://lowriskquotes.com/"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "protocol": "verified-facts/0.3",
+  "key": "uk-eng/building-regulations/exempt-conservatory-max-floor-area",
+  "label": "Maximum floor area of a ground-level conservatory or porch extension exempt from the Building Regulations",
+  "value": 30,
+  "unit": "m2",
+  "period": null,
+  "effectiveFrom": "2010-10-01",
+  "effectiveTo": null,
+  "source": "https://www.legislation.gov.uk/uksi/2010/2214/schedule/2",
+  "quote": "CLASS 7 Extensions The extension of a building by the addition at ground level of— (a) a conservatory, porch, covered yard or covered way; or (b) a carport open on at least two sides; where the floor area of that extension does not exceed 30m2, provided that in the case of a conservatory or porch which is wholly or partly glazed, the glazing satisfies the requirements of … Part K4, K5.1, K5.2, K5.3, and K5.4 … Part N of Schedule 1.",
+  "verifiedDate": "2026-10-31",
+  "changeCadence": "irregular",
+  "nextExpectedChange": null,
+  "scope": "England. The Building Regulations 2010, Schedule 2 (exempt buildings and work), Class 7; the glazing must still satisfy the Schedule 1 requirements the quote names. Stated in the lowriskquotes conservatory cost guide.",
+  "hash": "sha256:ca5dd9589805d6a356daf89ea06601d9e8317498b0b6e4978607e7b6dc1cd9a6",
+  "publisher": {
+    "name": "lowriskquotes",
+    "url": "https://lowriskquotes.com/"
+  }
+}

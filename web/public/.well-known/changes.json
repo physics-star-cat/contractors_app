@@ -4,7 +4,8 @@
     "name": "lowriskquotes",
     "url": "https://lowriskquotes.com/"
   },
-  "updated": "2026-10-04",
+  "facts": "https://lowriskquotes.com/.well-known/facts.json",
+  "updated": "2026-10-31",
   "areas": [
     {
       "name": "drawdown-assumptions",

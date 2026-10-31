@@ -1,0 +1,49 @@
+{
+  "protocol": "verified-facts/0.3",
+  "publisher": {
+    "name": "lowriskquotes",
+    "url": "https://lowriskquotes.com/"
+  },
+  "conformance": "L1",
+  "updated": "2026-10-31",
+  "facts": {
+    "count": 4,
+    "get": "https://lowriskquotes.com/f/{key}.json",
+    "index": "https://lowriskquotes.com/f/index.json",
+    "digest": "sha256:813708ca65baea92876abd43cdbc0d9b74d39b053370dc268b5e4962621261d8",
+    "filtering": "client",
+    "examples": [
+      "uk-eng/permitted-development/front-garden-hard-surface-area",
+      "uk-eng/permitted-development/max-curtilage-coverage",
+      "uk-eng/building-regulations/exempt-conservatory-max-floor-area"
+    ]
+  },
+  "namespaces": [
+    {
+      "name": "uk-eng",
+      "description": "England householder planning (permitted development) and Building Regulations limits that lowriskquotes' UK cost guides state, each read from the statutory instrument on legislation.gov.uk",
+      "count": 3,
+      "cadence": "On change only: re-read on legislation.gov.uk when an amending statutory instrument is made and whenever the guides that state the figure are revised. No fixed calendar.",
+      "authorities": [
+        "www.legislation.gov.uk"
+      ],
+      "digest": "sha256:dd3ceafdc305af81a850e83b863f7f6a41fb890c7bf7d1304a0ffdcc5faf185e"
+    },
+    {
+      "name": "uk",
+      "description": "Great Britain gas-safety rules that lowriskquotes' UK cost guides state, read from the Health and Safety Executive",
+      "count": 1,
+      "cadence": "On change only: re-read on hse.gov.uk when the Gas Safety (Installation and Use) Regulations are amended and whenever the guides that state the rule are revised. No fixed calendar.",
+      "authorities": [
+        "www.hse.gov.uk"
+      ],
+      "digest": "sha256:e5ac0214aa7af706bfa356997c339b5950862b600c76e5ec0414528121313abc"
+    }
+  ],
+  "hash": "sha256/jcs",
+  "changes": "https://lowriskquotes.com/.well-known/changes.json",
+  "schema": "https://databutler.dev/schema/fact.v0.json",
+  "specification": "https://databutler.dev/protocol/facts",
+  "licence": "Free to reuse with attribution to lowriskquotes.com; each figure belongs to its official source and stays under that source's terms (legislation.gov.uk and hse.gov.uk: Open Government Licence v3.0).",
+  "contact": "https://github.com/physics-star-cat"
+}

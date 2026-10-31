@@ -1,0 +1,52 @@
+{
+  "protocol": "verified-facts/0.3",
+  "publisher": {
+    "name": "lowriskquotes",
+    "url": "https://lowriskquotes.com/"
+  },
+  "count": 4,
+  "generated": "2026-10-31",
+  "digest": "sha256:813708ca65baea92876abd43cdbc0d9b74d39b053370dc268b5e4962621261d8",
+  "facts": [
+    {
+      "key": "uk-eng/permitted-development/front-garden-hard-surface-area",
+      "label": "Front-garden hard surface area above which permitted development requires porous materials or drainage to a permeable area",
+      "unit": "m2",
+      "period": null,
+      "verifiedDate": "2026-10-31",
+      "changeCadence": "irregular",
+      "nextExpectedChange": null,
+      "hash": "sha256:ea9c235e963701ad69c5c9c0e7357c8edf16f7ef753a4f5f16077a0a78020c6c"
+    },
+    {
+      "key": "uk-eng/permitted-development/max-curtilage-coverage",
+      "label": "Maximum share of the curtilage that buildings other than the original house may cover after a permitted-development extension",
+      "unit": "%",
+      "period": null,
+      "verifiedDate": "2026-10-31",
+      "changeCadence": "irregular",
+      "nextExpectedChange": null,
+      "hash": "sha256:303adcc827e8ac874a1e6585a71bb6bf694613c9e3c591026855fe93e839fcf5"
+    },
+    {
+      "key": "uk-eng/building-regulations/exempt-conservatory-max-floor-area",
+      "label": "Maximum floor area of a ground-level conservatory or porch extension exempt from the Building Regulations",
+      "unit": "m2",
+      "period": null,
+      "verifiedDate": "2026-10-31",
+      "changeCadence": "irregular",
+      "nextExpectedChange": null,
+      "hash": "sha256:ca5dd9589805d6a356daf89ea06601d9e8317498b0b6e4978607e7b6dc1cd9a6"
+    },
+    {
+      "key": "uk/gas-safety/gas-safe-registration-required",
+      "label": "Who may be employed to do gas work in domestic premises",
+      "unit": "rule",
+      "period": null,
+      "verifiedDate": "2026-10-31",
+      "changeCadence": "irregular",
+      "nextExpectedChange": null,
+      "hash": "sha256:96e460bf12ddd9c4fce612a5a5597600295294e358fb74a5a8e532f853de6763"
+    }
+  ]
+}

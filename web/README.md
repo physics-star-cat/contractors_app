@@ -45,3 +45,7 @@ The site publishes its changelog under the [Verified Changes protocol](https://d
 Source of truth is `data/changes/changelog.json` (append-only entries; never edit or delete one, correct with a new entry) plus `data/changes/publisher.json` (discovery metadata). Run `npm run changes` to regenerate the two files in `public/`; `npm test` (also run before `next build`) validates both against the vendored schemas in `vendor/verified-changes/` and fails if `public/` is stale.
 
 Currently zero entries: the engines use no external data, and the drawdown return assumptions are fixed model choices with no official source, unchanged since 2026-08-30. The changes document carries a `note` saying so.
+
+## Verified Facts (verified-facts/0.3, L1)
+
+The official UK figures the guides state are published at `/.well-known/facts.json`, `/f/index.json` and `/f/<key>.json`. The source is `data/facts-source.json`. Run `npm run facts` to regenerate. `npm test` fails if the files are stale or the L1 check fails. Details and the adoption-cost measurement are in `../docs/FACTS_L1.md`.

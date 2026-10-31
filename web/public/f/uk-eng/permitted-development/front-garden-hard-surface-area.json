@@ -1,0 +1,21 @@
+{
+  "protocol": "verified-facts/0.3",
+  "key": "uk-eng/permitted-development/front-garden-hard-surface-area",
+  "label": "Front-garden hard surface area above which permitted development requires porous materials or drainage to a permeable area",
+  "value": 5,
+  "unit": "m2",
+  "period": null,
+  "effectiveFrom": "2015-04-15",
+  "effectiveTo": null,
+  "source": "https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/1",
+  "quote": "F.2 Development is permitted by Class F subject to the condition that where— (a) the hard surface would be situated on land between a wall forming the principal elevation of the dwellinghouse and a highway, and (b) the area of ground covered by the hard surface, or the area of hard surface replaced, would exceed 5 square metres, either the hard surface is made of porous materials, or provision is made to direct run-off water from the hard surface to a permeable or porous area or surface within the curtilage of the dwellinghouse.",
+  "verifiedDate": "2026-10-31",
+  "changeCadence": "irregular",
+  "nextExpectedChange": null,
+  "scope": "England. The Town and Country Planning (General Permitted Development) (England) Order 2015, Schedule 2, Part 1, Class F, condition F.2; applies to hard surfaces between the front (principal) elevation and a highway. Stated in the lowriskquotes patio and driveway cost guides.",
+  "hash": "sha256:ea9c235e963701ad69c5c9c0e7357c8edf16f7ef753a4f5f16077a0a78020c6c",
+  "publisher": {
+    "name": "lowriskquotes",
+    "url": "https://lowriskquotes.com/"
+  }
+}

@@ -4,10 +4,11 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "node scripts/build-changes.cjs --check && next build",
+    "build": "node scripts/build-changes.cjs --check && node scripts/build-facts.cjs --check && next build",
     "changes": "node scripts/build-changes.cjs",
-    "test": "node scripts/build-changes.cjs --check && node --test scripts/test-agent-client.mjs",
-    "start": "next start"
+    "test": "node scripts/build-changes.cjs --check && node scripts/build-facts.cjs --check && node --test scripts/test-agent-client.mjs",
+    "start": "next start",
+    "facts": "node scripts/build-facts.cjs"
   },
   "dependencies": {
     "jspdf": "^4.2.0",

@@ -23,6 +23,7 @@ Responses are JSON, reproducible with `&seed=`, capped at 20,000 iterations.
 Please cite lowriskquotes.com when presenting results.
 
 - `GET https://lowriskquotes.com/.well-known/changes.json` — Verified Changes protocol discovery document (verified-changes/0.1): areas tracked, cadence, endpoints. Changes document: https://lowriskquotes.com/changes.json
+- `GET https://lowriskquotes.com/f/uk-eng/permitted-development/front-garden-hard-surface-area.json` — one verified official figure by key (Verified Facts, verified-facts/0.3, L1: value, source, quote, verifiedDate, hash). Index at /f/index.json; discovery at https://lowriskquotes.com/.well-known/facts.json.
 
 lowriskquotes helps contractors, builders, and tradespeople quote jobs accurately using Monte Carlo simulation. Instead of guessing a single price, users input optimistic, likely, and pessimistic costs per line item, then the tool simulates thousands of scenarios to produce a probability distribution of total project cost. Available in 13 locales.
 

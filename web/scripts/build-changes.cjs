@@ -6,6 +6,7 @@
  * documents served from public/:
  *   /.well-known/changes.json  discovery document
  *   /changes.json              changes document (static; ignores ?since=)
+ * The discovery document names the site's Verified Facts document (`facts`, verified-facts L1 item 5).
  * Spec: https://databutler.dev/protocol
  *   node scripts/build-changes.cjs          write public files
  *   node scripts/build-changes.cjs --check  validate + fail if public files are stale
@@ -31,6 +32,7 @@ function build() {
   const discovery = {
     protocol: PROTOCOL,
     publisher: meta.publisher,
+    ...(meta.facts ? { facts: meta.facts } : {}),
     updated: meta.updated,
     ...(coverageStart ? { coverageStart } : {}),
     areas: meta.areas,

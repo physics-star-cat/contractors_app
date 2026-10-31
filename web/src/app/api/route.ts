@@ -39,6 +39,10 @@ export async function GET() {
       },
       'POST /api/mcp': 'Remote MCP server (streamable HTTP, stateless) exposing both tools.',
     },
+    facts:
+      'The official UK figures our guides state are published as Verified Facts ' +
+      '(https://databutler.dev/protocol/facts): discovery at https://lowriskquotes.com/.well-known/facts.json, ' +
+      'one record per key at https://lowriskquotes.com/f/{key}.json.',
     ...ATTRIBUTION,
   })
 }

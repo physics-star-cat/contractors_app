@@ -1,7 +1,11 @@
 {
-  "updated": "2026-10-04",
-  "note": "No entries yet. lowriskquotes publishes no externally sourced facts: its two Monte Carlo engines (three-point cost estimation and retirement drawdown) run on user inputs. The drawdown engine's capital-market assumptions (equity real return mean 5%, stdev 17%; bond real return mean 1.5%, stdev 6%; lognormal, annual steps) are fixed model choices disclosed in every /api/drawdown/ response, have not changed since the engine shipped on 2026-08-30, and are not read from an official source, so they are not itemised as verified changes. If they change, or are re-based on an authority's published figures, an entry will be appended here.",
-  "publisher": { "name": "lowriskquotes", "url": "https://lowriskquotes.com/" },
+  "updated": "2026-10-31",
+  "note": "No entries yet. The official figures lowriskquotes' UK guides state (England permitted-development and Building Regulations limits, the Gas Safe rule) are published as Verified Facts at https://lowriskquotes.com/.well-known/facts.json and none has changed since it was verified on 2026-10-31. Its two Monte Carlo engines (three-point cost estimation and retirement drawdown) run on user inputs. The drawdown engine's capital-market assumptions (equity real return mean 5%, stdev 17%; bond real return mean 1.5%, stdev 6%; lognormal, annual steps) are fixed model choices disclosed in every /api/drawdown/ response, have not changed since the engine shipped on 2026-08-30, and are not read from an official source, so they are not itemised as verified changes. If they change, or are re-based on an authority's published figures, an entry will be appended here.",
+  "publisher": {
+    "name": "lowriskquotes",
+    "url": "https://lowriskquotes.com/"
+  },
+  "facts": "https://lowriskquotes.com/.well-known/facts.json",
   "areas": [
     {
       "name": "drawdown-assumptions",
