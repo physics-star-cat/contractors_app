@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "node scripts/build-changes.cjs --check && next build",
     "changes": "node scripts/build-changes.cjs",
-    "test": "node scripts/build-changes.cjs --check",
+    "test": "node scripts/build-changes.cjs --check && node --test scripts/test-agent-client.mjs",
     "start": "next start"
   },
   "dependencies": {

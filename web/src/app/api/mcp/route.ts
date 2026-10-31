@@ -109,7 +109,7 @@ function callTool(name: string, args: Record<string, unknown>) {
   throw new Error(`unknown tool: ${name}`)
 }
 
-function handle(msg: RpcRequest) {
+function handle(msg: RpcRequest, req: NextRequest) {
   const id = msg.id ?? null
   switch (msg.method) {
     case 'initialize':
@@ -128,7 +128,7 @@ function handle(msg: RpcRequest) {
       return rpcResult(id, { tools: TOOLS })
     case 'tools/call': {
       const name = msg.params?.name as string
-      trackEvent(`agent_mcp_${String(name).slice(0, 28)}`)
+      trackEvent(`agent_mcp_${String(name).slice(0, 28)}`, req)
       const args = (msg.params?.arguments ?? {}) as Record<string, unknown>
       try {
         const result = callTool(name, args)
@@ -162,7 +162,7 @@ export async function POST(req: NextRequest) {
   if (msg.id === undefined && typeof msg.method === 'string' && msg.method.startsWith('notifications/')) {
     return new NextResponse(null, { status: 202, headers: CORS_HEADERS })
   }
-  return NextResponse.json(handle(msg), { headers: CORS_HEADERS })
+  return NextResponse.json(handle(msg, req), { headers: CORS_HEADERS })
 }
 
 export async function GET() {

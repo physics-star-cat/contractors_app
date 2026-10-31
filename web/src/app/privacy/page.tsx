@@ -68,15 +68,17 @@ export default function PrivacyPage() {
           When an AI agent or developer calls the REST API or an MCP tool
           (<code>monte_carlo_estimate</code>, <code>retirement_drawdown</code>), our code may
           send one event to GA4 via the Measurement Protocol so that we can see how much the
-          API is used. That event contains exactly two things:
+          API is used. That event contains exactly three things:
         </p>
         <p style={p}>
-          1. the event name (which endpoint or tool was called), and<br />
-          2. a random client id generated fresh for that single event.
+          1. the event name (which endpoint or tool was called),<br />
+          2. a broad client class worked out from the User-Agent header (such
+          as <code>claude</code>, <code>python</code> or <code>browser</code>), and<br />
+          3. a random client id generated fresh for that single event.
         </p>
         <p style={p}>
           The client id is not derived from you or your request and cannot be used to join
-          one call to another. We do not store IP addresses, user agents, API keys (there are
+          one call to another. We do not store IP addresses, the user agent itself, API keys (there are
           none) or any part of the request body. The numbers you send (cost ranges, portfolio
           size, annual spending, horizon, allocation, seed) exist only in memory for the
           milliseconds it takes to run the simulation, and are then discarded. Nothing is

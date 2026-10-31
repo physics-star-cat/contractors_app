@@ -7,8 +7,8 @@ export const dynamic = 'force-dynamic'
 
 type Payload = { items?: unknown; iterations?: unknown; seed?: unknown }
 
-function run(payload: Payload) {
-  trackEvent('agent_api_simulate')
+function run(payload: Payload, req: NextRequest) {
+  trackEvent('agent_api_simulate', req)
   const items = payload.items
   if (!Array.isArray(items)) throw new Error('items must be an array of {low, likely, high}')
   const iterations = payload.iterations === undefined ? undefined : Number(payload.iterations)
@@ -26,7 +26,7 @@ export async function GET(req: NextRequest) {
       items: JSON.parse(raw),
       iterations: sp.get('iterations') ?? undefined,
       seed: sp.get('seed') ?? undefined,
-    })
+    }, req)
   } catch (e) {
     return errorJson(e instanceof Error ? e.message : 'invalid request')
   }
@@ -34,7 +34,7 @@ export async function GET(req: NextRequest) {
 
 export async function POST(req: NextRequest) {
   try {
-    return run((await req.json()) as Payload)
+    return run((await req.json()) as Payload, req)
   } catch (e) {
     return errorJson(e instanceof Error ? e.message : 'invalid request')
   }

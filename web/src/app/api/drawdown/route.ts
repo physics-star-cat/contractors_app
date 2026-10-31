@@ -5,8 +5,8 @@ import { trackEvent } from '@/lib/track'
 
 export const dynamic = 'force-dynamic'
 
-function run(p: Record<string, unknown>) {
-  trackEvent('agent_api_drawdown')
+function run(p: Record<string, unknown>, req: NextRequest) {
+  trackEvent('agent_api_drawdown', req)
   const num = (k: string) => (p[k] === undefined || p[k] === null ? undefined : Number(p[k]))
   const result = simulateDrawdown({
     portfolio: num('portfolio') as number,
@@ -21,7 +21,7 @@ function run(p: Record<string, unknown>) {
 
 export async function GET(req: NextRequest) {
   try {
-    return run(Object.fromEntries(req.nextUrl.searchParams))
+    return run(Object.fromEntries(req.nextUrl.searchParams), req)
   } catch (e) {
     return errorJson(e instanceof Error ? e.message : 'invalid request')
   }
@@ -29,7 +29,7 @@ export async function GET(req: NextRequest) {
 
 export async function POST(req: NextRequest) {
   try {
-    return run((await req.json()) as Record<string, unknown>)
+    return run((await req.json()) as Record<string, unknown>, req)
   } catch (e) {
     return errorJson(e instanceof Error ? e.message : 'invalid request')
   }
